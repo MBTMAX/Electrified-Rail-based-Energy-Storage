@@ -1,5 +1,5 @@
 function [Power,Energy,ChangeofPower] = DEP_evaluation(TrainConfiguration,RegSet)
-%DTP_EVALUATION Deployable ERES power evaluation
+%DEP_EVALUATION Deployable ERES power evaluation
 % Input:
 %   TrainConfiguration:1*N structure:
 %       TrainPara:1*10 double
@@ -22,22 +22,22 @@ function [Power,Energy,ChangeofPower] = DEP_evaluation(TrainConfiguration,RegSet
 %       GuidanceXRef 1-row list     m
 %       GuidanceuRef 1-row list 
 %       Addmissiblet:1*2 double
-%           1 Start position        m
-%           2 End position      m
-%       Addmissiblex:1*2 double
 %           1 Start time        sdelta_t
 %           2 End time      s
+%       Addmissiblex:1*2 double
+%           1 Start position        m
+%           2 End position      m
 %   RegSet:1*5 cell:
-%       list_Trainindex: Index of trains participating in the ERES
+%       list_Trainindex: Index of ISOs participating in the ERES
 %       delta_t: Discrete time      s
 %       T_reg: Regulation deploying period     min
-%       Strategy: 1,Upward; 2,Downward
+%       Regulation direction: 1,Discharge; 2,Charge
 %       t_begin: Regulation start time     s
 
 % Output:
-%   Power: Deployable ERES power capacity  MW
-%   Energy: Deployable ERES energy  capacity  MWh
-%   ChangeofPower: Power adjustment of every train  MW
+%   Power: Deployable ERES power over the specified duration  MW
+%   Energy: Deployable ERES energy over the specified duration  MWh
+%   ChangeofPower: Power adjustment of every ISO  MW
 
 %% LP problem data preparation
 
@@ -243,11 +243,6 @@ for i=1:NumofTrain
                 TractionEnergy=MechEnergy(j-taub,1);
                 BrakingEnergy=MechEnergy(j-taub,2);
 
-                if BrakingEnergy ~= 0 
-                    Constraints=[Constraints,DPM(i,j)==0];
-                    continue
-                end
-
                 Constraints=[Constraints,delta_t*sum(DPM(i,taub+1:j))<=MecEnergyBound(j-taub,1),delta_t*sum(DPM(i,taub+1:j))>=MecEnergyBound(j-taub,2)];
                 
                 PMij=(TractionEnergy-BrakingEnergy)/delta_t;
@@ -385,11 +380,6 @@ for i=1:NumofTrain
             else
                 TractionEnergy=MechEnergy(j-taub,1);
                 BrakingEnergy=MechEnergy(j-taub,2);
-
-                if BrakingEnergy ~= 0 
-                    Constraints=[Constraints,DPM(i,j)==0];
-                    continue
-                end
 
                 Constraints=[Constraints,delta_t*sum(DPM(i,taub+1:j))<=MecEnergyBound(j-taub,1),delta_t*sum(DPM(i,taub+1:j))>=MecEnergyBound(j-taub,2)];
                 
