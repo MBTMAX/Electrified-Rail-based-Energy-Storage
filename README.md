@@ -32,8 +32,6 @@ research article.
 The complete model-ready dataset contains 2,688 self-contained regional
 timetable cases and is distributed separately because of its size.
 
-**Data repository:** [Zenodo](https://doi.org/10.5281/zenodo.21736268)
-
 The data are distributed across 12 ZIP archives, with 224 cases in each
 archive. Download and extract all 12 archives into the same destination to
 obtain the following layout:
