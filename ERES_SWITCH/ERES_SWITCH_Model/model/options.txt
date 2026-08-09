@@ -1,0 +1,28 @@
+# set default options for switch model
+
+# control logging and reporting
+--verbose
+--stream-solver
+--sorted-output
+
+# solver options
+# note: we have to use a pretty wide mipgap (0.01=1%) to get solutions in reasonable time
+# with discrete unit-commitment; using mipthreads=4 might also help
+# (could also specify timelimit=7200 to stop after two hours)
+#--solver=cplexamp --solver-options-string="mipgap=0.01 mipemphasis=4 nodefile=3 display=1 mipdisplay=2 threads=1 iisfind=1"
+##--solver-options-string="display=1 mipdisplay=1 threads=1 iisfind=1"
+##--suffixes iis
+## --solver=cplex --solver-io=nls
+## --solver-options-string="display=1 mipdisplay=1 iisfind=1 threads=1"
+--solver gurobi
+# --solver-options-string "threads=64 TimeLimit=3600"
+--solver-options-string "Method=2 TimeLimit=60000 NumericFocus=3 Crossover=0 BarHomogeneous=1 BarConvTol=1e-6 OptimalityTol=1e-4 FeasibilityTol=1e-5 OutputFlag=0"
+# --solver-options-string "threads=16 TimeLimit=1800"
+# --solver-options-string "threads=16 ScaleFlag=2 barHomogeneous=1"
+
+# use 3+5 reserve rules
+--spinning-requirement-rule "3+5"
+
+# use whole projects contingencies
+--project-contingency
+

@@ -1,0 +1,6 @@
+﻿PLANNING_RESERVE_REQUIREMENTS,prr_cap_reserve_margin,prr_enforcement_timescale
+NR_1.15peak,0.15,peak_load
+WR_1.15peak,0.15,peak_load
+SR_1.15peak,0.15,peak_load
+ER_1.15peak,0.15,peak_load
+NER_1.15peak,0.15,peak_load

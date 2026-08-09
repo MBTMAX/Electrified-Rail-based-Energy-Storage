@@ -1,0 +1,6 @@
+﻿LOAD_ZONE,zone_ccs_distance_km,zone_dbid,existing_local_td,local_td_annual_cost_per_mw,existing_tx_sunk_annual_payment,existing_local_td_sunk_annual_payment,zone_balancing_area,local_td_loss_rate
+NR,100,1,93108.93656,60000,0,4655446828,NR,0.053
+WR,100,2,89058.342,60000,0,4452917100,WR,0.053
+SR,100,3,74607.57231,60000,0,3730378616,SR,0.053
+ER,100,4,33846.18406,60000,0,1692309203,ER,0.053
+NER,100,5,4379.021119,60000,0,218951056,NER,0.053

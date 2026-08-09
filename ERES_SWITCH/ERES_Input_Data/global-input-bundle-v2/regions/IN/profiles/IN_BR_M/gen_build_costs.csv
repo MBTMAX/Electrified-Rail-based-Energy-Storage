@@ -1,0 +1,1783 @@
+GENERATION_PROJECT,build_year,gen_overnight_cost,gen_fixed_om,gen_storage_energy_overnight_cost
+NR-Chandigarh-Run-of-River_EP,2025,3241336,92000,.
+NR-Chandigarh-Run-of-River_EP,2035,3241336,92000,.
+NR-Chandigarh-Run-of-River_EP,2045,3111470,88000,.
+NR-Chandigarh-Run-of-River_EP,2022,3241336,92000,.
+NR-Chandigarh-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-Chandigarh-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-Chandigarh-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-Chandigarh-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-Chandigarh-Storage_EP,2025,3241336,92000,.
+NR-Chandigarh-Storage_EP,2035,3241336,92000,.
+NR-Chandigarh-Storage_EP,2045,3111470,88000,.
+NR-Chandigarh-Storage_EP,2022,3241336,92000,.
+NR-Chandigarh-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-Chandigarh-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-Chandigarh-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-Chandigarh-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-Chandigarh-PV,2025,1491641,21001,.
+NR-Chandigarh-PV,2035,895321,15022,.
+NR-Chandigarh-PV,2045,753705,13510,.
+NR-Chandigarh-PV_EP,2022,1491641,21001,.
+NR-Chandigarh-Onshore,2025,1569099,31251,.
+NR-Chandigarh-Onshore,2035,1344692,28261,.
+NR-Chandigarh-Onshore,2045,1188169,26256,.
+NR-Chandigarh-Onshore_EP,2022,1569099,31251,.
+NR-Chandigarh-Battery,2025,0,38777,427850.75
+NR-Chandigarh-Battery,2035,0,29997,336849
+NR-Chandigarh-Battery,2045,0,24986,284904.75
+NR-Delhi-Run-of-River_EP,2025,3241336,92000,.
+NR-Delhi-Run-of-River_EP,2035,3241336,92000,.
+NR-Delhi-Run-of-River_EP,2045,3111470,88000,.
+NR-Delhi-Run-of-River_EP,2022,3241336,92000,.
+NR-Delhi-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-Delhi-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-Delhi-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-Delhi-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-Delhi-Storage_EP,2025,3241336,92000,.
+NR-Delhi-Storage_EP,2035,3241336,92000,.
+NR-Delhi-Storage_EP,2045,3111470,88000,.
+NR-Delhi-Storage_EP,2022,3241336,92000,.
+NR-Delhi-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-Delhi-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-Delhi-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-Delhi-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-Delhi-PV,2025,1491641,21001,.
+NR-Delhi-PV,2035,895321,15022,.
+NR-Delhi-PV,2045,753705,13510,.
+NR-Delhi-PV_EP,2022,1491641,21001,.
+NR-Delhi-Onshore,2025,1569099,31251,.
+NR-Delhi-Onshore,2035,1344692,28261,.
+NR-Delhi-Onshore,2045,1188169,26256,.
+NR-Delhi-Onshore_EP,2022,1569099,31251,.
+NR-Delhi-Battery,2025,0,38777,427850.75
+NR-Delhi-Battery,2035,0,29997,336849
+NR-Delhi-Battery,2045,0,24986,284904.75
+NR-Haryana-Run-of-River_EP,2025,3241336,92000,.
+NR-Haryana-Run-of-River_EP,2035,3241336,92000,.
+NR-Haryana-Run-of-River_EP,2045,3111470,88000,.
+NR-Haryana-Run-of-River_EP,2022,3241336,92000,.
+NR-Haryana-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-Haryana-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-Haryana-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-Haryana-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-Haryana-Storage_EP,2025,3241336,92000,.
+NR-Haryana-Storage_EP,2035,3241336,92000,.
+NR-Haryana-Storage_EP,2045,3111470,88000,.
+NR-Haryana-Storage_EP,2022,3241336,92000,.
+NR-Haryana-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-Haryana-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-Haryana-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-Haryana-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-Haryana-PV,2025,1491641,21001,.
+NR-Haryana-PV,2035,895321,15022,.
+NR-Haryana-PV,2045,753705,13510,.
+NR-Haryana-PV_EP,2022,1491641,21001,.
+NR-Haryana-Onshore,2025,1569099,31251,.
+NR-Haryana-Onshore,2035,1344692,28261,.
+NR-Haryana-Onshore,2045,1188169,26256,.
+NR-Haryana-Onshore_EP,2022,1569099,31251,.
+NR-Haryana-Battery,2025,0,38777,427850.75
+NR-Haryana-Battery,2035,0,29997,336849
+NR-Haryana-Battery,2045,0,24986,284904.75
+NR-HimachalPradesh-Run-of-River_EP,2025,3241336,92000,.
+NR-HimachalPradesh-Run-of-River_EP,2035,3241336,92000,.
+NR-HimachalPradesh-Run-of-River_EP,2045,3111470,88000,.
+NR-HimachalPradesh-Run-of-River_EP,2022,3241336,92000,.
+NR-HimachalPradesh-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-HimachalPradesh-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-HimachalPradesh-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-HimachalPradesh-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-HimachalPradesh-Storage_EP,2025,3241336,92000,.
+NR-HimachalPradesh-Storage_EP,2035,3241336,92000,.
+NR-HimachalPradesh-Storage_EP,2045,3111470,88000,.
+NR-HimachalPradesh-Storage_EP,2022,3241336,92000,.
+NR-HimachalPradesh-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-HimachalPradesh-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-HimachalPradesh-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-HimachalPradesh-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-HimachalPradesh-PV,2025,1491641,21001,.
+NR-HimachalPradesh-PV,2035,895321,15022,.
+NR-HimachalPradesh-PV,2045,753705,13510,.
+NR-HimachalPradesh-PV_EP,2022,1491641,21001,.
+NR-HimachalPradesh-Onshore,2025,1569099,31251,.
+NR-HimachalPradesh-Onshore,2035,1344692,28261,.
+NR-HimachalPradesh-Onshore,2045,1188169,26256,.
+NR-HimachalPradesh-Onshore_EP,2022,1569099,31251,.
+NR-HimachalPradesh-Battery,2025,0,38777,427850.75
+NR-HimachalPradesh-Battery,2035,0,29997,336849
+NR-HimachalPradesh-Battery,2045,0,24986,284904.75
+NR-JammuandKashmir-Run-of-River_EP,2025,3241336,92000,.
+NR-JammuandKashmir-Run-of-River_EP,2035,3241336,92000,.
+NR-JammuandKashmir-Run-of-River_EP,2045,3111470,88000,.
+NR-JammuandKashmir-Run-of-River_EP,2022,3241336,92000,.
+NR-JammuandKashmir-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-JammuandKashmir-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-JammuandKashmir-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-JammuandKashmir-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-JammuandKashmir-Storage_EP,2025,3241336,92000,.
+NR-JammuandKashmir-Storage_EP,2035,3241336,92000,.
+NR-JammuandKashmir-Storage_EP,2045,3111470,88000,.
+NR-JammuandKashmir-Storage_EP,2022,3241336,92000,.
+NR-JammuandKashmir-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-JammuandKashmir-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-JammuandKashmir-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-JammuandKashmir-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-JammuandKashmir-PV,2025,1491641,21001,.
+NR-JammuandKashmir-PV,2035,895321,15022,.
+NR-JammuandKashmir-PV,2045,753705,13510,.
+NR-JammuandKashmir-PV_EP,2022,1491641,21001,.
+NR-JammuandKashmir-Onshore,2025,1569099,31251,.
+NR-JammuandKashmir-Onshore,2035,1344692,28261,.
+NR-JammuandKashmir-Onshore,2045,1188169,26256,.
+NR-JammuandKashmir-Onshore_EP,2022,1569099,31251,.
+NR-JammuandKashmir-Battery,2025,0,38777,427850.75
+NR-JammuandKashmir-Battery,2035,0,29997,336849
+NR-JammuandKashmir-Battery,2045,0,24986,284904.75
+NR-Punjab-Run-of-River_EP,2025,3241336,92000,.
+NR-Punjab-Run-of-River_EP,2035,3241336,92000,.
+NR-Punjab-Run-of-River_EP,2045,3111470,88000,.
+NR-Punjab-Run-of-River_EP,2022,3241336,92000,.
+NR-Punjab-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-Punjab-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-Punjab-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-Punjab-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-Punjab-Storage_EP,2025,3241336,92000,.
+NR-Punjab-Storage_EP,2035,3241336,92000,.
+NR-Punjab-Storage_EP,2045,3111470,88000,.
+NR-Punjab-Storage_EP,2022,3241336,92000,.
+NR-Punjab-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-Punjab-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-Punjab-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-Punjab-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-Punjab-PV,2025,1491641,21001,.
+NR-Punjab-PV,2035,895321,15022,.
+NR-Punjab-PV,2045,753705,13510,.
+NR-Punjab-PV_EP,2022,1491641,21001,.
+NR-Punjab-Onshore,2025,1569099,31251,.
+NR-Punjab-Onshore,2035,1344692,28261,.
+NR-Punjab-Onshore,2045,1188169,26256,.
+NR-Punjab-Onshore_EP,2022,1569099,31251,.
+NR-Punjab-Battery,2025,0,38777,427850.75
+NR-Punjab-Battery,2035,0,29997,336849
+NR-Punjab-Battery,2045,0,24986,284904.75
+NR-Rajasthan-Run-of-River_EP,2025,3241336,92000,.
+NR-Rajasthan-Run-of-River_EP,2035,3241336,92000,.
+NR-Rajasthan-Run-of-River_EP,2045,3111470,88000,.
+NR-Rajasthan-Run-of-River_EP,2022,3241336,92000,.
+NR-Rajasthan-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-Rajasthan-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-Rajasthan-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-Rajasthan-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-Rajasthan-Storage_EP,2025,3241336,92000,.
+NR-Rajasthan-Storage_EP,2035,3241336,92000,.
+NR-Rajasthan-Storage_EP,2045,3111470,88000,.
+NR-Rajasthan-Storage_EP,2022,3241336,92000,.
+NR-Rajasthan-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-Rajasthan-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-Rajasthan-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-Rajasthan-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-Rajasthan-PV,2025,1491641,21001,.
+NR-Rajasthan-PV,2035,895321,15022,.
+NR-Rajasthan-PV,2045,753705,13510,.
+NR-Rajasthan-PV_EP,2022,1491641,21001,.
+NR-Rajasthan-Onshore,2025,1569099,31251,.
+NR-Rajasthan-Onshore,2035,1344692,28261,.
+NR-Rajasthan-Onshore,2045,1188169,26256,.
+NR-Rajasthan-Onshore_EP,2022,1569099,31251,.
+NR-Rajasthan-Battery,2025,0,38777,427850.75
+NR-Rajasthan-Battery,2035,0,29997,336849
+NR-Rajasthan-Battery,2045,0,24986,284904.75
+NR-Uttarakhand-Run-of-River_EP,2025,3241336,92000,.
+NR-Uttarakhand-Run-of-River_EP,2035,3241336,92000,.
+NR-Uttarakhand-Run-of-River_EP,2045,3111470,88000,.
+NR-Uttarakhand-Run-of-River_EP,2022,3241336,92000,.
+NR-Uttarakhand-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-Uttarakhand-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-Uttarakhand-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-Uttarakhand-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-Uttarakhand-Storage_EP,2025,3241336,92000,.
+NR-Uttarakhand-Storage_EP,2035,3241336,92000,.
+NR-Uttarakhand-Storage_EP,2045,3111470,88000,.
+NR-Uttarakhand-Storage_EP,2022,3241336,92000,.
+NR-Uttarakhand-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-Uttarakhand-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-Uttarakhand-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-Uttarakhand-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-Uttarakhand-PV,2025,1491641,21001,.
+NR-Uttarakhand-PV,2035,895321,15022,.
+NR-Uttarakhand-PV,2045,753705,13510,.
+NR-Uttarakhand-PV_EP,2022,1491641,21001,.
+NR-Uttarakhand-Onshore,2025,1569099,31251,.
+NR-Uttarakhand-Onshore,2035,1344692,28261,.
+NR-Uttarakhand-Onshore,2045,1188169,26256,.
+NR-Uttarakhand-Onshore_EP,2022,1569099,31251,.
+NR-Uttarakhand-Battery,2025,0,38777,427850.75
+NR-Uttarakhand-Battery,2035,0,29997,336849
+NR-Uttarakhand-Battery,2045,0,24986,284904.75
+NR-UttarPradesh-Run-of-River_EP,2025,3241336,92000,.
+NR-UttarPradesh-Run-of-River_EP,2035,3241336,92000,.
+NR-UttarPradesh-Run-of-River_EP,2045,3111470,88000,.
+NR-UttarPradesh-Run-of-River_EP,2022,3241336,92000,.
+NR-UttarPradesh-RoR-with Pondage_EP,2025,3241336,92000,.
+NR-UttarPradesh-RoR-with Pondage_EP,2035,3241336,92000,.
+NR-UttarPradesh-RoR-with Pondage_EP,2045,3111470,88000,.
+NR-UttarPradesh-RoR-with Pondage_EP,2022,3241336,92000,.
+NR-UttarPradesh-Storage_EP,2025,3241336,92000,.
+NR-UttarPradesh-Storage_EP,2035,3241336,92000,.
+NR-UttarPradesh-Storage_EP,2045,3111470,88000,.
+NR-UttarPradesh-Storage_EP,2022,3241336,92000,.
+NR-UttarPradesh-Pumped Storage_EP,2025,0,20150,244774.5806
+NR-UttarPradesh-Pumped Storage_EP,2035,0,20150,244774.5806
+NR-UttarPradesh-Pumped Storage_EP,2045,0,20150,244774.5806
+NR-UttarPradesh-Pumped Storage_EP,2022,0,20150,244774.5806
+NR-UttarPradesh-PV,2025,1491641,21001,.
+NR-UttarPradesh-PV,2035,895321,15022,.
+NR-UttarPradesh-PV,2045,753705,13510,.
+NR-UttarPradesh-PV_EP,2022,1491641,21001,.
+NR-UttarPradesh-Onshore,2025,1569099,31251,.
+NR-UttarPradesh-Onshore,2035,1344692,28261,.
+NR-UttarPradesh-Onshore,2045,1188169,26256,.
+NR-UttarPradesh-Onshore_EP,2022,1569099,31251,.
+NR-UttarPradesh-Battery,2025,0,38777,427850.75
+NR-UttarPradesh-Battery,2035,0,29997,336849
+NR-UttarPradesh-Battery,2045,0,24986,284904.75
+WR-Chhatisgarh-Run-of-River_EP,2025,3241336,92000,.
+WR-Chhatisgarh-Run-of-River_EP,2035,3241336,92000,.
+WR-Chhatisgarh-Run-of-River_EP,2045,3111470,88000,.
+WR-Chhatisgarh-Run-of-River_EP,2022,3241336,92000,.
+WR-Chhatisgarh-RoR-with Pondage_EP,2025,3241336,92000,.
+WR-Chhatisgarh-RoR-with Pondage_EP,2035,3241336,92000,.
+WR-Chhatisgarh-RoR-with Pondage_EP,2045,3111470,88000,.
+WR-Chhatisgarh-RoR-with Pondage_EP,2022,3241336,92000,.
+WR-Chhatisgarh-Storage_EP,2025,3241336,92000,.
+WR-Chhatisgarh-Storage_EP,2035,3241336,92000,.
+WR-Chhatisgarh-Storage_EP,2045,3111470,88000,.
+WR-Chhatisgarh-Storage_EP,2022,3241336,92000,.
+WR-Chhatisgarh-Pumped Storage_EP,2025,0,20150,244774.5806
+WR-Chhatisgarh-Pumped Storage_EP,2035,0,20150,244774.5806
+WR-Chhatisgarh-Pumped Storage_EP,2045,0,20150,244774.5806
+WR-Chhatisgarh-Pumped Storage_EP,2022,0,20150,244774.5806
+WR-Chhatisgarh-PV,2025,1491641,21001,.
+WR-Chhatisgarh-PV,2035,895321,15022,.
+WR-Chhatisgarh-PV,2045,753705,13510,.
+WR-Chhatisgarh-PV_EP,2022,1491641,21001,.
+WR-Chhatisgarh-Onshore,2025,1569099,31251,.
+WR-Chhatisgarh-Onshore,2035,1344692,28261,.
+WR-Chhatisgarh-Onshore,2045,1188169,26256,.
+WR-Chhatisgarh-Onshore_EP,2022,1569099,31251,.
+WR-Chhatisgarh-Battery,2025,0,38777,427850.75
+WR-Chhatisgarh-Battery,2035,0,29997,336849
+WR-Chhatisgarh-Battery,2045,0,24986,284904.75
+WR-Goa-Run-of-River_EP,2025,3241336,92000,.
+WR-Goa-Run-of-River_EP,2035,3241336,92000,.
+WR-Goa-Run-of-River_EP,2045,3111470,88000,.
+WR-Goa-Run-of-River_EP,2022,3241336,92000,.
+WR-Goa-RoR-with Pondage_EP,2025,3241336,92000,.
+WR-Goa-RoR-with Pondage_EP,2035,3241336,92000,.
+WR-Goa-RoR-with Pondage_EP,2045,3111470,88000,.
+WR-Goa-RoR-with Pondage_EP,2022,3241336,92000,.
+WR-Goa-Storage_EP,2025,3241336,92000,.
+WR-Goa-Storage_EP,2035,3241336,92000,.
+WR-Goa-Storage_EP,2045,3111470,88000,.
+WR-Goa-Storage_EP,2022,3241336,92000,.
+WR-Goa-Pumped Storage_EP,2025,0,20150,244774.5806
+WR-Goa-Pumped Storage_EP,2035,0,20150,244774.5806
+WR-Goa-Pumped Storage_EP,2045,0,20150,244774.5806
+WR-Goa-Pumped Storage_EP,2022,0,20150,244774.5806
+WR-Goa-PV,2025,1491641,21001,.
+WR-Goa-PV,2035,895321,15022,.
+WR-Goa-PV,2045,753705,13510,.
+WR-Goa-PV_EP,2022,1491641,21001,.
+WR-Goa-Onshore,2025,1569099,31251,.
+WR-Goa-Onshore,2035,1344692,28261,.
+WR-Goa-Onshore,2045,1188169,26256,.
+WR-Goa-Onshore_EP,2022,1569099,31251,.
+WR-Goa-Battery,2025,0,38777,427850.75
+WR-Goa-Battery,2035,0,29997,336849
+WR-Goa-Battery,2045,0,24986,284904.75
+WR-Gujarat-Run-of-River_EP,2025,3241336,92000,.
+WR-Gujarat-Run-of-River_EP,2035,3241336,92000,.
+WR-Gujarat-Run-of-River_EP,2045,3111470,88000,.
+WR-Gujarat-Run-of-River_EP,2022,3241336,92000,.
+WR-Gujarat-RoR-with Pondage_EP,2025,3241336,92000,.
+WR-Gujarat-RoR-with Pondage_EP,2035,3241336,92000,.
+WR-Gujarat-RoR-with Pondage_EP,2045,3111470,88000,.
+WR-Gujarat-RoR-with Pondage_EP,2022,3241336,92000,.
+WR-Gujarat-Storage_EP,2025,3241336,92000,.
+WR-Gujarat-Storage_EP,2035,3241336,92000,.
+WR-Gujarat-Storage_EP,2045,3111470,88000,.
+WR-Gujarat-Storage_EP,2022,3241336,92000,.
+WR-Gujarat-Pumped Storage_EP,2025,0,20150,244774.5806
+WR-Gujarat-Pumped Storage_EP,2035,0,20150,244774.5806
+WR-Gujarat-Pumped Storage_EP,2045,0,20150,244774.5806
+WR-Gujarat-Pumped Storage_EP,2022,0,20150,244774.5806
+WR-Gujarat-PV,2025,1491641,21001,.
+WR-Gujarat-PV,2035,895321,15022,.
+WR-Gujarat-PV,2045,753705,13510,.
+WR-Gujarat-PV_EP,2022,1491641,21001,.
+WR-Gujarat-Onshore,2025,1569099,31251,.
+WR-Gujarat-Onshore,2035,1344692,28261,.
+WR-Gujarat-Onshore,2045,1188169,26256,.
+WR-Gujarat-Onshore_EP,2022,1569099,31251,.
+WR-Gujarat-Offshore,2025,5877079,84270,.
+WR-Gujarat-Offshore,2035,3435322,74181,.
+WR-Gujarat-Offshore,2045,3208853,68141,.
+WR-Gujarat-Offshore_EP,2022,5877079,84270,.
+WR-Gujarat-Battery,2025,0,38777,427850.75
+WR-Gujarat-Battery,2035,0,29997,336849
+WR-Gujarat-Battery,2045,0,24986,284904.75
+WR-MadhyaPradesh-Run-of-River_EP,2025,3241336,92000,.
+WR-MadhyaPradesh-Run-of-River_EP,2035,3241336,92000,.
+WR-MadhyaPradesh-Run-of-River_EP,2045,3111470,88000,.
+WR-MadhyaPradesh-Run-of-River_EP,2022,3241336,92000,.
+WR-MadhyaPradesh-RoR-with Pondage_EP,2025,3241336,92000,.
+WR-MadhyaPradesh-RoR-with Pondage_EP,2035,3241336,92000,.
+WR-MadhyaPradesh-RoR-with Pondage_EP,2045,3111470,88000,.
+WR-MadhyaPradesh-RoR-with Pondage_EP,2022,3241336,92000,.
+WR-MadhyaPradesh-Storage_EP,2025,3241336,92000,.
+WR-MadhyaPradesh-Storage_EP,2035,3241336,92000,.
+WR-MadhyaPradesh-Storage_EP,2045,3111470,88000,.
+WR-MadhyaPradesh-Storage_EP,2022,3241336,92000,.
+WR-MadhyaPradesh-Pumped Storage_EP,2025,0,20150,244774.5806
+WR-MadhyaPradesh-Pumped Storage_EP,2035,0,20150,244774.5806
+WR-MadhyaPradesh-Pumped Storage_EP,2045,0,20150,244774.5806
+WR-MadhyaPradesh-Pumped Storage_EP,2022,0,20150,244774.5806
+WR-MadhyaPradesh-PV,2025,1491641,21001,.
+WR-MadhyaPradesh-PV,2035,895321,15022,.
+WR-MadhyaPradesh-PV,2045,753705,13510,.
+WR-MadhyaPradesh-PV_EP,2022,1491641,21001,.
+WR-MadhyaPradesh-Onshore,2025,1569099,31251,.
+WR-MadhyaPradesh-Onshore,2035,1344692,28261,.
+WR-MadhyaPradesh-Onshore,2045,1188169,26256,.
+WR-MadhyaPradesh-Onshore_EP,2022,1569099,31251,.
+WR-MadhyaPradesh-Battery,2025,0,38777,427850.75
+WR-MadhyaPradesh-Battery,2035,0,29997,336849
+WR-MadhyaPradesh-Battery,2045,0,24986,284904.75
+WR-Maharashtra-Run-of-River_EP,2025,3241336,92000,.
+WR-Maharashtra-Run-of-River_EP,2035,3241336,92000,.
+WR-Maharashtra-Run-of-River_EP,2045,3111470,88000,.
+WR-Maharashtra-Run-of-River_EP,2022,3241336,92000,.
+WR-Maharashtra-RoR-with Pondage_EP,2025,3241336,92000,.
+WR-Maharashtra-RoR-with Pondage_EP,2035,3241336,92000,.
+WR-Maharashtra-RoR-with Pondage_EP,2045,3111470,88000,.
+WR-Maharashtra-RoR-with Pondage_EP,2022,3241336,92000,.
+WR-Maharashtra-Storage_EP,2025,3241336,92000,.
+WR-Maharashtra-Storage_EP,2035,3241336,92000,.
+WR-Maharashtra-Storage_EP,2045,3111470,88000,.
+WR-Maharashtra-Storage_EP,2022,3241336,92000,.
+WR-Maharashtra-Pumped Storage_EP,2025,0,20150,244774.5806
+WR-Maharashtra-Pumped Storage_EP,2035,0,20150,244774.5806
+WR-Maharashtra-Pumped Storage_EP,2045,0,20150,244774.5806
+WR-Maharashtra-Pumped Storage_EP,2022,0,20150,244774.5806
+WR-Maharashtra-PV,2025,1491641,21001,.
+WR-Maharashtra-PV,2035,895321,15022,.
+WR-Maharashtra-PV,2045,753705,13510,.
+WR-Maharashtra-PV_EP,2022,1491641,21001,.
+WR-Maharashtra-Onshore,2025,1569099,31251,.
+WR-Maharashtra-Onshore,2035,1344692,28261,.
+WR-Maharashtra-Onshore,2045,1188169,26256,.
+WR-Maharashtra-Onshore_EP,2022,1569099,31251,.
+WR-Maharashtra-Offshore,2025,5877079,84270,.
+WR-Maharashtra-Offshore,2035,3435322,74181,.
+WR-Maharashtra-Offshore,2045,3208853,68141,.
+WR-Maharashtra-Offshore_EP,2022,5877079,84270,.
+WR-Maharashtra-Battery,2025,0,38777,427850.75
+WR-Maharashtra-Battery,2035,0,29997,336849
+WR-Maharashtra-Battery,2045,0,24986,284904.75
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2025,3241336,92000,.
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2035,3241336,92000,.
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2045,3111470,88000,.
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2022,3241336,92000,.
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2025,3241336,92000,.
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2035,3241336,92000,.
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2045,3111470,88000,.
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2022,3241336,92000,.
+SR-AndhraPradeshandTelangana-Storage_EP,2025,3241336,92000,.
+SR-AndhraPradeshandTelangana-Storage_EP,2035,3241336,92000,.
+SR-AndhraPradeshandTelangana-Storage_EP,2045,3111470,88000,.
+SR-AndhraPradeshandTelangana-Storage_EP,2022,3241336,92000,.
+SR-AndhraPradeshandTelangana-Pumped Storage_EP,2025,0,20150,244774.5806
+SR-AndhraPradeshandTelangana-Pumped Storage_EP,2035,0,20150,244774.5806
+SR-AndhraPradeshandTelangana-Pumped Storage_EP,2045,0,20150,244774.5806
+SR-AndhraPradeshandTelangana-Pumped Storage_EP,2022,0,20150,244774.5806
+SR-AndhraPradeshandTelangana-PV,2025,1491641,21001,.
+SR-AndhraPradeshandTelangana-PV,2035,895321,15022,.
+SR-AndhraPradeshandTelangana-PV,2045,753705,13510,.
+SR-AndhraPradeshandTelangana-PV_EP,2022,1491641,21001,.
+SR-AndhraPradeshandTelangana-Onshore,2025,1569099,31251,.
+SR-AndhraPradeshandTelangana-Onshore,2035,1344692,28261,.
+SR-AndhraPradeshandTelangana-Onshore,2045,1188169,26256,.
+SR-AndhraPradeshandTelangana-Onshore_EP,2022,1569099,31251,.
+SR-AndhraPradeshandTelangana-Offshore,2025,5877079,84270,.
+SR-AndhraPradeshandTelangana-Offshore,2035,3435322,74181,.
+SR-AndhraPradeshandTelangana-Offshore,2045,3208853,68141,.
+SR-AndhraPradeshandTelangana-Offshore_EP,2022,5877079,84270,.
+SR-AndhraPradeshandTelangana-Battery,2025,0,38777,427850.75
+SR-AndhraPradeshandTelangana-Battery,2035,0,29997,336849
+SR-AndhraPradeshandTelangana-Battery,2045,0,24986,284904.75
+SR-Karnataka-Run-of-River_EP,2025,3241336,92000,.
+SR-Karnataka-Run-of-River_EP,2035,3241336,92000,.
+SR-Karnataka-Run-of-River_EP,2045,3111470,88000,.
+SR-Karnataka-Run-of-River_EP,2022,3241336,92000,.
+SR-Karnataka-RoR-with Pondage_EP,2025,3241336,92000,.
+SR-Karnataka-RoR-with Pondage_EP,2035,3241336,92000,.
+SR-Karnataka-RoR-with Pondage_EP,2045,3111470,88000,.
+SR-Karnataka-RoR-with Pondage_EP,2022,3241336,92000,.
+SR-Karnataka-Storage_EP,2025,3241336,92000,.
+SR-Karnataka-Storage_EP,2035,3241336,92000,.
+SR-Karnataka-Storage_EP,2045,3111470,88000,.
+SR-Karnataka-Storage_EP,2022,3241336,92000,.
+SR-Karnataka-Pumped Storage_EP,2025,0,20150,244774.5806
+SR-Karnataka-Pumped Storage_EP,2035,0,20150,244774.5806
+SR-Karnataka-Pumped Storage_EP,2045,0,20150,244774.5806
+SR-Karnataka-Pumped Storage_EP,2022,0,20150,244774.5806
+SR-Karnataka-PV,2025,1491641,21001,.
+SR-Karnataka-PV,2035,895321,15022,.
+SR-Karnataka-PV,2045,753705,13510,.
+SR-Karnataka-PV_EP,2022,1491641,21001,.
+SR-Karnataka-Onshore,2025,1569099,31251,.
+SR-Karnataka-Onshore,2035,1344692,28261,.
+SR-Karnataka-Onshore,2045,1188169,26256,.
+SR-Karnataka-Onshore_EP,2022,1569099,31251,.
+SR-Karnataka-Offshore,2025,5877079,84270,.
+SR-Karnataka-Offshore,2035,3435322,74181,.
+SR-Karnataka-Offshore,2045,3208853,68141,.
+SR-Karnataka-Offshore_EP,2022,5877079,84270,.
+SR-Karnataka-Battery,2025,0,38777,427850.75
+SR-Karnataka-Battery,2035,0,29997,336849
+SR-Karnataka-Battery,2045,0,24986,284904.75
+SR-Kerala-Run-of-River_EP,2025,3241336,92000,.
+SR-Kerala-Run-of-River_EP,2035,3241336,92000,.
+SR-Kerala-Run-of-River_EP,2045,3111470,88000,.
+SR-Kerala-Run-of-River_EP,2022,3241336,92000,.
+SR-Kerala-RoR-with Pondage_EP,2025,3241336,92000,.
+SR-Kerala-RoR-with Pondage_EP,2035,3241336,92000,.
+SR-Kerala-RoR-with Pondage_EP,2045,3111470,88000,.
+SR-Kerala-RoR-with Pondage_EP,2022,3241336,92000,.
+SR-Kerala-Storage_EP,2025,3241336,92000,.
+SR-Kerala-Storage_EP,2035,3241336,92000,.
+SR-Kerala-Storage_EP,2045,3111470,88000,.
+SR-Kerala-Storage_EP,2022,3241336,92000,.
+SR-Kerala-Pumped Storage_EP,2025,0,20150,244774.5806
+SR-Kerala-Pumped Storage_EP,2035,0,20150,244774.5806
+SR-Kerala-Pumped Storage_EP,2045,0,20150,244774.5806
+SR-Kerala-Pumped Storage_EP,2022,0,20150,244774.5806
+SR-Kerala-PV,2025,1491641,21001,.
+SR-Kerala-PV,2035,895321,15022,.
+SR-Kerala-PV,2045,753705,13510,.
+SR-Kerala-PV_EP,2022,1491641,21001,.
+SR-Kerala-Onshore,2025,1569099,31251,.
+SR-Kerala-Onshore,2035,1344692,28261,.
+SR-Kerala-Onshore,2045,1188169,26256,.
+SR-Kerala-Onshore_EP,2022,1569099,31251,.
+SR-Kerala-Offshore,2025,5877079,84270,.
+SR-Kerala-Offshore,2035,3435322,74181,.
+SR-Kerala-Offshore,2045,3208853,68141,.
+SR-Kerala-Offshore_EP,2022,5877079,84270,.
+SR-Kerala-Battery,2025,0,38777,427850.75
+SR-Kerala-Battery,2035,0,29997,336849
+SR-Kerala-Battery,2045,0,24986,284904.75
+SR-Puducherry-Run-of-River_EP,2025,3241336,92000,.
+SR-Puducherry-Run-of-River_EP,2035,3241336,92000,.
+SR-Puducherry-Run-of-River_EP,2045,3111470,88000,.
+SR-Puducherry-Run-of-River_EP,2022,3241336,92000,.
+SR-Puducherry-RoR-with Pondage_EP,2025,3241336,92000,.
+SR-Puducherry-RoR-with Pondage_EP,2035,3241336,92000,.
+SR-Puducherry-RoR-with Pondage_EP,2045,3111470,88000,.
+SR-Puducherry-RoR-with Pondage_EP,2022,3241336,92000,.
+SR-Puducherry-Storage_EP,2025,3241336,92000,.
+SR-Puducherry-Storage_EP,2035,3241336,92000,.
+SR-Puducherry-Storage_EP,2045,3111470,88000,.
+SR-Puducherry-Storage_EP,2022,3241336,92000,.
+SR-Puducherry-Pumped Storage_EP,2025,0,20150,244774.5806
+SR-Puducherry-Pumped Storage_EP,2035,0,20150,244774.5806
+SR-Puducherry-Pumped Storage_EP,2045,0,20150,244774.5806
+SR-Puducherry-Pumped Storage_EP,2022,0,20150,244774.5806
+SR-Puducherry-PV,2025,1491641,21001,.
+SR-Puducherry-PV,2035,895321,15022,.
+SR-Puducherry-PV,2045,753705,13510,.
+SR-Puducherry-PV_EP,2022,1491641,21001,.
+SR-Puducherry-Onshore,2025,1569099,31251,.
+SR-Puducherry-Onshore,2035,1344692,28261,.
+SR-Puducherry-Onshore,2045,1188169,26256,.
+SR-Puducherry-Onshore_EP,2022,1569099,31251,.
+SR-Puducherry-Battery,2025,0,38777,427850.75
+SR-Puducherry-Battery,2035,0,29997,336849
+SR-Puducherry-Battery,2045,0,24986,284904.75
+SR-Tamilnadu-Run-of-River_EP,2025,3241336,92000,.
+SR-Tamilnadu-Run-of-River_EP,2035,3241336,92000,.
+SR-Tamilnadu-Run-of-River_EP,2045,3111470,88000,.
+SR-Tamilnadu-Run-of-River_EP,2022,3241336,92000,.
+SR-Tamilnadu-RoR-with Pondage_EP,2025,3241336,92000,.
+SR-Tamilnadu-RoR-with Pondage_EP,2035,3241336,92000,.
+SR-Tamilnadu-RoR-with Pondage_EP,2045,3111470,88000,.
+SR-Tamilnadu-RoR-with Pondage_EP,2022,3241336,92000,.
+SR-Tamilnadu-Storage_EP,2025,3241336,92000,.
+SR-Tamilnadu-Storage_EP,2035,3241336,92000,.
+SR-Tamilnadu-Storage_EP,2045,3111470,88000,.
+SR-Tamilnadu-Storage_EP,2022,3241336,92000,.
+SR-Tamilnadu-Pumped Storage_EP,2025,0,20150,244774.5806
+SR-Tamilnadu-Pumped Storage_EP,2035,0,20150,244774.5806
+SR-Tamilnadu-Pumped Storage_EP,2045,0,20150,244774.5806
+SR-Tamilnadu-Pumped Storage_EP,2022,0,20150,244774.5806
+SR-Tamilnadu-PV,2025,1491641,21001,.
+SR-Tamilnadu-PV,2035,895321,15022,.
+SR-Tamilnadu-PV,2045,753705,13510,.
+SR-Tamilnadu-PV_EP,2022,1491641,21001,.
+SR-Tamilnadu-Onshore,2025,1569099,31251,.
+SR-Tamilnadu-Onshore,2035,1344692,28261,.
+SR-Tamilnadu-Onshore,2045,1188169,26256,.
+SR-Tamilnadu-Onshore_EP,2022,1569099,31251,.
+SR-Tamilnadu-Offshore,2025,5877079,84270,.
+SR-Tamilnadu-Offshore,2035,3435322,74181,.
+SR-Tamilnadu-Offshore,2045,3208853,68141,.
+SR-Tamilnadu-Offshore_EP,2022,5877079,84270,.
+SR-Tamilnadu-Battery,2025,0,38777,427850.75
+SR-Tamilnadu-Battery,2035,0,29997,336849
+SR-Tamilnadu-Battery,2045,0,24986,284904.75
+ER-Bihar-Run-of-River_EP,2025,3241336,92000,.
+ER-Bihar-Run-of-River_EP,2035,3241336,92000,.
+ER-Bihar-Run-of-River_EP,2045,3111470,88000,.
+ER-Bihar-Run-of-River_EP,2022,3241336,92000,.
+ER-Bihar-RoR-with Pondage_EP,2025,3241336,92000,.
+ER-Bihar-RoR-with Pondage_EP,2035,3241336,92000,.
+ER-Bihar-RoR-with Pondage_EP,2045,3111470,88000,.
+ER-Bihar-RoR-with Pondage_EP,2022,3241336,92000,.
+ER-Bihar-Storage_EP,2025,3241336,92000,.
+ER-Bihar-Storage_EP,2035,3241336,92000,.
+ER-Bihar-Storage_EP,2045,3111470,88000,.
+ER-Bihar-Storage_EP,2022,3241336,92000,.
+ER-Bihar-Pumped Storage_EP,2025,0,20150,244774.5806
+ER-Bihar-Pumped Storage_EP,2035,0,20150,244774.5806
+ER-Bihar-Pumped Storage_EP,2045,0,20150,244774.5806
+ER-Bihar-Pumped Storage_EP,2022,0,20150,244774.5806
+ER-Bihar-PV,2025,1491641,21001,.
+ER-Bihar-PV,2035,895321,15022,.
+ER-Bihar-PV,2045,753705,13510,.
+ER-Bihar-PV_EP,2022,1491641,21001,.
+ER-Bihar-Onshore,2025,1569099,31251,.
+ER-Bihar-Onshore,2035,1344692,28261,.
+ER-Bihar-Onshore,2045,1188169,26256,.
+ER-Bihar-Onshore_EP,2022,1569099,31251,.
+ER-Bihar-Battery,2025,0,38777,427850.75
+ER-Bihar-Battery,2035,0,29997,336849
+ER-Bihar-Battery,2045,0,24986,284904.75
+ER-Jharkhand-Run-of-River_EP,2025,3241336,92000,.
+ER-Jharkhand-Run-of-River_EP,2035,3241336,92000,.
+ER-Jharkhand-Run-of-River_EP,2045,3111470,88000,.
+ER-Jharkhand-Run-of-River_EP,2022,3241336,92000,.
+ER-Jharkhand-RoR-with Pondage_EP,2025,3241336,92000,.
+ER-Jharkhand-RoR-with Pondage_EP,2035,3241336,92000,.
+ER-Jharkhand-RoR-with Pondage_EP,2045,3111470,88000,.
+ER-Jharkhand-RoR-with Pondage_EP,2022,3241336,92000,.
+ER-Jharkhand-Storage_EP,2025,3241336,92000,.
+ER-Jharkhand-Storage_EP,2035,3241336,92000,.
+ER-Jharkhand-Storage_EP,2045,3111470,88000,.
+ER-Jharkhand-Storage_EP,2022,3241336,92000,.
+ER-Jharkhand-Pumped Storage_EP,2025,0,20150,244774.5806
+ER-Jharkhand-Pumped Storage_EP,2035,0,20150,244774.5806
+ER-Jharkhand-Pumped Storage_EP,2045,0,20150,244774.5806
+ER-Jharkhand-Pumped Storage_EP,2022,0,20150,244774.5806
+ER-Jharkhand-PV,2025,1491641,21001,.
+ER-Jharkhand-PV,2035,895321,15022,.
+ER-Jharkhand-PV,2045,753705,13510,.
+ER-Jharkhand-PV_EP,2022,1491641,21001,.
+ER-Jharkhand-Onshore,2025,1569099,31251,.
+ER-Jharkhand-Onshore,2035,1344692,28261,.
+ER-Jharkhand-Onshore,2045,1188169,26256,.
+ER-Jharkhand-Onshore_EP,2022,1569099,31251,.
+ER-Jharkhand-Battery,2025,0,38777,427850.75
+ER-Jharkhand-Battery,2035,0,29997,336849
+ER-Jharkhand-Battery,2045,0,24986,284904.75
+ER-Odisha-Run-of-River_EP,2025,3241336,92000,.
+ER-Odisha-Run-of-River_EP,2035,3241336,92000,.
+ER-Odisha-Run-of-River_EP,2045,3111470,88000,.
+ER-Odisha-Run-of-River_EP,2022,3241336,92000,.
+ER-Odisha-RoR-with Pondage_EP,2025,3241336,92000,.
+ER-Odisha-RoR-with Pondage_EP,2035,3241336,92000,.
+ER-Odisha-RoR-with Pondage_EP,2045,3111470,88000,.
+ER-Odisha-RoR-with Pondage_EP,2022,3241336,92000,.
+ER-Odisha-Storage_EP,2025,3241336,92000,.
+ER-Odisha-Storage_EP,2035,3241336,92000,.
+ER-Odisha-Storage_EP,2045,3111470,88000,.
+ER-Odisha-Storage_EP,2022,3241336,92000,.
+ER-Odisha-Pumped Storage_EP,2025,0,20150,244774.5806
+ER-Odisha-Pumped Storage_EP,2035,0,20150,244774.5806
+ER-Odisha-Pumped Storage_EP,2045,0,20150,244774.5806
+ER-Odisha-Pumped Storage_EP,2022,0,20150,244774.5806
+ER-Odisha-PV,2025,1491641,21001,.
+ER-Odisha-PV,2035,895321,15022,.
+ER-Odisha-PV,2045,753705,13510,.
+ER-Odisha-PV_EP,2022,1491641,21001,.
+ER-Odisha-Onshore,2025,1569099,31251,.
+ER-Odisha-Onshore,2035,1344692,28261,.
+ER-Odisha-Onshore,2045,1188169,26256,.
+ER-Odisha-Onshore_EP,2022,1569099,31251,.
+ER-Odisha-Offshore,2025,5877079,84270,.
+ER-Odisha-Offshore,2035,3435322,74181,.
+ER-Odisha-Offshore,2045,3208853,68141,.
+ER-Odisha-Offshore_EP,2022,5877079,84270,.
+ER-Odisha-Battery,2025,0,38777,427850.75
+ER-Odisha-Battery,2035,0,29997,336849
+ER-Odisha-Battery,2045,0,24986,284904.75
+ER-Sikkim-Run-of-River_EP,2025,3241336,92000,.
+ER-Sikkim-Run-of-River_EP,2035,3241336,92000,.
+ER-Sikkim-Run-of-River_EP,2045,3111470,88000,.
+ER-Sikkim-Run-of-River_EP,2022,3241336,92000,.
+ER-Sikkim-RoR-with Pondage_EP,2025,3241336,92000,.
+ER-Sikkim-RoR-with Pondage_EP,2035,3241336,92000,.
+ER-Sikkim-RoR-with Pondage_EP,2045,3111470,88000,.
+ER-Sikkim-RoR-with Pondage_EP,2022,3241336,92000,.
+ER-Sikkim-Storage_EP,2025,3241336,92000,.
+ER-Sikkim-Storage_EP,2035,3241336,92000,.
+ER-Sikkim-Storage_EP,2045,3111470,88000,.
+ER-Sikkim-Storage_EP,2022,3241336,92000,.
+ER-Sikkim-Pumped Storage_EP,2025,0,20150,244774.5806
+ER-Sikkim-Pumped Storage_EP,2035,0,20150,244774.5806
+ER-Sikkim-Pumped Storage_EP,2045,0,20150,244774.5806
+ER-Sikkim-Pumped Storage_EP,2022,0,20150,244774.5806
+ER-Sikkim-PV,2025,1491641,21001,.
+ER-Sikkim-PV,2035,895321,15022,.
+ER-Sikkim-PV,2045,753705,13510,.
+ER-Sikkim-PV_EP,2022,1491641,21001,.
+ER-Sikkim-Onshore,2025,1569099,31251,.
+ER-Sikkim-Onshore,2035,1344692,28261,.
+ER-Sikkim-Onshore,2045,1188169,26256,.
+ER-Sikkim-Onshore_EP,2022,1569099,31251,.
+ER-Sikkim-Battery,2025,0,38777,427850.75
+ER-Sikkim-Battery,2035,0,29997,336849
+ER-Sikkim-Battery,2045,0,24986,284904.75
+ER-WestBengal-Run-of-River_EP,2025,3241336,92000,.
+ER-WestBengal-Run-of-River_EP,2035,3241336,92000,.
+ER-WestBengal-Run-of-River_EP,2045,3111470,88000,.
+ER-WestBengal-Run-of-River_EP,2022,3241336,92000,.
+ER-WestBengal-RoR-with Pondage_EP,2025,3241336,92000,.
+ER-WestBengal-RoR-with Pondage_EP,2035,3241336,92000,.
+ER-WestBengal-RoR-with Pondage_EP,2045,3111470,88000,.
+ER-WestBengal-RoR-with Pondage_EP,2022,3241336,92000,.
+ER-WestBengal-Storage_EP,2025,3241336,92000,.
+ER-WestBengal-Storage_EP,2035,3241336,92000,.
+ER-WestBengal-Storage_EP,2045,3111470,88000,.
+ER-WestBengal-Storage_EP,2022,3241336,92000,.
+ER-WestBengal-Pumped Storage_EP,2025,0,20150,244774.5806
+ER-WestBengal-Pumped Storage_EP,2035,0,20150,244774.5806
+ER-WestBengal-Pumped Storage_EP,2045,0,20150,244774.5806
+ER-WestBengal-Pumped Storage_EP,2022,0,20150,244774.5806
+ER-WestBengal-PV,2025,1491641,21001,.
+ER-WestBengal-PV,2035,895321,15022,.
+ER-WestBengal-PV,2045,753705,13510,.
+ER-WestBengal-PV_EP,2022,1491641,21001,.
+ER-WestBengal-Onshore,2025,1569099,31251,.
+ER-WestBengal-Onshore,2035,1344692,28261,.
+ER-WestBengal-Onshore,2045,1188169,26256,.
+ER-WestBengal-Onshore_EP,2022,1569099,31251,.
+ER-WestBengal-Offshore,2025,5877079,84270,.
+ER-WestBengal-Offshore,2035,3435322,74181,.
+ER-WestBengal-Offshore,2045,3208853,68141,.
+ER-WestBengal-Offshore_EP,2022,5877079,84270,.
+ER-WestBengal-Battery,2025,0,38777,427850.75
+ER-WestBengal-Battery,2035,0,29997,336849
+ER-WestBengal-Battery,2045,0,24986,284904.75
+NER-ArunachalPradesh-Run-of-River_EP,2025,3241336,92000,.
+NER-ArunachalPradesh-Run-of-River_EP,2035,3241336,92000,.
+NER-ArunachalPradesh-Run-of-River_EP,2045,3111470,88000,.
+NER-ArunachalPradesh-Run-of-River_EP,2022,3241336,92000,.
+NER-ArunachalPradesh-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-ArunachalPradesh-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-ArunachalPradesh-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-ArunachalPradesh-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-ArunachalPradesh-Storage_EP,2025,3241336,92000,.
+NER-ArunachalPradesh-Storage_EP,2035,3241336,92000,.
+NER-ArunachalPradesh-Storage_EP,2045,3111470,88000,.
+NER-ArunachalPradesh-Storage_EP,2022,3241336,92000,.
+NER-ArunachalPradesh-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-ArunachalPradesh-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-ArunachalPradesh-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-ArunachalPradesh-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-ArunachalPradesh-PV,2025,1491641,21001,.
+NER-ArunachalPradesh-PV,2035,895321,15022,.
+NER-ArunachalPradesh-PV,2045,753705,13510,.
+NER-ArunachalPradesh-PV_EP,2022,1491641,21001,.
+NER-ArunachalPradesh-Onshore,2025,1569099,31251,.
+NER-ArunachalPradesh-Onshore,2035,1344692,28261,.
+NER-ArunachalPradesh-Onshore,2045,1188169,26256,.
+NER-ArunachalPradesh-Onshore_EP,2022,1569099,31251,.
+NER-ArunachalPradesh-Battery,2025,0,38777,427850.75
+NER-ArunachalPradesh-Battery,2035,0,29997,336849
+NER-ArunachalPradesh-Battery,2045,0,24986,284904.75
+NER-Assam-Run-of-River_EP,2025,3241336,92000,.
+NER-Assam-Run-of-River_EP,2035,3241336,92000,.
+NER-Assam-Run-of-River_EP,2045,3111470,88000,.
+NER-Assam-Run-of-River_EP,2022,3241336,92000,.
+NER-Assam-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-Assam-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-Assam-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-Assam-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-Assam-Storage_EP,2025,3241336,92000,.
+NER-Assam-Storage_EP,2035,3241336,92000,.
+NER-Assam-Storage_EP,2045,3111470,88000,.
+NER-Assam-Storage_EP,2022,3241336,92000,.
+NER-Assam-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-Assam-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-Assam-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-Assam-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-Assam-PV,2025,1491641,21001,.
+NER-Assam-PV,2035,895321,15022,.
+NER-Assam-PV,2045,753705,13510,.
+NER-Assam-PV_EP,2022,1491641,21001,.
+NER-Assam-Onshore,2025,1569099,31251,.
+NER-Assam-Onshore,2035,1344692,28261,.
+NER-Assam-Onshore,2045,1188169,26256,.
+NER-Assam-Onshore_EP,2022,1569099,31251,.
+NER-Assam-Battery,2025,0,38777,427850.75
+NER-Assam-Battery,2035,0,29997,336849
+NER-Assam-Battery,2045,0,24986,284904.75
+NER-Manipur-Run-of-River_EP,2025,3241336,92000,.
+NER-Manipur-Run-of-River_EP,2035,3241336,92000,.
+NER-Manipur-Run-of-River_EP,2045,3111470,88000,.
+NER-Manipur-Run-of-River_EP,2022,3241336,92000,.
+NER-Manipur-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-Manipur-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-Manipur-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-Manipur-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-Manipur-Storage_EP,2025,3241336,92000,.
+NER-Manipur-Storage_EP,2035,3241336,92000,.
+NER-Manipur-Storage_EP,2045,3111470,88000,.
+NER-Manipur-Storage_EP,2022,3241336,92000,.
+NER-Manipur-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-Manipur-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-Manipur-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-Manipur-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-Manipur-PV,2025,1491641,21001,.
+NER-Manipur-PV,2035,895321,15022,.
+NER-Manipur-PV,2045,753705,13510,.
+NER-Manipur-PV_EP,2022,1491641,21001,.
+NER-Manipur-Onshore,2025,1569099,31251,.
+NER-Manipur-Onshore,2035,1344692,28261,.
+NER-Manipur-Onshore,2045,1188169,26256,.
+NER-Manipur-Onshore_EP,2022,1569099,31251,.
+NER-Manipur-Battery,2025,0,38777,427850.75
+NER-Manipur-Battery,2035,0,29997,336849
+NER-Manipur-Battery,2045,0,24986,284904.75
+NER-Meghalaya-Run-of-River_EP,2025,3241336,92000,.
+NER-Meghalaya-Run-of-River_EP,2035,3241336,92000,.
+NER-Meghalaya-Run-of-River_EP,2045,3111470,88000,.
+NER-Meghalaya-Run-of-River_EP,2022,3241336,92000,.
+NER-Meghalaya-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-Meghalaya-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-Meghalaya-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-Meghalaya-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-Meghalaya-Storage_EP,2025,3241336,92000,.
+NER-Meghalaya-Storage_EP,2035,3241336,92000,.
+NER-Meghalaya-Storage_EP,2045,3111470,88000,.
+NER-Meghalaya-Storage_EP,2022,3241336,92000,.
+NER-Meghalaya-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-Meghalaya-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-Meghalaya-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-Meghalaya-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-Meghalaya-PV,2025,1491641,21001,.
+NER-Meghalaya-PV,2035,895321,15022,.
+NER-Meghalaya-PV,2045,753705,13510,.
+NER-Meghalaya-PV_EP,2022,1491641,21001,.
+NER-Meghalaya-Onshore,2025,1569099,31251,.
+NER-Meghalaya-Onshore,2035,1344692,28261,.
+NER-Meghalaya-Onshore,2045,1188169,26256,.
+NER-Meghalaya-Onshore_EP,2022,1569099,31251,.
+NER-Meghalaya-Battery,2025,0,38777,427850.75
+NER-Meghalaya-Battery,2035,0,29997,336849
+NER-Meghalaya-Battery,2045,0,24986,284904.75
+NER-Mizoram-Run-of-River_EP,2025,3241336,92000,.
+NER-Mizoram-Run-of-River_EP,2035,3241336,92000,.
+NER-Mizoram-Run-of-River_EP,2045,3111470,88000,.
+NER-Mizoram-Run-of-River_EP,2022,3241336,92000,.
+NER-Mizoram-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-Mizoram-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-Mizoram-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-Mizoram-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-Mizoram-Storage_EP,2025,3241336,92000,.
+NER-Mizoram-Storage_EP,2035,3241336,92000,.
+NER-Mizoram-Storage_EP,2045,3111470,88000,.
+NER-Mizoram-Storage_EP,2022,3241336,92000,.
+NER-Mizoram-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-Mizoram-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-Mizoram-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-Mizoram-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-Mizoram-PV,2025,1491641,21001,.
+NER-Mizoram-PV,2035,895321,15022,.
+NER-Mizoram-PV,2045,753705,13510,.
+NER-Mizoram-PV_EP,2022,1491641,21001,.
+NER-Mizoram-Onshore,2025,1569099,31251,.
+NER-Mizoram-Onshore,2035,1344692,28261,.
+NER-Mizoram-Onshore,2045,1188169,26256,.
+NER-Mizoram-Onshore_EP,2022,1569099,31251,.
+NER-Mizoram-Battery,2025,0,38777,427850.75
+NER-Mizoram-Battery,2035,0,29997,336849
+NER-Mizoram-Battery,2045,0,24986,284904.75
+NER-Nagaland-Run-of-River_EP,2025,3241336,92000,.
+NER-Nagaland-Run-of-River_EP,2035,3241336,92000,.
+NER-Nagaland-Run-of-River_EP,2045,3111470,88000,.
+NER-Nagaland-Run-of-River_EP,2022,3241336,92000,.
+NER-Nagaland-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-Nagaland-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-Nagaland-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-Nagaland-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-Nagaland-Storage_EP,2025,3241336,92000,.
+NER-Nagaland-Storage_EP,2035,3241336,92000,.
+NER-Nagaland-Storage_EP,2045,3111470,88000,.
+NER-Nagaland-Storage_EP,2022,3241336,92000,.
+NER-Nagaland-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-Nagaland-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-Nagaland-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-Nagaland-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-Nagaland-PV,2025,1491641,21001,.
+NER-Nagaland-PV,2035,895321,15022,.
+NER-Nagaland-PV,2045,753705,13510,.
+NER-Nagaland-PV_EP,2022,1491641,21001,.
+NER-Nagaland-Onshore,2025,1569099,31251,.
+NER-Nagaland-Onshore,2035,1344692,28261,.
+NER-Nagaland-Onshore,2045,1188169,26256,.
+NER-Nagaland-Onshore_EP,2022,1569099,31251,.
+NER-Nagaland-Battery,2025,0,38777,427850.75
+NER-Nagaland-Battery,2035,0,29997,336849
+NER-Nagaland-Battery,2045,0,24986,284904.75
+NER-Tripura-Run-of-River_EP,2025,3241336,92000,.
+NER-Tripura-Run-of-River_EP,2035,3241336,92000,.
+NER-Tripura-Run-of-River_EP,2045,3111470,88000,.
+NER-Tripura-Run-of-River_EP,2022,3241336,92000,.
+NER-Tripura-RoR-with Pondage_EP,2025,3241336,92000,.
+NER-Tripura-RoR-with Pondage_EP,2035,3241336,92000,.
+NER-Tripura-RoR-with Pondage_EP,2045,3111470,88000,.
+NER-Tripura-RoR-with Pondage_EP,2022,3241336,92000,.
+NER-Tripura-Storage_EP,2025,3241336,92000,.
+NER-Tripura-Storage_EP,2035,3241336,92000,.
+NER-Tripura-Storage_EP,2045,3111470,88000,.
+NER-Tripura-Storage_EP,2022,3241336,92000,.
+NER-Tripura-Pumped Storage_EP,2025,0,20150,244774.5806
+NER-Tripura-Pumped Storage_EP,2035,0,20150,244774.5806
+NER-Tripura-Pumped Storage_EP,2045,0,20150,244774.5806
+NER-Tripura-Pumped Storage_EP,2022,0,20150,244774.5806
+NER-Tripura-PV,2025,1491641,21001,.
+NER-Tripura-PV,2035,895321,15022,.
+NER-Tripura-PV,2045,753705,13510,.
+NER-Tripura-PV_EP,2022,1491641,21001,.
+NER-Tripura-Onshore,2025,1569099,31251,.
+NER-Tripura-Onshore,2035,1344692,28261,.
+NER-Tripura-Onshore,2045,1188169,26256,.
+NER-Tripura-Onshore_EP,2022,1569099,31251,.
+NER-Tripura-Battery,2025,0,38777,427850.75
+NER-Tripura-Battery,2035,0,29997,336849
+NER-Tripura-Battery,2045,0,24986,284904.75
+NR-ERES_2030,2025,5786.563696500693368,4983.764534777623339,0
+NR-ERES_2040,2035,5786.563696500693368,4983.764534777623339,0
+NR-ERES_2050,2045,5786.563696500693368,4983.764534777623339,0
+WR-ERES_2030,2025,5786.563696500693368,4983.764534777623339,0
+WR-ERES_2040,2035,5786.563696500693368,4983.764534777623339,0
+WR-ERES_2050,2045,5786.563696500693368,4983.764534777623339,0
+SR-ERES_2030,2025,5786.563696500693368,4983.764534777623339,0
+SR-ERES_2040,2035,5786.563696500693368,4983.764534777623339,0
+SR-ERES_2050,2045,5786.563696500693368,4983.764534777623339,0
+ER-ERES_2030,2025,5786.563696500693368,4983.764534777623339,0
+ER-ERES_2040,2035,5786.563696500693368,4983.764534777623339,0
+ER-ERES_2050,2045,5786.563696500693368,4983.764534777623339,0
+NER-ERES_2030,2025,5786.563696500693368,4983.764534777623339,0
+NER-ERES_2040,2035,5786.563696500693368,4983.764534777623339,0
+NER-ERES_2050,2045,5786.563696500693368,4983.764534777623339,0
+NR-Chandigarh-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-Chandigarh-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-Chandigarh-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-Chandigarh-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-Chandigarh-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-Chandigarh-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-Chandigarh-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-Chandigarh-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-Chandigarh-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-Chandigarh-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-Chandigarh-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-Chandigarh-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-Chandigarh-Coal-IGCC,2025,1571000,70000,.
+NR-Chandigarh-Coal-IGCC,2035,1500000,70000,.
+NR-Chandigarh-Coal-IGCC,2045,1500000,70000,.
+NR-Chandigarh-Coal-IGCC_EP,2022,1571000,70000,.
+NR-Chandigarh-Gas-CCGT,2025,700000,25000,.
+NR-Chandigarh-Gas-CCGT,2035,700000,25000,.
+NR-Chandigarh-Gas-CCGT,2045,700000,25000,.
+NR-Chandigarh-Gas-CCGT_EP,2022,700000,25000,.
+NR-Chandigarh-Gas-turbine,2025,400000,20000,.
+NR-Chandigarh-Gas-turbine,2035,400000,20000,.
+NR-Chandigarh-Gas-turbine,2045,400000,20000,.
+NR-Chandigarh-Gas-turbine_EP,2022,400000,20000,.
+NR-Chandigarh-Nuclear,2025,2800000,140000,.
+NR-Chandigarh-Nuclear,2035,2800000,140000,.
+NR-Chandigarh-Nuclear,2045,2800000,140000,.
+NR-Chandigarh-Nuclear_EP,2022,2800000,140000,.
+NR-Delhi-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-Delhi-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-Delhi-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-Delhi-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-Delhi-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-Delhi-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-Delhi-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-Delhi-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-Delhi-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-Delhi-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-Delhi-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-Delhi-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-Delhi-Coal-IGCC,2025,1571000,70000,.
+NR-Delhi-Coal-IGCC,2035,1500000,70000,.
+NR-Delhi-Coal-IGCC,2045,1500000,70000,.
+NR-Delhi-Coal-IGCC_EP,2022,1571000,70000,.
+NR-Delhi-Gas-CCGT,2025,700000,25000,.
+NR-Delhi-Gas-CCGT,2035,700000,25000,.
+NR-Delhi-Gas-CCGT,2045,700000,25000,.
+NR-Delhi-Gas-CCGT_EP,2022,700000,25000,.
+NR-Delhi-Gas-turbine,2025,400000,20000,.
+NR-Delhi-Gas-turbine,2035,400000,20000,.
+NR-Delhi-Gas-turbine,2045,400000,20000,.
+NR-Delhi-Gas-turbine_EP,2022,400000,20000,.
+NR-Delhi-Nuclear,2025,2800000,140000,.
+NR-Delhi-Nuclear,2035,2800000,140000,.
+NR-Delhi-Nuclear,2045,2800000,140000,.
+NR-Delhi-Nuclear_EP,2022,2800000,140000,.
+NR-Haryana-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-Haryana-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-Haryana-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-Haryana-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-Haryana-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-Haryana-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-Haryana-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-Haryana-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-Haryana-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-Haryana-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-Haryana-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-Haryana-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-Haryana-Coal-IGCC,2025,1571000,70000,.
+NR-Haryana-Coal-IGCC,2035,1500000,70000,.
+NR-Haryana-Coal-IGCC,2045,1500000,70000,.
+NR-Haryana-Coal-IGCC_EP,2022,1571000,70000,.
+NR-Haryana-Gas-CCGT,2025,700000,25000,.
+NR-Haryana-Gas-CCGT,2035,700000,25000,.
+NR-Haryana-Gas-CCGT,2045,700000,25000,.
+NR-Haryana-Gas-CCGT_EP,2022,700000,25000,.
+NR-Haryana-Gas-turbine,2025,400000,20000,.
+NR-Haryana-Gas-turbine,2035,400000,20000,.
+NR-Haryana-Gas-turbine,2045,400000,20000,.
+NR-Haryana-Gas-turbine_EP,2022,400000,20000,.
+NR-Haryana-Nuclear,2025,2800000,140000,.
+NR-Haryana-Nuclear,2035,2800000,140000,.
+NR-Haryana-Nuclear,2045,2800000,140000,.
+NR-Haryana-Nuclear_EP,2022,2800000,140000,.
+NR-HimachalPradesh-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-HimachalPradesh-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-HimachalPradesh-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-HimachalPradesh-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-HimachalPradesh-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-HimachalPradesh-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-HimachalPradesh-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-HimachalPradesh-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-HimachalPradesh-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-HimachalPradesh-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-HimachalPradesh-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-HimachalPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-HimachalPradesh-Coal-IGCC,2025,1571000,70000,.
+NR-HimachalPradesh-Coal-IGCC,2035,1500000,70000,.
+NR-HimachalPradesh-Coal-IGCC,2045,1500000,70000,.
+NR-HimachalPradesh-Coal-IGCC_EP,2022,1571000,70000,.
+NR-HimachalPradesh-Gas-CCGT,2025,700000,25000,.
+NR-HimachalPradesh-Gas-CCGT,2035,700000,25000,.
+NR-HimachalPradesh-Gas-CCGT,2045,700000,25000,.
+NR-HimachalPradesh-Gas-CCGT_EP,2022,700000,25000,.
+NR-HimachalPradesh-Gas-turbine,2025,400000,20000,.
+NR-HimachalPradesh-Gas-turbine,2035,400000,20000,.
+NR-HimachalPradesh-Gas-turbine,2045,400000,20000,.
+NR-HimachalPradesh-Gas-turbine_EP,2022,400000,20000,.
+NR-HimachalPradesh-Nuclear,2025,2800000,140000,.
+NR-HimachalPradesh-Nuclear,2035,2800000,140000,.
+NR-HimachalPradesh-Nuclear,2045,2800000,140000,.
+NR-HimachalPradesh-Nuclear_EP,2022,2800000,140000,.
+NR-JammuandKashmir-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-JammuandKashmir-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-JammuandKashmir-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-JammuandKashmir-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-JammuandKashmir-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-JammuandKashmir-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-JammuandKashmir-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-JammuandKashmir-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-JammuandKashmir-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-JammuandKashmir-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-JammuandKashmir-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-JammuandKashmir-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-JammuandKashmir-Coal-IGCC,2025,1571000,70000,.
+NR-JammuandKashmir-Coal-IGCC,2035,1500000,70000,.
+NR-JammuandKashmir-Coal-IGCC,2045,1500000,70000,.
+NR-JammuandKashmir-Coal-IGCC_EP,2022,1571000,70000,.
+NR-JammuandKashmir-Gas-CCGT,2025,700000,25000,.
+NR-JammuandKashmir-Gas-CCGT,2035,700000,25000,.
+NR-JammuandKashmir-Gas-CCGT,2045,700000,25000,.
+NR-JammuandKashmir-Gas-CCGT_EP,2022,700000,25000,.
+NR-JammuandKashmir-Gas-turbine,2025,400000,20000,.
+NR-JammuandKashmir-Gas-turbine,2035,400000,20000,.
+NR-JammuandKashmir-Gas-turbine,2045,400000,20000,.
+NR-JammuandKashmir-Gas-turbine_EP,2022,400000,20000,.
+NR-JammuandKashmir-Nuclear,2025,2800000,140000,.
+NR-JammuandKashmir-Nuclear,2035,2800000,140000,.
+NR-JammuandKashmir-Nuclear,2045,2800000,140000,.
+NR-JammuandKashmir-Nuclear_EP,2022,2800000,140000,.
+NR-Punjab-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-Punjab-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-Punjab-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-Punjab-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-Punjab-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-Punjab-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-Punjab-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-Punjab-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-Punjab-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-Punjab-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-Punjab-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-Punjab-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-Punjab-Coal-IGCC,2025,1571000,70000,.
+NR-Punjab-Coal-IGCC,2035,1500000,70000,.
+NR-Punjab-Coal-IGCC,2045,1500000,70000,.
+NR-Punjab-Coal-IGCC_EP,2022,1571000,70000,.
+NR-Punjab-Gas-CCGT,2025,700000,25000,.
+NR-Punjab-Gas-CCGT,2035,700000,25000,.
+NR-Punjab-Gas-CCGT,2045,700000,25000,.
+NR-Punjab-Gas-CCGT_EP,2022,700000,25000,.
+NR-Punjab-Gas-turbine,2025,400000,20000,.
+NR-Punjab-Gas-turbine,2035,400000,20000,.
+NR-Punjab-Gas-turbine,2045,400000,20000,.
+NR-Punjab-Gas-turbine_EP,2022,400000,20000,.
+NR-Punjab-Nuclear,2025,2800000,140000,.
+NR-Punjab-Nuclear,2035,2800000,140000,.
+NR-Punjab-Nuclear,2045,2800000,140000,.
+NR-Punjab-Nuclear_EP,2022,2800000,140000,.
+NR-Rajasthan-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-Rajasthan-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-Rajasthan-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-Rajasthan-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-Rajasthan-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-Rajasthan-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-Rajasthan-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-Rajasthan-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-Rajasthan-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-Rajasthan-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-Rajasthan-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-Rajasthan-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-Rajasthan-Coal-IGCC,2025,1571000,70000,.
+NR-Rajasthan-Coal-IGCC,2035,1500000,70000,.
+NR-Rajasthan-Coal-IGCC,2045,1500000,70000,.
+NR-Rajasthan-Coal-IGCC_EP,2022,1571000,70000,.
+NR-Rajasthan-Gas-CCGT,2025,700000,25000,.
+NR-Rajasthan-Gas-CCGT,2035,700000,25000,.
+NR-Rajasthan-Gas-CCGT,2045,700000,25000,.
+NR-Rajasthan-Gas-CCGT_EP,2022,700000,25000,.
+NR-Rajasthan-Gas-turbine,2025,400000,20000,.
+NR-Rajasthan-Gas-turbine,2035,400000,20000,.
+NR-Rajasthan-Gas-turbine,2045,400000,20000,.
+NR-Rajasthan-Gas-turbine_EP,2022,400000,20000,.
+NR-Rajasthan-Nuclear,2025,2800000,140000,.
+NR-Rajasthan-Nuclear,2035,2800000,140000,.
+NR-Rajasthan-Nuclear,2045,2800000,140000,.
+NR-Rajasthan-Nuclear_EP,2022,2800000,140000,.
+NR-Uttarakhand-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-Uttarakhand-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-Uttarakhand-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-Uttarakhand-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-Uttarakhand-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-Uttarakhand-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-Uttarakhand-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-Uttarakhand-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-Uttarakhand-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-Uttarakhand-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-Uttarakhand-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-Uttarakhand-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-Uttarakhand-Coal-IGCC,2025,1571000,70000,.
+NR-Uttarakhand-Coal-IGCC,2035,1500000,70000,.
+NR-Uttarakhand-Coal-IGCC,2045,1500000,70000,.
+NR-Uttarakhand-Coal-IGCC_EP,2022,1571000,70000,.
+NR-Uttarakhand-Gas-CCGT,2025,700000,25000,.
+NR-Uttarakhand-Gas-CCGT,2035,700000,25000,.
+NR-Uttarakhand-Gas-CCGT,2045,700000,25000,.
+NR-Uttarakhand-Gas-CCGT_EP,2022,700000,25000,.
+NR-Uttarakhand-Gas-turbine,2025,400000,20000,.
+NR-Uttarakhand-Gas-turbine,2035,400000,20000,.
+NR-Uttarakhand-Gas-turbine,2045,400000,20000,.
+NR-Uttarakhand-Gas-turbine_EP,2022,400000,20000,.
+NR-Uttarakhand-Nuclear,2025,2800000,140000,.
+NR-Uttarakhand-Nuclear,2035,2800000,140000,.
+NR-Uttarakhand-Nuclear,2045,2800000,140000,.
+NR-Uttarakhand-Nuclear_EP,2022,2800000,140000,.
+NR-UttarPradesh-Coal-SUBCRITICAL,2025,1000000,35000,.
+NR-UttarPradesh-Coal-SUBCRITICAL,2035,1000000,35000,.
+NR-UttarPradesh-Coal-SUBCRITICAL,2045,1000000,35000,.
+NR-UttarPradesh-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NR-UttarPradesh-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NR-UttarPradesh-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NR-UttarPradesh-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NR-UttarPradesh-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NR-UttarPradesh-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NR-UttarPradesh-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NR-UttarPradesh-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NR-UttarPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NR-UttarPradesh-Coal-IGCC,2025,1571000,70000,.
+NR-UttarPradesh-Coal-IGCC,2035,1500000,70000,.
+NR-UttarPradesh-Coal-IGCC,2045,1500000,70000,.
+NR-UttarPradesh-Coal-IGCC_EP,2022,1571000,70000,.
+NR-UttarPradesh-Gas-CCGT,2025,700000,25000,.
+NR-UttarPradesh-Gas-CCGT,2035,700000,25000,.
+NR-UttarPradesh-Gas-CCGT,2045,700000,25000,.
+NR-UttarPradesh-Gas-CCGT_EP,2022,700000,25000,.
+NR-UttarPradesh-Gas-turbine,2025,400000,20000,.
+NR-UttarPradesh-Gas-turbine,2035,400000,20000,.
+NR-UttarPradesh-Gas-turbine,2045,400000,20000,.
+NR-UttarPradesh-Gas-turbine_EP,2022,400000,20000,.
+NR-UttarPradesh-Nuclear,2025,2800000,140000,.
+NR-UttarPradesh-Nuclear,2035,2800000,140000,.
+NR-UttarPradesh-Nuclear,2045,2800000,140000,.
+NR-UttarPradesh-Nuclear_EP,2022,2800000,140000,.
+WR-Chhatisgarh-Coal-SUBCRITICAL,2025,1000000,35000,.
+WR-Chhatisgarh-Coal-SUBCRITICAL,2035,1000000,35000,.
+WR-Chhatisgarh-Coal-SUBCRITICAL,2045,1000000,35000,.
+WR-Chhatisgarh-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+WR-Chhatisgarh-Coal-SUPERCRITICAL,2025,1200000,50000,.
+WR-Chhatisgarh-Coal-SUPERCRITICAL,2035,1200000,50000,.
+WR-Chhatisgarh-Coal-SUPERCRITICAL,2045,1200000,50000,.
+WR-Chhatisgarh-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+WR-Chhatisgarh-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+WR-Chhatisgarh-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+WR-Chhatisgarh-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+WR-Chhatisgarh-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+WR-Chhatisgarh-Coal-IGCC,2025,1571000,70000,.
+WR-Chhatisgarh-Coal-IGCC,2035,1500000,70000,.
+WR-Chhatisgarh-Coal-IGCC,2045,1500000,70000,.
+WR-Chhatisgarh-Coal-IGCC_EP,2022,1571000,70000,.
+WR-Chhatisgarh-Gas-CCGT,2025,700000,25000,.
+WR-Chhatisgarh-Gas-CCGT,2035,700000,25000,.
+WR-Chhatisgarh-Gas-CCGT,2045,700000,25000,.
+WR-Chhatisgarh-Gas-CCGT_EP,2022,700000,25000,.
+WR-Chhatisgarh-Gas-turbine,2025,400000,20000,.
+WR-Chhatisgarh-Gas-turbine,2035,400000,20000,.
+WR-Chhatisgarh-Gas-turbine,2045,400000,20000,.
+WR-Chhatisgarh-Gas-turbine_EP,2022,400000,20000,.
+WR-Chhatisgarh-Nuclear,2025,2800000,140000,.
+WR-Chhatisgarh-Nuclear,2035,2800000,140000,.
+WR-Chhatisgarh-Nuclear,2045,2800000,140000,.
+WR-Chhatisgarh-Nuclear_EP,2022,2800000,140000,.
+WR-Goa-Coal-SUBCRITICAL,2025,1000000,35000,.
+WR-Goa-Coal-SUBCRITICAL,2035,1000000,35000,.
+WR-Goa-Coal-SUBCRITICAL,2045,1000000,35000,.
+WR-Goa-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+WR-Goa-Coal-SUPERCRITICAL,2025,1200000,50000,.
+WR-Goa-Coal-SUPERCRITICAL,2035,1200000,50000,.
+WR-Goa-Coal-SUPERCRITICAL,2045,1200000,50000,.
+WR-Goa-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+WR-Goa-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+WR-Goa-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+WR-Goa-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+WR-Goa-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+WR-Goa-Coal-IGCC,2025,1571000,70000,.
+WR-Goa-Coal-IGCC,2035,1500000,70000,.
+WR-Goa-Coal-IGCC,2045,1500000,70000,.
+WR-Goa-Coal-IGCC_EP,2022,1571000,70000,.
+WR-Goa-Gas-CCGT,2025,700000,25000,.
+WR-Goa-Gas-CCGT,2035,700000,25000,.
+WR-Goa-Gas-CCGT,2045,700000,25000,.
+WR-Goa-Gas-CCGT_EP,2022,700000,25000,.
+WR-Goa-Gas-turbine,2025,400000,20000,.
+WR-Goa-Gas-turbine,2035,400000,20000,.
+WR-Goa-Gas-turbine,2045,400000,20000,.
+WR-Goa-Gas-turbine_EP,2022,400000,20000,.
+WR-Goa-Nuclear,2025,2800000,140000,.
+WR-Goa-Nuclear,2035,2800000,140000,.
+WR-Goa-Nuclear,2045,2800000,140000,.
+WR-Goa-Nuclear_EP,2022,2800000,140000,.
+WR-Gujarat-Coal-SUBCRITICAL,2025,1000000,35000,.
+WR-Gujarat-Coal-SUBCRITICAL,2035,1000000,35000,.
+WR-Gujarat-Coal-SUBCRITICAL,2045,1000000,35000,.
+WR-Gujarat-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+WR-Gujarat-Coal-SUPERCRITICAL,2025,1200000,50000,.
+WR-Gujarat-Coal-SUPERCRITICAL,2035,1200000,50000,.
+WR-Gujarat-Coal-SUPERCRITICAL,2045,1200000,50000,.
+WR-Gujarat-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+WR-Gujarat-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+WR-Gujarat-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+WR-Gujarat-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+WR-Gujarat-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+WR-Gujarat-Coal-IGCC,2025,1571000,70000,.
+WR-Gujarat-Coal-IGCC,2035,1500000,70000,.
+WR-Gujarat-Coal-IGCC,2045,1500000,70000,.
+WR-Gujarat-Coal-IGCC_EP,2022,1571000,70000,.
+WR-Gujarat-Gas-CCGT,2025,700000,25000,.
+WR-Gujarat-Gas-CCGT,2035,700000,25000,.
+WR-Gujarat-Gas-CCGT,2045,700000,25000,.
+WR-Gujarat-Gas-CCGT_EP,2022,700000,25000,.
+WR-Gujarat-Gas-turbine,2025,400000,20000,.
+WR-Gujarat-Gas-turbine,2035,400000,20000,.
+WR-Gujarat-Gas-turbine,2045,400000,20000,.
+WR-Gujarat-Gas-turbine_EP,2022,400000,20000,.
+WR-Gujarat-Nuclear,2025,2800000,140000,.
+WR-Gujarat-Nuclear,2035,2800000,140000,.
+WR-Gujarat-Nuclear,2045,2800000,140000,.
+WR-Gujarat-Nuclear_EP,2022,2800000,140000,.
+WR-MadhyaPradesh-Coal-SUBCRITICAL,2025,1000000,35000,.
+WR-MadhyaPradesh-Coal-SUBCRITICAL,2035,1000000,35000,.
+WR-MadhyaPradesh-Coal-SUBCRITICAL,2045,1000000,35000,.
+WR-MadhyaPradesh-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+WR-MadhyaPradesh-Coal-SUPERCRITICAL,2025,1200000,50000,.
+WR-MadhyaPradesh-Coal-SUPERCRITICAL,2035,1200000,50000,.
+WR-MadhyaPradesh-Coal-SUPERCRITICAL,2045,1200000,50000,.
+WR-MadhyaPradesh-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+WR-MadhyaPradesh-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+WR-MadhyaPradesh-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+WR-MadhyaPradesh-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+WR-MadhyaPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+WR-MadhyaPradesh-Coal-IGCC,2025,1571000,70000,.
+WR-MadhyaPradesh-Coal-IGCC,2035,1500000,70000,.
+WR-MadhyaPradesh-Coal-IGCC,2045,1500000,70000,.
+WR-MadhyaPradesh-Coal-IGCC_EP,2022,1571000,70000,.
+WR-MadhyaPradesh-Gas-CCGT,2025,700000,25000,.
+WR-MadhyaPradesh-Gas-CCGT,2035,700000,25000,.
+WR-MadhyaPradesh-Gas-CCGT,2045,700000,25000,.
+WR-MadhyaPradesh-Gas-CCGT_EP,2022,700000,25000,.
+WR-MadhyaPradesh-Gas-turbine,2025,400000,20000,.
+WR-MadhyaPradesh-Gas-turbine,2035,400000,20000,.
+WR-MadhyaPradesh-Gas-turbine,2045,400000,20000,.
+WR-MadhyaPradesh-Gas-turbine_EP,2022,400000,20000,.
+WR-MadhyaPradesh-Nuclear,2025,2800000,140000,.
+WR-MadhyaPradesh-Nuclear,2035,2800000,140000,.
+WR-MadhyaPradesh-Nuclear,2045,2800000,140000,.
+WR-MadhyaPradesh-Nuclear_EP,2022,2800000,140000,.
+WR-Maharashtra-Coal-SUBCRITICAL,2025,1000000,35000,.
+WR-Maharashtra-Coal-SUBCRITICAL,2035,1000000,35000,.
+WR-Maharashtra-Coal-SUBCRITICAL,2045,1000000,35000,.
+WR-Maharashtra-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+WR-Maharashtra-Coal-SUPERCRITICAL,2025,1200000,50000,.
+WR-Maharashtra-Coal-SUPERCRITICAL,2035,1200000,50000,.
+WR-Maharashtra-Coal-SUPERCRITICAL,2045,1200000,50000,.
+WR-Maharashtra-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+WR-Maharashtra-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+WR-Maharashtra-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+WR-Maharashtra-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+WR-Maharashtra-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+WR-Maharashtra-Coal-IGCC,2025,1571000,70000,.
+WR-Maharashtra-Coal-IGCC,2035,1500000,70000,.
+WR-Maharashtra-Coal-IGCC,2045,1500000,70000,.
+WR-Maharashtra-Coal-IGCC_EP,2022,1571000,70000,.
+WR-Maharashtra-Gas-CCGT,2025,700000,25000,.
+WR-Maharashtra-Gas-CCGT,2035,700000,25000,.
+WR-Maharashtra-Gas-CCGT,2045,700000,25000,.
+WR-Maharashtra-Gas-CCGT_EP,2022,700000,25000,.
+WR-Maharashtra-Gas-turbine,2025,400000,20000,.
+WR-Maharashtra-Gas-turbine,2035,400000,20000,.
+WR-Maharashtra-Gas-turbine,2045,400000,20000,.
+WR-Maharashtra-Gas-turbine_EP,2022,400000,20000,.
+WR-Maharashtra-Nuclear,2025,2800000,140000,.
+WR-Maharashtra-Nuclear,2035,2800000,140000,.
+WR-Maharashtra-Nuclear,2045,2800000,140000,.
+WR-Maharashtra-Nuclear_EP,2022,2800000,140000,.
+SR-AndhraPradeshandTelangana-Coal-SUBCRITICAL,2025,1000000,35000,.
+SR-AndhraPradeshandTelangana-Coal-SUBCRITICAL,2035,1000000,35000,.
+SR-AndhraPradeshandTelangana-Coal-SUBCRITICAL,2045,1000000,35000,.
+SR-AndhraPradeshandTelangana-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+SR-AndhraPradeshandTelangana-Coal-SUPERCRITICAL,2025,1200000,50000,.
+SR-AndhraPradeshandTelangana-Coal-SUPERCRITICAL,2035,1200000,50000,.
+SR-AndhraPradeshandTelangana-Coal-SUPERCRITICAL,2045,1200000,50000,.
+SR-AndhraPradeshandTelangana-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+SR-AndhraPradeshandTelangana-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+SR-AndhraPradeshandTelangana-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+SR-AndhraPradeshandTelangana-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+SR-AndhraPradeshandTelangana-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+SR-AndhraPradeshandTelangana-Coal-IGCC,2025,1571000,70000,.
+SR-AndhraPradeshandTelangana-Coal-IGCC,2035,1500000,70000,.
+SR-AndhraPradeshandTelangana-Coal-IGCC,2045,1500000,70000,.
+SR-AndhraPradeshandTelangana-Coal-IGCC_EP,2022,1571000,70000,.
+SR-AndhraPradeshandTelangana-Gas-CCGT,2025,700000,25000,.
+SR-AndhraPradeshandTelangana-Gas-CCGT,2035,700000,25000,.
+SR-AndhraPradeshandTelangana-Gas-CCGT,2045,700000,25000,.
+SR-AndhraPradeshandTelangana-Gas-CCGT_EP,2022,700000,25000,.
+SR-AndhraPradeshandTelangana-Gas-turbine,2025,400000,20000,.
+SR-AndhraPradeshandTelangana-Gas-turbine,2035,400000,20000,.
+SR-AndhraPradeshandTelangana-Gas-turbine,2045,400000,20000,.
+SR-AndhraPradeshandTelangana-Gas-turbine_EP,2022,400000,20000,.
+SR-AndhraPradeshandTelangana-Nuclear,2025,2800000,140000,.
+SR-AndhraPradeshandTelangana-Nuclear,2035,2800000,140000,.
+SR-AndhraPradeshandTelangana-Nuclear,2045,2800000,140000,.
+SR-AndhraPradeshandTelangana-Nuclear_EP,2022,2800000,140000,.
+SR-Karnataka-Coal-SUBCRITICAL,2025,1000000,35000,.
+SR-Karnataka-Coal-SUBCRITICAL,2035,1000000,35000,.
+SR-Karnataka-Coal-SUBCRITICAL,2045,1000000,35000,.
+SR-Karnataka-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+SR-Karnataka-Coal-SUPERCRITICAL,2025,1200000,50000,.
+SR-Karnataka-Coal-SUPERCRITICAL,2035,1200000,50000,.
+SR-Karnataka-Coal-SUPERCRITICAL,2045,1200000,50000,.
+SR-Karnataka-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+SR-Karnataka-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+SR-Karnataka-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+SR-Karnataka-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+SR-Karnataka-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+SR-Karnataka-Coal-IGCC,2025,1571000,70000,.
+SR-Karnataka-Coal-IGCC,2035,1500000,70000,.
+SR-Karnataka-Coal-IGCC,2045,1500000,70000,.
+SR-Karnataka-Coal-IGCC_EP,2022,1571000,70000,.
+SR-Karnataka-Gas-CCGT,2025,700000,25000,.
+SR-Karnataka-Gas-CCGT,2035,700000,25000,.
+SR-Karnataka-Gas-CCGT,2045,700000,25000,.
+SR-Karnataka-Gas-CCGT_EP,2022,700000,25000,.
+SR-Karnataka-Gas-turbine,2025,400000,20000,.
+SR-Karnataka-Gas-turbine,2035,400000,20000,.
+SR-Karnataka-Gas-turbine,2045,400000,20000,.
+SR-Karnataka-Gas-turbine_EP,2022,400000,20000,.
+SR-Karnataka-Nuclear,2025,2800000,140000,.
+SR-Karnataka-Nuclear,2035,2800000,140000,.
+SR-Karnataka-Nuclear,2045,2800000,140000,.
+SR-Karnataka-Nuclear_EP,2022,2800000,140000,.
+SR-Kerala-Coal-SUBCRITICAL,2025,1000000,35000,.
+SR-Kerala-Coal-SUBCRITICAL,2035,1000000,35000,.
+SR-Kerala-Coal-SUBCRITICAL,2045,1000000,35000,.
+SR-Kerala-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+SR-Kerala-Coal-SUPERCRITICAL,2025,1200000,50000,.
+SR-Kerala-Coal-SUPERCRITICAL,2035,1200000,50000,.
+SR-Kerala-Coal-SUPERCRITICAL,2045,1200000,50000,.
+SR-Kerala-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+SR-Kerala-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+SR-Kerala-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+SR-Kerala-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+SR-Kerala-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+SR-Kerala-Coal-IGCC,2025,1571000,70000,.
+SR-Kerala-Coal-IGCC,2035,1500000,70000,.
+SR-Kerala-Coal-IGCC,2045,1500000,70000,.
+SR-Kerala-Coal-IGCC_EP,2022,1571000,70000,.
+SR-Kerala-Gas-CCGT,2025,700000,25000,.
+SR-Kerala-Gas-CCGT,2035,700000,25000,.
+SR-Kerala-Gas-CCGT,2045,700000,25000,.
+SR-Kerala-Gas-CCGT_EP,2022,700000,25000,.
+SR-Kerala-Gas-turbine,2025,400000,20000,.
+SR-Kerala-Gas-turbine,2035,400000,20000,.
+SR-Kerala-Gas-turbine,2045,400000,20000,.
+SR-Kerala-Gas-turbine_EP,2022,400000,20000,.
+SR-Kerala-Nuclear,2025,2800000,140000,.
+SR-Kerala-Nuclear,2035,2800000,140000,.
+SR-Kerala-Nuclear,2045,2800000,140000,.
+SR-Kerala-Nuclear_EP,2022,2800000,140000,.
+SR-Puducherry-Coal-SUBCRITICAL,2025,1000000,35000,.
+SR-Puducherry-Coal-SUBCRITICAL,2035,1000000,35000,.
+SR-Puducherry-Coal-SUBCRITICAL,2045,1000000,35000,.
+SR-Puducherry-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+SR-Puducherry-Coal-SUPERCRITICAL,2025,1200000,50000,.
+SR-Puducherry-Coal-SUPERCRITICAL,2035,1200000,50000,.
+SR-Puducherry-Coal-SUPERCRITICAL,2045,1200000,50000,.
+SR-Puducherry-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+SR-Puducherry-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+SR-Puducherry-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+SR-Puducherry-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+SR-Puducherry-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+SR-Puducherry-Coal-IGCC,2025,1571000,70000,.
+SR-Puducherry-Coal-IGCC,2035,1500000,70000,.
+SR-Puducherry-Coal-IGCC,2045,1500000,70000,.
+SR-Puducherry-Coal-IGCC_EP,2022,1571000,70000,.
+SR-Puducherry-Gas-CCGT,2025,700000,25000,.
+SR-Puducherry-Gas-CCGT,2035,700000,25000,.
+SR-Puducherry-Gas-CCGT,2045,700000,25000,.
+SR-Puducherry-Gas-CCGT_EP,2022,700000,25000,.
+SR-Puducherry-Gas-turbine,2025,400000,20000,.
+SR-Puducherry-Gas-turbine,2035,400000,20000,.
+SR-Puducherry-Gas-turbine,2045,400000,20000,.
+SR-Puducherry-Gas-turbine_EP,2022,400000,20000,.
+SR-Puducherry-Nuclear,2025,2800000,140000,.
+SR-Puducherry-Nuclear,2035,2800000,140000,.
+SR-Puducherry-Nuclear,2045,2800000,140000,.
+SR-Puducherry-Nuclear_EP,2022,2800000,140000,.
+SR-Tamilnadu-Coal-SUBCRITICAL,2025,1000000,35000,.
+SR-Tamilnadu-Coal-SUBCRITICAL,2035,1000000,35000,.
+SR-Tamilnadu-Coal-SUBCRITICAL,2045,1000000,35000,.
+SR-Tamilnadu-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+SR-Tamilnadu-Coal-SUPERCRITICAL,2025,1200000,50000,.
+SR-Tamilnadu-Coal-SUPERCRITICAL,2035,1200000,50000,.
+SR-Tamilnadu-Coal-SUPERCRITICAL,2045,1200000,50000,.
+SR-Tamilnadu-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+SR-Tamilnadu-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+SR-Tamilnadu-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+SR-Tamilnadu-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+SR-Tamilnadu-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+SR-Tamilnadu-Coal-IGCC,2025,1571000,70000,.
+SR-Tamilnadu-Coal-IGCC,2035,1500000,70000,.
+SR-Tamilnadu-Coal-IGCC,2045,1500000,70000,.
+SR-Tamilnadu-Coal-IGCC_EP,2022,1571000,70000,.
+SR-Tamilnadu-Gas-CCGT,2025,700000,25000,.
+SR-Tamilnadu-Gas-CCGT,2035,700000,25000,.
+SR-Tamilnadu-Gas-CCGT,2045,700000,25000,.
+SR-Tamilnadu-Gas-CCGT_EP,2022,700000,25000,.
+SR-Tamilnadu-Gas-turbine,2025,400000,20000,.
+SR-Tamilnadu-Gas-turbine,2035,400000,20000,.
+SR-Tamilnadu-Gas-turbine,2045,400000,20000,.
+SR-Tamilnadu-Gas-turbine_EP,2022,400000,20000,.
+SR-Tamilnadu-Nuclear,2025,2800000,140000,.
+SR-Tamilnadu-Nuclear,2035,2800000,140000,.
+SR-Tamilnadu-Nuclear,2045,2800000,140000,.
+SR-Tamilnadu-Nuclear_EP,2022,2800000,140000,.
+ER-Bihar-Coal-SUBCRITICAL,2025,1000000,35000,.
+ER-Bihar-Coal-SUBCRITICAL,2035,1000000,35000,.
+ER-Bihar-Coal-SUBCRITICAL,2045,1000000,35000,.
+ER-Bihar-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+ER-Bihar-Coal-SUPERCRITICAL,2025,1200000,50000,.
+ER-Bihar-Coal-SUPERCRITICAL,2035,1200000,50000,.
+ER-Bihar-Coal-SUPERCRITICAL,2045,1200000,50000,.
+ER-Bihar-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+ER-Bihar-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+ER-Bihar-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+ER-Bihar-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+ER-Bihar-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+ER-Bihar-Coal-IGCC,2025,1571000,70000,.
+ER-Bihar-Coal-IGCC,2035,1500000,70000,.
+ER-Bihar-Coal-IGCC,2045,1500000,70000,.
+ER-Bihar-Coal-IGCC_EP,2022,1571000,70000,.
+ER-Bihar-Gas-CCGT,2025,700000,25000,.
+ER-Bihar-Gas-CCGT,2035,700000,25000,.
+ER-Bihar-Gas-CCGT,2045,700000,25000,.
+ER-Bihar-Gas-CCGT_EP,2022,700000,25000,.
+ER-Bihar-Gas-turbine,2025,400000,20000,.
+ER-Bihar-Gas-turbine,2035,400000,20000,.
+ER-Bihar-Gas-turbine,2045,400000,20000,.
+ER-Bihar-Gas-turbine_EP,2022,400000,20000,.
+ER-Bihar-Nuclear,2025,2800000,140000,.
+ER-Bihar-Nuclear,2035,2800000,140000,.
+ER-Bihar-Nuclear,2045,2800000,140000,.
+ER-Bihar-Nuclear_EP,2022,2800000,140000,.
+ER-Jharkhand-Coal-SUBCRITICAL,2025,1000000,35000,.
+ER-Jharkhand-Coal-SUBCRITICAL,2035,1000000,35000,.
+ER-Jharkhand-Coal-SUBCRITICAL,2045,1000000,35000,.
+ER-Jharkhand-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+ER-Jharkhand-Coal-SUPERCRITICAL,2025,1200000,50000,.
+ER-Jharkhand-Coal-SUPERCRITICAL,2035,1200000,50000,.
+ER-Jharkhand-Coal-SUPERCRITICAL,2045,1200000,50000,.
+ER-Jharkhand-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+ER-Jharkhand-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+ER-Jharkhand-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+ER-Jharkhand-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+ER-Jharkhand-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+ER-Jharkhand-Coal-IGCC,2025,1571000,70000,.
+ER-Jharkhand-Coal-IGCC,2035,1500000,70000,.
+ER-Jharkhand-Coal-IGCC,2045,1500000,70000,.
+ER-Jharkhand-Coal-IGCC_EP,2022,1571000,70000,.
+ER-Jharkhand-Gas-CCGT,2025,700000,25000,.
+ER-Jharkhand-Gas-CCGT,2035,700000,25000,.
+ER-Jharkhand-Gas-CCGT,2045,700000,25000,.
+ER-Jharkhand-Gas-CCGT_EP,2022,700000,25000,.
+ER-Jharkhand-Gas-turbine,2025,400000,20000,.
+ER-Jharkhand-Gas-turbine,2035,400000,20000,.
+ER-Jharkhand-Gas-turbine,2045,400000,20000,.
+ER-Jharkhand-Gas-turbine_EP,2022,400000,20000,.
+ER-Jharkhand-Nuclear,2025,2800000,140000,.
+ER-Jharkhand-Nuclear,2035,2800000,140000,.
+ER-Jharkhand-Nuclear,2045,2800000,140000,.
+ER-Jharkhand-Nuclear_EP,2022,2800000,140000,.
+ER-Odisha-Coal-SUBCRITICAL,2025,1000000,35000,.
+ER-Odisha-Coal-SUBCRITICAL,2035,1000000,35000,.
+ER-Odisha-Coal-SUBCRITICAL,2045,1000000,35000,.
+ER-Odisha-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+ER-Odisha-Coal-SUPERCRITICAL,2025,1200000,50000,.
+ER-Odisha-Coal-SUPERCRITICAL,2035,1200000,50000,.
+ER-Odisha-Coal-SUPERCRITICAL,2045,1200000,50000,.
+ER-Odisha-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+ER-Odisha-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+ER-Odisha-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+ER-Odisha-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+ER-Odisha-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+ER-Odisha-Coal-IGCC,2025,1571000,70000,.
+ER-Odisha-Coal-IGCC,2035,1500000,70000,.
+ER-Odisha-Coal-IGCC,2045,1500000,70000,.
+ER-Odisha-Coal-IGCC_EP,2022,1571000,70000,.
+ER-Odisha-Gas-CCGT,2025,700000,25000,.
+ER-Odisha-Gas-CCGT,2035,700000,25000,.
+ER-Odisha-Gas-CCGT,2045,700000,25000,.
+ER-Odisha-Gas-CCGT_EP,2022,700000,25000,.
+ER-Odisha-Gas-turbine,2025,400000,20000,.
+ER-Odisha-Gas-turbine,2035,400000,20000,.
+ER-Odisha-Gas-turbine,2045,400000,20000,.
+ER-Odisha-Gas-turbine_EP,2022,400000,20000,.
+ER-Odisha-Nuclear,2025,2800000,140000,.
+ER-Odisha-Nuclear,2035,2800000,140000,.
+ER-Odisha-Nuclear,2045,2800000,140000,.
+ER-Odisha-Nuclear_EP,2022,2800000,140000,.
+ER-Sikkim-Coal-SUBCRITICAL,2025,1000000,35000,.
+ER-Sikkim-Coal-SUBCRITICAL,2035,1000000,35000,.
+ER-Sikkim-Coal-SUBCRITICAL,2045,1000000,35000,.
+ER-Sikkim-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+ER-Sikkim-Coal-SUPERCRITICAL,2025,1200000,50000,.
+ER-Sikkim-Coal-SUPERCRITICAL,2035,1200000,50000,.
+ER-Sikkim-Coal-SUPERCRITICAL,2045,1200000,50000,.
+ER-Sikkim-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+ER-Sikkim-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+ER-Sikkim-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+ER-Sikkim-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+ER-Sikkim-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+ER-Sikkim-Coal-IGCC,2025,1571000,70000,.
+ER-Sikkim-Coal-IGCC,2035,1500000,70000,.
+ER-Sikkim-Coal-IGCC,2045,1500000,70000,.
+ER-Sikkim-Coal-IGCC_EP,2022,1571000,70000,.
+ER-Sikkim-Gas-CCGT,2025,700000,25000,.
+ER-Sikkim-Gas-CCGT,2035,700000,25000,.
+ER-Sikkim-Gas-CCGT,2045,700000,25000,.
+ER-Sikkim-Gas-CCGT_EP,2022,700000,25000,.
+ER-Sikkim-Gas-turbine,2025,400000,20000,.
+ER-Sikkim-Gas-turbine,2035,400000,20000,.
+ER-Sikkim-Gas-turbine,2045,400000,20000,.
+ER-Sikkim-Gas-turbine_EP,2022,400000,20000,.
+ER-Sikkim-Nuclear,2025,2800000,140000,.
+ER-Sikkim-Nuclear,2035,2800000,140000,.
+ER-Sikkim-Nuclear,2045,2800000,140000,.
+ER-Sikkim-Nuclear_EP,2022,2800000,140000,.
+ER-WestBengal-Coal-SUBCRITICAL,2025,1000000,35000,.
+ER-WestBengal-Coal-SUBCRITICAL,2035,1000000,35000,.
+ER-WestBengal-Coal-SUBCRITICAL,2045,1000000,35000,.
+ER-WestBengal-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+ER-WestBengal-Coal-SUPERCRITICAL,2025,1200000,50000,.
+ER-WestBengal-Coal-SUPERCRITICAL,2035,1200000,50000,.
+ER-WestBengal-Coal-SUPERCRITICAL,2045,1200000,50000,.
+ER-WestBengal-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+ER-WestBengal-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+ER-WestBengal-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+ER-WestBengal-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+ER-WestBengal-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+ER-WestBengal-Coal-IGCC,2025,1571000,70000,.
+ER-WestBengal-Coal-IGCC,2035,1500000,70000,.
+ER-WestBengal-Coal-IGCC,2045,1500000,70000,.
+ER-WestBengal-Coal-IGCC_EP,2022,1571000,70000,.
+ER-WestBengal-Gas-CCGT,2025,700000,25000,.
+ER-WestBengal-Gas-CCGT,2035,700000,25000,.
+ER-WestBengal-Gas-CCGT,2045,700000,25000,.
+ER-WestBengal-Gas-CCGT_EP,2022,700000,25000,.
+ER-WestBengal-Gas-turbine,2025,400000,20000,.
+ER-WestBengal-Gas-turbine,2035,400000,20000,.
+ER-WestBengal-Gas-turbine,2045,400000,20000,.
+ER-WestBengal-Gas-turbine_EP,2022,400000,20000,.
+ER-WestBengal-Nuclear,2025,2800000,140000,.
+ER-WestBengal-Nuclear,2035,2800000,140000,.
+ER-WestBengal-Nuclear,2045,2800000,140000,.
+ER-WestBengal-Nuclear_EP,2022,2800000,140000,.
+NER-ArunachalPradesh-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-ArunachalPradesh-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-ArunachalPradesh-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-ArunachalPradesh-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-ArunachalPradesh-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-ArunachalPradesh-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-ArunachalPradesh-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-ArunachalPradesh-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-ArunachalPradesh-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-ArunachalPradesh-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-ArunachalPradesh-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-ArunachalPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-ArunachalPradesh-Coal-IGCC,2025,1571000,70000,.
+NER-ArunachalPradesh-Coal-IGCC,2035,1500000,70000,.
+NER-ArunachalPradesh-Coal-IGCC,2045,1500000,70000,.
+NER-ArunachalPradesh-Coal-IGCC_EP,2022,1571000,70000,.
+NER-ArunachalPradesh-Gas-CCGT,2025,700000,25000,.
+NER-ArunachalPradesh-Gas-CCGT,2035,700000,25000,.
+NER-ArunachalPradesh-Gas-CCGT,2045,700000,25000,.
+NER-ArunachalPradesh-Gas-CCGT_EP,2022,700000,25000,.
+NER-ArunachalPradesh-Gas-turbine,2025,400000,20000,.
+NER-ArunachalPradesh-Gas-turbine,2035,400000,20000,.
+NER-ArunachalPradesh-Gas-turbine,2045,400000,20000,.
+NER-ArunachalPradesh-Gas-turbine_EP,2022,400000,20000,.
+NER-ArunachalPradesh-Nuclear,2025,2800000,140000,.
+NER-ArunachalPradesh-Nuclear,2035,2800000,140000,.
+NER-ArunachalPradesh-Nuclear,2045,2800000,140000,.
+NER-ArunachalPradesh-Nuclear_EP,2022,2800000,140000,.
+NER-Assam-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-Assam-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-Assam-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-Assam-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-Assam-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-Assam-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-Assam-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-Assam-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-Assam-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-Assam-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-Assam-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-Assam-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-Assam-Coal-IGCC,2025,1571000,70000,.
+NER-Assam-Coal-IGCC,2035,1500000,70000,.
+NER-Assam-Coal-IGCC,2045,1500000,70000,.
+NER-Assam-Coal-IGCC_EP,2022,1571000,70000,.
+NER-Assam-Gas-CCGT,2025,700000,25000,.
+NER-Assam-Gas-CCGT,2035,700000,25000,.
+NER-Assam-Gas-CCGT,2045,700000,25000,.
+NER-Assam-Gas-CCGT_EP,2022,700000,25000,.
+NER-Assam-Gas-turbine,2025,400000,20000,.
+NER-Assam-Gas-turbine,2035,400000,20000,.
+NER-Assam-Gas-turbine,2045,400000,20000,.
+NER-Assam-Gas-turbine_EP,2022,400000,20000,.
+NER-Assam-Nuclear,2025,2800000,140000,.
+NER-Assam-Nuclear,2035,2800000,140000,.
+NER-Assam-Nuclear,2045,2800000,140000,.
+NER-Assam-Nuclear_EP,2022,2800000,140000,.
+NER-Manipur-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-Manipur-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-Manipur-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-Manipur-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-Manipur-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-Manipur-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-Manipur-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-Manipur-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-Manipur-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-Manipur-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-Manipur-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-Manipur-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-Manipur-Coal-IGCC,2025,1571000,70000,.
+NER-Manipur-Coal-IGCC,2035,1500000,70000,.
+NER-Manipur-Coal-IGCC,2045,1500000,70000,.
+NER-Manipur-Coal-IGCC_EP,2022,1571000,70000,.
+NER-Manipur-Gas-CCGT,2025,700000,25000,.
+NER-Manipur-Gas-CCGT,2035,700000,25000,.
+NER-Manipur-Gas-CCGT,2045,700000,25000,.
+NER-Manipur-Gas-CCGT_EP,2022,700000,25000,.
+NER-Manipur-Gas-turbine,2025,400000,20000,.
+NER-Manipur-Gas-turbine,2035,400000,20000,.
+NER-Manipur-Gas-turbine,2045,400000,20000,.
+NER-Manipur-Gas-turbine_EP,2022,400000,20000,.
+NER-Manipur-Nuclear,2025,2800000,140000,.
+NER-Manipur-Nuclear,2035,2800000,140000,.
+NER-Manipur-Nuclear,2045,2800000,140000,.
+NER-Manipur-Nuclear_EP,2022,2800000,140000,.
+NER-Meghalaya-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-Meghalaya-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-Meghalaya-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-Meghalaya-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-Meghalaya-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-Meghalaya-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-Meghalaya-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-Meghalaya-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-Meghalaya-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-Meghalaya-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-Meghalaya-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-Meghalaya-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-Meghalaya-Coal-IGCC,2025,1571000,70000,.
+NER-Meghalaya-Coal-IGCC,2035,1500000,70000,.
+NER-Meghalaya-Coal-IGCC,2045,1500000,70000,.
+NER-Meghalaya-Coal-IGCC_EP,2022,1571000,70000,.
+NER-Meghalaya-Gas-CCGT,2025,700000,25000,.
+NER-Meghalaya-Gas-CCGT,2035,700000,25000,.
+NER-Meghalaya-Gas-CCGT,2045,700000,25000,.
+NER-Meghalaya-Gas-CCGT_EP,2022,700000,25000,.
+NER-Meghalaya-Gas-turbine,2025,400000,20000,.
+NER-Meghalaya-Gas-turbine,2035,400000,20000,.
+NER-Meghalaya-Gas-turbine,2045,400000,20000,.
+NER-Meghalaya-Gas-turbine_EP,2022,400000,20000,.
+NER-Meghalaya-Nuclear,2025,2800000,140000,.
+NER-Meghalaya-Nuclear,2035,2800000,140000,.
+NER-Meghalaya-Nuclear,2045,2800000,140000,.
+NER-Meghalaya-Nuclear_EP,2022,2800000,140000,.
+NER-Mizoram-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-Mizoram-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-Mizoram-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-Mizoram-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-Mizoram-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-Mizoram-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-Mizoram-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-Mizoram-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-Mizoram-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-Mizoram-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-Mizoram-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-Mizoram-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-Mizoram-Coal-IGCC,2025,1571000,70000,.
+NER-Mizoram-Coal-IGCC,2035,1500000,70000,.
+NER-Mizoram-Coal-IGCC,2045,1500000,70000,.
+NER-Mizoram-Coal-IGCC_EP,2022,1571000,70000,.
+NER-Mizoram-Gas-CCGT,2025,700000,25000,.
+NER-Mizoram-Gas-CCGT,2035,700000,25000,.
+NER-Mizoram-Gas-CCGT,2045,700000,25000,.
+NER-Mizoram-Gas-CCGT_EP,2022,700000,25000,.
+NER-Mizoram-Gas-turbine,2025,400000,20000,.
+NER-Mizoram-Gas-turbine,2035,400000,20000,.
+NER-Mizoram-Gas-turbine,2045,400000,20000,.
+NER-Mizoram-Gas-turbine_EP,2022,400000,20000,.
+NER-Mizoram-Nuclear,2025,2800000,140000,.
+NER-Mizoram-Nuclear,2035,2800000,140000,.
+NER-Mizoram-Nuclear,2045,2800000,140000,.
+NER-Mizoram-Nuclear_EP,2022,2800000,140000,.
+NER-Nagaland-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-Nagaland-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-Nagaland-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-Nagaland-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-Nagaland-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-Nagaland-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-Nagaland-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-Nagaland-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-Nagaland-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-Nagaland-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-Nagaland-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-Nagaland-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-Nagaland-Coal-IGCC,2025,1571000,70000,.
+NER-Nagaland-Coal-IGCC,2035,1500000,70000,.
+NER-Nagaland-Coal-IGCC,2045,1500000,70000,.
+NER-Nagaland-Coal-IGCC_EP,2022,1571000,70000,.
+NER-Nagaland-Gas-CCGT,2025,700000,25000,.
+NER-Nagaland-Gas-CCGT,2035,700000,25000,.
+NER-Nagaland-Gas-CCGT,2045,700000,25000,.
+NER-Nagaland-Gas-CCGT_EP,2022,700000,25000,.
+NER-Nagaland-Gas-turbine,2025,400000,20000,.
+NER-Nagaland-Gas-turbine,2035,400000,20000,.
+NER-Nagaland-Gas-turbine,2045,400000,20000,.
+NER-Nagaland-Gas-turbine_EP,2022,400000,20000,.
+NER-Nagaland-Nuclear,2025,2800000,140000,.
+NER-Nagaland-Nuclear,2035,2800000,140000,.
+NER-Nagaland-Nuclear,2045,2800000,140000,.
+NER-Nagaland-Nuclear_EP,2022,2800000,140000,.
+NER-Tripura-Coal-SUBCRITICAL,2025,1000000,35000,.
+NER-Tripura-Coal-SUBCRITICAL,2035,1000000,35000,.
+NER-Tripura-Coal-SUBCRITICAL,2045,1000000,35000,.
+NER-Tripura-Coal-SUBCRITICAL_EP,2022,1000000,35000,.
+NER-Tripura-Coal-SUPERCRITICAL,2025,1200000,50000,.
+NER-Tripura-Coal-SUPERCRITICAL,2035,1200000,50000,.
+NER-Tripura-Coal-SUPERCRITICAL,2045,1200000,50000,.
+NER-Tripura-Coal-SUPERCRITICAL_EP,2022,1200000,50000,.
+NER-Tripura-Coal-ULTRASUPERCRITICAL,2025,1400000,55000,.
+NER-Tripura-Coal-ULTRASUPERCRITICAL,2035,1400000,55000,.
+NER-Tripura-Coal-ULTRASUPERCRITICAL,2045,1400000,55000,.
+NER-Tripura-Coal-ULTRASUPERCRITICAL_EP,2022,1400000,55000,.
+NER-Tripura-Coal-IGCC,2025,1571000,70000,.
+NER-Tripura-Coal-IGCC,2035,1500000,70000,.
+NER-Tripura-Coal-IGCC,2045,1500000,70000,.
+NER-Tripura-Coal-IGCC_EP,2022,1571000,70000,.
+NER-Tripura-Gas-CCGT,2025,700000,25000,.
+NER-Tripura-Gas-CCGT,2035,700000,25000,.
+NER-Tripura-Gas-CCGT,2045,700000,25000,.
+NER-Tripura-Gas-CCGT_EP,2022,700000,25000,.
+NER-Tripura-Gas-turbine,2025,400000,20000,.
+NER-Tripura-Gas-turbine,2035,400000,20000,.
+NER-Tripura-Gas-turbine,2045,400000,20000,.
+NER-Tripura-Gas-turbine_EP,2022,400000,20000,.
+NER-Tripura-Nuclear,2025,2800000,140000,.
+NER-Tripura-Nuclear,2035,2800000,140000,.
+NER-Tripura-Nuclear,2045,2800000,140000,.
+NER-Tripura-Nuclear_EP,2022,2800000,140000,.
+NR-test_CAES,2025,0,11475,128175
+NR-test_CAES,2035,0,11475,128175
+NR-test_CAES,2045,0,11475,128175
+SR-test_CAES,2025,0,11475,128175
+SR-test_CAES,2035,0,11475,128175
+SR-test_CAES,2045,0,11475,128175
+ER-test_CAES,2025,0,11475,128175
+ER-test_CAES,2035,0,11475,128175
+ER-test_CAES,2045,0,11475,128175
+WR-test_CAES,2025,0,11475,128175
+WR-test_CAES,2035,0,11475,128175
+WR-test_CAES,2045,0,11475,128175
+NER-test_CAES,2025,0,11475,128175
+NER-test_CAES,2035,0,11475,128175
+NER-test_CAES,2045,0,11475,128175
+NR-test_H2,2025,0,15975,97675
+NR-test_H2,2035,0,9625,49450
+NR-test_H2,2045,0,7688,38563
+SR-test_H2,2025,0,15975,97675
+SR-test_H2,2035,0,9625,49450
+SR-test_H2,2045,0,7688,38563
+ER-test_H2,2025,0,15975,97675
+ER-test_H2,2035,0,9625,49450
+ER-test_H2,2045,0,7688,38563
+WR-test_H2,2025,0,15975,97675
+WR-test_H2,2035,0,9625,49450
+WR-test_H2,2045,0,7688,38563
+NER-test_H2,2025,0,15975,97675
+NER-test_H2,2035,0,9625,49450
+NER-test_H2,2045,0,7688,38563

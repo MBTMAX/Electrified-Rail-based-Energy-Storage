@@ -1,0 +1,8 @@
+﻿TRANSMISSION_LINE,trans_lz1,trans_lz2,trans_length_km,trans_efficiency,existing_trans_cap,trans_new_build_allowed
+WR-SR,WR,SR,545.8,0.9,9740,TRUE
+WR-NR,WR,NR,495.8,0.9,16846,TRUE
+ER-SR,ER,SR,730.8,0.9,6713,TRUE
+ER-WR,ER,WR,315.2,0.9,3267,TRUE
+ER-NR,ER,NR,589.9,0.9,5594,TRUE
+NR-NER,NR,NER,1346.5,0.9,3000,TRUE
+ER-NER,ER,NER,649.6,0.9,1134,TRUE

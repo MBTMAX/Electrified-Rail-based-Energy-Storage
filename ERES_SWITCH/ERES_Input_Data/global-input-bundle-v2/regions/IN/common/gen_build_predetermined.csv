@@ -1,0 +1,412 @@
+GENERATION_PROJECT,build_year,build_gen_predetermined,gen_can_retire_early
+NR-Chandigarh-PV_EP,2022,24,1
+NR-Chandigarh-Onshore_EP,2022,0,1
+NR-Delhi-PV_EP,2022,28,1
+NR-Delhi-Onshore_EP,2022,0,1
+NR-Haryana-PV_EP,2022,92,1
+NR-Haryana-Onshore_EP,2022,0,1
+NR-HimachalPradesh-PV_EP,2022,0,1
+NR-HimachalPradesh-Onshore_EP,2022,0,1
+NR-JammuandKashmir-PV_EP,2022,0,1
+NR-JammuandKashmir-Onshore_EP,2022,0,1
+NR-Punjab-PV_EP,2022,210,1
+NR-Punjab-Onshore_EP,2022,0,1
+NR-Rajasthan-PV_EP,2022,1953,1
+NR-Rajasthan-Onshore_EP,2022,3728,1
+NR-Uttarakhand-PV_EP,2022,0,1
+NR-Uttarakhand-Onshore_EP,2022,0,1
+NR-UttarPradesh-PV_EP,2022,0,1
+NR-UttarPradesh-Onshore_EP,2022,0,1
+WR-Chhatisgarh-PV_EP,2022,16,1
+WR-Chhatisgarh-Onshore_EP,2022,0,1
+WR-Goa-PV_EP,2022,0,1
+WR-Goa-Onshore_EP,2022,0,1
+WR-Gujarat-PV_EP,2022,1048,1
+WR-Gujarat-Onshore_EP,2022,3639,1
+WR-MadhyaPradesh-PV_EP,2022,596,1
+WR-MadhyaPradesh-Onshore_EP,2022,881,1
+WR-Maharashtra-PV_EP,2022,594,1
+WR-Maharashtra-Onshore_EP,2022,4442,1
+SR-AndhraPradeshandTelangana-PV_EP,2022,344,1
+SR-AndhraPradeshandTelangana-Onshore_EP,2022,1037,1
+SR-Karnataka-PV_EP,2022,80,1
+SR-Karnataka-Onshore_EP,2022,2859,1
+SR-Kerala-PV_EP,2022,0,1
+SR-Kerala-Onshore_EP,2022,0,1
+SR-Puducherry-PV_EP,2022,0,1
+SR-Puducherry-Onshore_EP,2022,0,1
+SR-Tamilnadu-PV_EP,2022,160,1
+SR-Tamilnadu-Onshore_EP,2022,5790,1
+ER-Bihar-PV_EP,2022,0,1
+ER-Bihar-Onshore_EP,2022,0,1
+ER-Jharkhand-PV_EP,2022,28,1
+ER-Jharkhand-Onshore_EP,2022,0,1
+ER-Odisha-PV_EP,2022,41,1
+ER-Odisha-Onshore_EP,2022,0,1
+ER-Sikkim-PV_EP,2022,0,1
+ER-Sikkim-Onshore_EP,2022,0,1
+ER-WestBengal-PV_EP,2022,28,1
+ER-WestBengal-Onshore_EP,2022,0,1
+NER-ArunachalPradesh-PV_EP,2022,0,1
+NER-ArunachalPradesh-Onshore_EP,2022,0,1
+NER-Assam-PV_EP,2022,0,1
+NER-Assam-Onshore_EP,2022,0,1
+NER-Manipur-PV_EP,2022,0,1
+NER-Manipur-Onshore_EP,2022,0,1
+NER-Meghalaya-PV_EP,2022,0,1
+NER-Meghalaya-Onshore_EP,2022,0,1
+NER-Mizoram-PV_EP,2022,0,1
+NER-Mizoram-Onshore_EP,2022,0,1
+NER-Nagaland-PV_EP,2022,0,1
+NER-Nagaland-Onshore_EP,2022,0,1
+NER-Tripura-PV_EP,2022,41,1
+NER-Tripura-Onshore_EP,2022,0,1
+NR-Chandigarh-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-Chandigarh-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-Chandigarh-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-Chandigarh-Coal-IGCC_EP,2022,0,1
+NR-Chandigarh-Gas-CCGT_EP,2022,633.3333333,1
+NR-Chandigarh-Gas-turbine_EP,2022,0,1
+NR-Chandigarh-Nuclear_EP,2022,188.8888889,1
+NR-Delhi-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-Delhi-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-Delhi-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-Delhi-Coal-IGCC_EP,2022,0,1
+NR-Delhi-Gas-CCGT_EP,2022,633.3333333,1
+NR-Delhi-Gas-turbine_EP,2022,0,1
+NR-Delhi-Nuclear_EP,2022,188.8888889,1
+NR-Haryana-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-Haryana-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-Haryana-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-Haryana-Coal-IGCC_EP,2022,0,1
+NR-Haryana-Gas-CCGT_EP,2022,633.3333333,1
+NR-Haryana-Gas-turbine_EP,2022,0,1
+NR-Haryana-Nuclear_EP,2022,188.8888889,1
+NR-HimachalPradesh-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-HimachalPradesh-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-HimachalPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-HimachalPradesh-Coal-IGCC_EP,2022,0,1
+NR-HimachalPradesh-Gas-CCGT_EP,2022,633.3333333,1
+NR-HimachalPradesh-Gas-turbine_EP,2022,0,1
+NR-HimachalPradesh-Nuclear_EP,2022,188.8888889,1
+NR-JammuandKashmir-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-JammuandKashmir-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-JammuandKashmir-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-JammuandKashmir-Coal-IGCC_EP,2022,0,1
+NR-JammuandKashmir-Gas-CCGT_EP,2022,633.3333333,1
+NR-JammuandKashmir-Gas-turbine_EP,2022,0,1
+NR-JammuandKashmir-Nuclear_EP,2022,188.8888889,1
+NR-Punjab-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-Punjab-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-Punjab-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-Punjab-Coal-IGCC_EP,2022,0,1
+NR-Punjab-Gas-CCGT_EP,2022,633.3333333,1
+NR-Punjab-Gas-turbine_EP,2022,0,1
+NR-Punjab-Nuclear_EP,2022,188.8888889,1
+NR-Rajasthan-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-Rajasthan-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-Rajasthan-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-Rajasthan-Coal-IGCC_EP,2022,0,1
+NR-Rajasthan-Gas-CCGT_EP,2022,633.3333333,1
+NR-Rajasthan-Gas-turbine_EP,2022,0,1
+NR-Rajasthan-Nuclear_EP,2022,188.8888889,1
+NR-Uttarakhand-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-Uttarakhand-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-Uttarakhand-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-Uttarakhand-Coal-IGCC_EP,2022,0,1
+NR-Uttarakhand-Gas-CCGT_EP,2022,633.3333333,1
+NR-Uttarakhand-Gas-turbine_EP,2022,0,1
+NR-Uttarakhand-Nuclear_EP,2022,188.8888889,1
+NR-UttarPradesh-Coal-SUBCRITICAL_EP,2022,3666.666667,1
+NR-UttarPradesh-Coal-SUPERCRITICAL_EP,2022,1555.555556,1
+NR-UttarPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NR-UttarPradesh-Coal-IGCC_EP,2022,0,1
+NR-UttarPradesh-Gas-CCGT_EP,2022,633.3333333,1
+NR-UttarPradesh-Gas-turbine_EP,2022,0,1
+NR-UttarPradesh-Nuclear_EP,2022,188.8888889,1
+WR-Chhatisgarh-Coal-SUBCRITICAL_EP,2022,12800,1
+WR-Chhatisgarh-Coal-SUPERCRITICAL_EP,2022,6600,1
+WR-Chhatisgarh-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+WR-Chhatisgarh-Coal-IGCC_EP,2022,0,1
+WR-Chhatisgarh-Gas-CCGT_EP,2022,2000,1
+WR-Chhatisgarh-Gas-turbine_EP,2022,0,1
+WR-Chhatisgarh-Nuclear_EP,2022,360,1
+WR-Goa-Coal-SUBCRITICAL_EP,2022,12800,1
+WR-Goa-Coal-SUPERCRITICAL_EP,2022,6600,1
+WR-Goa-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+WR-Goa-Coal-IGCC_EP,2022,0,1
+WR-Goa-Gas-CCGT_EP,2022,2000,1
+WR-Goa-Gas-turbine_EP,2022,0,1
+WR-Goa-Nuclear_EP,2022,360,1
+WR-Gujarat-Coal-SUBCRITICAL_EP,2022,12800,1
+WR-Gujarat-Coal-SUPERCRITICAL_EP,2022,6600,1
+WR-Gujarat-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+WR-Gujarat-Coal-IGCC_EP,2022,0,1
+WR-Gujarat-Gas-CCGT_EP,2022,2000,1
+WR-Gujarat-Gas-turbine_EP,2022,0,1
+WR-Gujarat-Nuclear_EP,2022,360,1
+WR-MadhyaPradesh-Coal-SUBCRITICAL_EP,2022,12800,1
+WR-MadhyaPradesh-Coal-SUPERCRITICAL_EP,2022,6600,1
+WR-MadhyaPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+WR-MadhyaPradesh-Coal-IGCC_EP,2022,0,1
+WR-MadhyaPradesh-Gas-CCGT_EP,2022,2000,1
+WR-MadhyaPradesh-Gas-turbine_EP,2022,0,1
+WR-MadhyaPradesh-Nuclear_EP,2022,360,1
+WR-Maharashtra-Coal-SUBCRITICAL_EP,2022,12800,1
+WR-Maharashtra-Coal-SUPERCRITICAL_EP,2022,6600,1
+WR-Maharashtra-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+WR-Maharashtra-Coal-IGCC_EP,2022,0,1
+WR-Maharashtra-Gas-CCGT_EP,2022,2000,1
+WR-Maharashtra-Gas-turbine_EP,2022,0,1
+WR-Maharashtra-Nuclear_EP,2022,360,1
+SR-AndhraPradeshandTelangana-Coal-SUBCRITICAL_EP,2022,7000,1
+SR-AndhraPradeshandTelangana-Coal-SUPERCRITICAL_EP,2022,2200,1
+SR-AndhraPradeshandTelangana-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+SR-AndhraPradeshandTelangana-Coal-IGCC_EP,2022,0,1
+SR-AndhraPradeshandTelangana-Gas-CCGT_EP,2022,980,1
+SR-AndhraPradeshandTelangana-Gas-turbine_EP,2022,200,1
+SR-AndhraPradeshandTelangana-Nuclear_EP,2022,860,1
+SR-Karnataka-Coal-SUBCRITICAL_EP,2022,7000,1
+SR-Karnataka-Coal-SUPERCRITICAL_EP,2022,2200,1
+SR-Karnataka-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+SR-Karnataka-Coal-IGCC_EP,2022,0,1
+SR-Karnataka-Gas-CCGT_EP,2022,980,1
+SR-Karnataka-Gas-turbine_EP,2022,200,1
+SR-Karnataka-Nuclear_EP,2022,860,1
+SR-Kerala-Coal-SUBCRITICAL_EP,2022,7000,1
+SR-Kerala-Coal-SUPERCRITICAL_EP,2022,2200,1
+SR-Kerala-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+SR-Kerala-Coal-IGCC_EP,2022,0,1
+SR-Kerala-Gas-CCGT_EP,2022,980,1
+SR-Kerala-Gas-turbine_EP,2022,200,1
+SR-Kerala-Nuclear_EP,2022,860,1
+SR-Puducherry-Coal-SUBCRITICAL_EP,2022,7000,1
+SR-Puducherry-Coal-SUPERCRITICAL_EP,2022,2200,1
+SR-Puducherry-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+SR-Puducherry-Coal-IGCC_EP,2022,0,1
+SR-Puducherry-Gas-CCGT_EP,2022,980,1
+SR-Puducherry-Gas-turbine_EP,2022,200,1
+SR-Puducherry-Nuclear_EP,2022,860,1
+SR-Tamilnadu-Coal-SUBCRITICAL_EP,2022,7000,1
+SR-Tamilnadu-Coal-SUPERCRITICAL_EP,2022,2200,1
+SR-Tamilnadu-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+SR-Tamilnadu-Coal-IGCC_EP,2022,0,1
+SR-Tamilnadu-Gas-CCGT_EP,2022,980,1
+SR-Tamilnadu-Gas-turbine_EP,2022,200,1
+SR-Tamilnadu-Nuclear_EP,2022,860,1
+ER-Bihar-Coal-SUBCRITICAL_EP,2022,6800,1
+ER-Bihar-Coal-SUPERCRITICAL_EP,2022,2200,1
+ER-Bihar-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+ER-Bihar-Coal-IGCC_EP,2022,0,1
+ER-Bihar-Gas-CCGT_EP,2022,0,1
+ER-Bihar-Gas-turbine_EP,2022,0,1
+ER-Bihar-Nuclear_EP,2022,0,1
+ER-Jharkhand-Coal-SUBCRITICAL_EP,2022,6800,1
+ER-Jharkhand-Coal-SUPERCRITICAL_EP,2022,2200,1
+ER-Jharkhand-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+ER-Jharkhand-Coal-IGCC_EP,2022,0,1
+ER-Jharkhand-Gas-CCGT_EP,2022,0,1
+ER-Jharkhand-Gas-turbine_EP,2022,0,1
+ER-Jharkhand-Nuclear_EP,2022,0,1
+ER-Odisha-Coal-SUBCRITICAL_EP,2022,6800,1
+ER-Odisha-Coal-SUPERCRITICAL_EP,2022,2200,1
+ER-Odisha-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+ER-Odisha-Coal-IGCC_EP,2022,0,1
+ER-Odisha-Gas-CCGT_EP,2022,0,1
+ER-Odisha-Gas-turbine_EP,2022,0,1
+ER-Odisha-Nuclear_EP,2022,0,1
+ER-Sikkim-Coal-SUBCRITICAL_EP,2022,6800,1
+ER-Sikkim-Coal-SUPERCRITICAL_EP,2022,2200,1
+ER-Sikkim-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+ER-Sikkim-Coal-IGCC_EP,2022,0,1
+ER-Sikkim-Gas-CCGT_EP,2022,0,1
+ER-Sikkim-Gas-turbine_EP,2022,0,1
+ER-Sikkim-Nuclear_EP,2022,0,1
+ER-WestBengal-Coal-SUBCRITICAL_EP,2022,6800,1
+ER-WestBengal-Coal-SUPERCRITICAL_EP,2022,2200,1
+ER-WestBengal-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+ER-WestBengal-Coal-IGCC_EP,2022,0,1
+ER-WestBengal-Gas-CCGT_EP,2022,0,1
+ER-WestBengal-Gas-turbine_EP,2022,0,1
+ER-WestBengal-Nuclear_EP,2022,0,1
+NER-ArunachalPradesh-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-ArunachalPradesh-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-ArunachalPradesh-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-ArunachalPradesh-Coal-IGCC_EP,2022,0,1
+NER-ArunachalPradesh-Gas-CCGT_EP,2022,171.4285714,1
+NER-ArunachalPradesh-Gas-turbine_EP,2022,57.14285714,1
+NER-ArunachalPradesh-Nuclear_EP,2022,0,1
+NER-Assam-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-Assam-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-Assam-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-Assam-Coal-IGCC_EP,2022,0,1
+NER-Assam-Gas-CCGT_EP,2022,171.4285714,1
+NER-Assam-Gas-turbine_EP,2022,57.14285714,1
+NER-Assam-Nuclear_EP,2022,0,1
+NER-Manipur-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-Manipur-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-Manipur-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-Manipur-Coal-IGCC_EP,2022,0,1
+NER-Manipur-Gas-CCGT_EP,2022,171.4285714,1
+NER-Manipur-Gas-turbine_EP,2022,57.14285714,1
+NER-Manipur-Nuclear_EP,2022,0,1
+NER-Meghalaya-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-Meghalaya-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-Meghalaya-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-Meghalaya-Coal-IGCC_EP,2022,0,1
+NER-Meghalaya-Gas-CCGT_EP,2022,171.4285714,1
+NER-Meghalaya-Gas-turbine_EP,2022,57.14285714,1
+NER-Meghalaya-Nuclear_EP,2022,0,1
+NER-Mizoram-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-Mizoram-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-Mizoram-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-Mizoram-Coal-IGCC_EP,2022,0,1
+NER-Mizoram-Gas-CCGT_EP,2022,171.4285714,1
+NER-Mizoram-Gas-turbine_EP,2022,57.14285714,1
+NER-Mizoram-Nuclear_EP,2022,0,1
+NER-Nagaland-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-Nagaland-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-Nagaland-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-Nagaland-Coal-IGCC_EP,2022,0,1
+NER-Nagaland-Gas-CCGT_EP,2022,171.4285714,1
+NER-Nagaland-Gas-turbine_EP,2022,57.14285714,1
+NER-Nagaland-Nuclear_EP,2022,0,1
+NER-Tripura-Coal-SUBCRITICAL_EP,2022,85.71428571,1
+NER-Tripura-Coal-SUPERCRITICAL_EP,2022,0,1
+NER-Tripura-Coal-ULTRASUPERCRITICAL_EP,2022,0,1
+NER-Tripura-Coal-IGCC_EP,2022,0,1
+NER-Tripura-Gas-CCGT_EP,2022,171.4285714,1
+NER-Tripura-Gas-turbine_EP,2022,57.14285714,1
+NER-Tripura-Nuclear_EP,2022,0,1
+ER-Bihar-Pumped Storage_EP,2022,216.113744,1
+ER-Bihar-RoR-with Pondage_EP,2022,563.2164296,1
+ER-Bihar-Run-of-River_EP,2022,17.28909953,1
+ER-Bihar-Storage_EP,2022,343.3807266,1
+ER-Jharkhand-Pumped Storage_EP,2022,216.113744,1
+ER-Jharkhand-RoR-with Pondage_EP,2022,563.2164296,1
+ER-Jharkhand-Run-of-River_EP,2022,17.28909953,1
+ER-Jharkhand-Storage_EP,2022,343.3807266,1
+ER-Odisha-Pumped Storage_EP,2022,216.113744,1
+ER-Odisha-RoR-with Pondage_EP,2022,563.2164296,1
+ER-Odisha-Run-of-River_EP,2022,17.28909953,1
+ER-Odisha-Storage_EP,2022,343.3807266,1
+ER-Sikkim-Pumped Storage_EP,2022,216.113744,1
+ER-Sikkim-RoR-with Pondage_EP,2022,563.2164296,1
+ER-Sikkim-Run-of-River_EP,2022,17.28909953,1
+ER-Sikkim-Storage_EP,2022,343.3807266,1
+ER-WestBengal-Pumped Storage_EP,2022,216.113744,1
+ER-WestBengal-RoR-with Pondage_EP,2022,563.2164296,1
+ER-WestBengal-Run-of-River_EP,2022,17.28909953,1
+ER-WestBengal-Storage_EP,2022,343.3807266,1
+NER-ArunachalPradesh-Pumped Storage_EP,2022,0,1
+NER-ArunachalPradesh-RoR-with Pondage_EP,2022,386.6877971,1
+NER-ArunachalPradesh-Run-of-River_EP,2022,136.7217568,1
+NER-ArunachalPradesh-Storage_EP,2022,348.0190174,1
+NER-Assam-Pumped Storage_EP,2022,0,1
+NER-Assam-RoR-with Pondage_EP,2022,386.6877971,1
+NER-Assam-Run-of-River_EP,2022,136.7217568,1
+NER-Assam-Storage_EP,2022,348.0190174,1
+NER-Manipur-Pumped Storage_EP,2022,0,1
+NER-Manipur-RoR-with Pondage_EP,2022,386.6877971,1
+NER-Manipur-Run-of-River_EP,2022,136.7217568,1
+NER-Manipur-Storage_EP,2022,348.0190174,1
+NER-Meghalaya-Pumped Storage_EP,2022,0,1
+NER-Meghalaya-RoR-with Pondage_EP,2022,386.6877971,1
+NER-Meghalaya-Run-of-River_EP,2022,136.7217568,1
+NER-Meghalaya-Storage_EP,2022,348.0190174,1
+NER-Mizoram-Pumped Storage_EP,2022,0,1
+NER-Mizoram-RoR-with Pondage_EP,2022,386.6877971,1
+NER-Mizoram-Run-of-River_EP,2022,136.7217568,1
+NER-Mizoram-Storage_EP,2022,348.0190174,1
+NER-Nagaland-Pumped Storage_EP,2022,0,1
+NER-Nagaland-RoR-with Pondage_EP,2022,386.6877971,1
+NER-Nagaland-Run-of-River_EP,2022,136.7217568,1
+NER-Nagaland-Storage_EP,2022,348.0190174,1
+NER-Tripura-Pumped Storage_EP,2022,0,1
+NER-Tripura-RoR-with Pondage_EP,2022,386.6877971,1
+NER-Tripura-Run-of-River_EP,2022,136.7217568,1
+NER-Tripura-Storage_EP,2022,348.0190174,1
+NR-Chandigarh-Pumped Storage_EP,2022,0,1
+NR-Chandigarh-RoR-with Pondage_EP,2022,797.5300559,1
+NR-Chandigarh-Run-of-River_EP,2022,975.1004892,1
+NR-Chandigarh-Storage_EP,2022,1116.258343,1
+NR-Delhi-Pumped Storage_EP,2022,0,1
+NR-Delhi-RoR-with Pondage_EP,2022,797.5300559,1
+NR-Delhi-Run-of-River_EP,2022,975.1004892,1
+NR-Delhi-Storage_EP,2022,1116.258343,1
+NR-Haryana-Pumped Storage_EP,2022,0,1
+NR-Haryana-RoR-with Pondage_EP,2022,797.5300559,1
+NR-Haryana-Run-of-River_EP,2022,975.1004892,1
+NR-Haryana-Storage_EP,2022,1116.258343,1
+NR-HimachalPradesh-Pumped Storage_EP,2022,0,1
+NR-HimachalPradesh-RoR-with Pondage_EP,2022,797.5300559,1
+NR-HimachalPradesh-Run-of-River_EP,2022,975.1004892,1
+NR-HimachalPradesh-Storage_EP,2022,1116.258343,1
+NR-JammuandKashmir-Pumped Storage_EP,2022,0,1
+NR-JammuandKashmir-RoR-with Pondage_EP,2022,797.5300559,1
+NR-JammuandKashmir-Run-of-River_EP,2022,975.1004892,1
+NR-JammuandKashmir-Storage_EP,2022,1116.258343,1
+NR-Punjab-Pumped Storage_EP,2022,0,1
+NR-Punjab-RoR-with Pondage_EP,2022,797.5300559,1
+NR-Punjab-Run-of-River_EP,2022,975.1004892,1
+NR-Punjab-Storage_EP,2022,1116.258343,1
+NR-Rajasthan-Pumped Storage_EP,2022,0,1
+NR-Rajasthan-RoR-with Pondage_EP,2022,797.5300559,1
+NR-Rajasthan-Run-of-River_EP,2022,975.1004892,1
+NR-Rajasthan-Storage_EP,2022,1116.258343,1
+NR-Uttarakhand-Pumped Storage_EP,2022,0,1
+NR-Uttarakhand-RoR-with Pondage_EP,2022,797.5300559,1
+NR-Uttarakhand-Run-of-River_EP,2022,975.1004892,1
+NR-Uttarakhand-Storage_EP,2022,1116.258343,1
+NR-UttarPradesh-Pumped Storage_EP,2022,0,1
+NR-UttarPradesh-RoR-with Pondage_EP,2022,797.5300559,1
+NR-UttarPradesh-Run-of-River_EP,2022,975.1004892,1
+NR-UttarPradesh-Storage_EP,2022,1116.258343,1
+SR-AndhraPradeshandTelangana-Pumped Storage_EP,2022,344.1604724,1
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2022,140.5763161,1
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2022,238.5296812,1
+SR-AndhraPradeshandTelangana-Storage_EP,2022,1876.73353,1
+SR-Karnataka-Pumped Storage_EP,2022,344.1604724,1
+SR-Karnataka-RoR-with Pondage_EP,2022,140.5763161,1
+SR-Karnataka-Run-of-River_EP,2022,238.5296812,1
+SR-Karnataka-Storage_EP,2022,1876.73353,1
+SR-Kerala-Pumped Storage_EP,2022,344.1604724,1
+SR-Kerala-RoR-with Pondage_EP,2022,140.5763161,1
+SR-Kerala-Run-of-River_EP,2022,238.5296812,1
+SR-Kerala-Storage_EP,2022,1876.73353,1
+SR-Puducherry-Pumped Storage_EP,2022,344.1604724,1
+SR-Puducherry-RoR-with Pondage_EP,2022,140.5763161,1
+SR-Puducherry-Run-of-River_EP,2022,238.5296812,1
+SR-Puducherry-Storage_EP,2022,1876.73353,1
+SR-Tamilnadu-Pumped Storage_EP,2022,344.1604724,1
+SR-Tamilnadu-RoR-with Pondage_EP,2022,140.5763161,1
+SR-Tamilnadu-Run-of-River_EP,2022,238.5296812,1
+SR-Tamilnadu-Storage_EP,2022,1876.73353,1
+WR-Chhatisgarh-Pumped Storage_EP,2022,140.4834676,1
+WR-Chhatisgarh-RoR-with Pondage_EP,2022,184.3845513,1
+WR-Chhatisgarh-Run-of-River_EP,2022,61.46151708,1
+WR-Chhatisgarh-Storage_EP,2022,1193.670464,1
+WR-Goa-Pumped Storage_EP,2022,140.4834676,1
+WR-Goa-RoR-with Pondage_EP,2022,184.3845513,1
+WR-Goa-Run-of-River_EP,2022,61.46151708,1
+WR-Goa-Storage_EP,2022,1193.670464,1
+WR-Gujarat-Pumped Storage_EP,2022,140.4834676,1
+WR-Gujarat-RoR-with Pondage_EP,2022,184.3845513,1
+WR-Gujarat-Run-of-River_EP,2022,61.46151708,1
+WR-Gujarat-Storage_EP,2022,1193.670464,1
+WR-MadhyaPradesh-Pumped Storage_EP,2022,140.4834676,1
+WR-MadhyaPradesh-RoR-with Pondage_EP,2022,184.3845513,1
+WR-MadhyaPradesh-Run-of-River_EP,2022,61.46151708,1
+WR-MadhyaPradesh-Storage_EP,2022,1193.670464,1
+WR-Maharashtra-Pumped Storage_EP,2022,140.4834676,1
+WR-Maharashtra-RoR-with Pondage_EP,2022,184.3845513,1
+WR-Maharashtra-Run-of-River_EP,2022,61.46151708,1
+WR-Maharashtra-Storage_EP,2022,1193.670464,1
+WR-Gujarat-Offshore_EP,2022,0,1
+WR-Maharashtra-Offshore_EP,2022,0,1
+SR-AndhraPradeshandTelangana-Offshore_EP,2022,0,1
+SR-Karnataka-Offshore_EP,2022,0,1
+SR-Kerala-Offshore_EP,2022,0,1
+SR-Tamilnadu-Offshore_EP,2022,0,1
+ER-Odisha-Offshore_EP,2022,0,1
+ER-WestBengal-Offshore_EP,2022,0,1

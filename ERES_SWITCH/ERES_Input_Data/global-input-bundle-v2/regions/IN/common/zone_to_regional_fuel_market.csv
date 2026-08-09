@@ -1,0 +1,16 @@
+﻿load_zone,regional_fuel_market
+NR,IN_gas
+WR,IN_gas
+SR,IN_gas
+ER,IN_gas
+NER,IN_gas
+NR,IN_uranium
+WR,IN_uranium
+SR,IN_uranium
+ER,IN_uranium
+NER,IN_uranium
+NR,IN_coal
+WR,IN_coal
+SR,IN_coal
+ER,IN_coal
+NER,IN_coal

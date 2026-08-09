@@ -1,0 +1,1117 @@
+hydro_project,timeseries,hydro_min_flow_mw,hydro_avg_flow_mw
+NR-Chandigarh-Run-of-River_EP,2030.01.28,0,384
+NR-Chandigarh-RoR-with Pondage_EP,2030.01.28,0,384
+NR-Chandigarh-Storage_EP,2030.01.28,0,439
+NR-Delhi-Run-of-River_EP,2030.01.28,0,384
+NR-Delhi-RoR-with Pondage_EP,2030.01.28,0,384
+NR-Delhi-Storage_EP,2030.01.28,0,439
+NR-Haryana-Run-of-River_EP,2030.01.28,0,384
+NR-Haryana-RoR-with Pondage_EP,2030.01.28,0,384
+NR-Haryana-Storage_EP,2030.01.28,0,439
+NR-HimachalPradesh-Run-of-River_EP,2030.01.28,0,384
+NR-HimachalPradesh-RoR-with Pondage_EP,2030.01.28,0,384
+NR-HimachalPradesh-Storage_EP,2030.01.28,0,439
+NR-JammuandKashmir-Run-of-River_EP,2030.01.28,0,384
+NR-JammuandKashmir-RoR-with Pondage_EP,2030.01.28,0,384
+NR-JammuandKashmir-Storage_EP,2030.01.28,0,439
+NR-Punjab-Run-of-River_EP,2030.01.28,0,384
+NR-Punjab-RoR-with Pondage_EP,2030.01.28,0,384
+NR-Punjab-Storage_EP,2030.01.28,0,439
+NR-Rajasthan-Run-of-River_EP,2030.01.28,0,384
+NR-Rajasthan-RoR-with Pondage_EP,2030.01.28,0,384
+NR-Rajasthan-Storage_EP,2030.01.28,0,439
+NR-Uttarakhand-Run-of-River_EP,2030.01.28,0,384
+NR-Uttarakhand-RoR-with Pondage_EP,2030.01.28,0,384
+NR-Uttarakhand-Storage_EP,2030.01.28,0,439
+NR-UttarPradesh-Run-of-River_EP,2030.01.28,0,384
+NR-UttarPradesh-RoR-with Pondage_EP,2030.01.28,0,384
+NR-UttarPradesh-Storage_EP,2030.01.28,0,439
+WR-Chhatisgarh-Run-of-River_EP,2030.01.28,0,47
+WR-Chhatisgarh-RoR-with Pondage_EP,2030.01.28,0,140
+WR-Chhatisgarh-Storage_EP,2030.01.28,0,906
+WR-Goa-Run-of-River_EP,2030.01.28,0,47
+WR-Goa-RoR-with Pondage_EP,2030.01.28,0,140
+WR-Goa-Storage_EP,2030.01.28,0,906
+WR-Gujarat-Run-of-River_EP,2030.01.28,0,47
+WR-Gujarat-RoR-with Pondage_EP,2030.01.28,0,140
+WR-Gujarat-Storage_EP,2030.01.28,0,906
+WR-MadhyaPradesh-Run-of-River_EP,2030.01.28,0,47
+WR-MadhyaPradesh-RoR-with Pondage_EP,2030.01.28,0,140
+WR-MadhyaPradesh-Storage_EP,2030.01.28,0,906
+WR-Maharashtra-Run-of-River_EP,2030.01.28,0,47
+WR-Maharashtra-RoR-with Pondage_EP,2030.01.28,0,140
+WR-Maharashtra-Storage_EP,2030.01.28,0,906
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2030.01.28,0,169
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2030.01.28,0,99
+SR-AndhraPradeshandTelangana-Storage_EP,2030.01.28,0,1328
+SR-Karnataka-Run-of-River_EP,2030.01.28,0,169
+SR-Karnataka-RoR-with Pondage_EP,2030.01.28,0,99
+SR-Karnataka-Storage_EP,2030.01.28,0,1328
+SR-Kerala-Run-of-River_EP,2030.01.28,0,169
+SR-Kerala-RoR-with Pondage_EP,2030.01.28,0,99
+SR-Kerala-Storage_EP,2030.01.28,0,1328
+SR-Puducherry-Run-of-River_EP,2030.01.28,0,169
+SR-Puducherry-RoR-with Pondage_EP,2030.01.28,0,99
+SR-Puducherry-Storage_EP,2030.01.28,0,1328
+SR-Tamilnadu-Run-of-River_EP,2030.01.28,0,169
+SR-Tamilnadu-RoR-with Pondage_EP,2030.01.28,0,99
+SR-Tamilnadu-Storage_EP,2030.01.28,0,1328
+ER-Bihar-Run-of-River_EP,2030.01.28,0,6
+ER-Bihar-RoR-with Pondage_EP,2030.01.28,0,204
+ER-Bihar-Storage_EP,2030.01.28,0,124
+ER-Jharkhand-Run-of-River_EP,2030.01.28,0,18
+ER-Jharkhand-RoR-with Pondage_EP,2030.01.28,0,6
+ER-Jharkhand-Storage_EP,2030.01.28,0,204
+ER-Odisha-Run-of-River_EP,2030.01.28,0,78
+ER-Odisha-RoR-with Pondage_EP,2030.01.28,0,18
+ER-Odisha-Storage_EP,2030.01.28,0,6
+ER-Sikkim-Run-of-River_EP,2030.01.28,0,124
+ER-Sikkim-RoR-with Pondage_EP,2030.01.28,0,78
+ER-Sikkim-Storage_EP,2030.01.28,0,18
+ER-WestBengal-Run-of-River_EP,2030.01.28,0,204
+ER-WestBengal-RoR-with Pondage_EP,2030.01.28,0,124
+ER-WestBengal-Storage_EP,2030.01.28,0,78
+NER-ArunachalPradesh-Run-of-River_EP,2030.01.28,0,13
+NER-ArunachalPradesh-RoR-with Pondage_EP,2030.01.28,0,36
+NER-ArunachalPradesh-Storage_EP,2030.01.28,0,33
+NER-Assam-Run-of-River_EP,2030.01.28,0,13
+NER-Assam-RoR-with Pondage_EP,2030.01.28,0,36
+NER-Assam-Storage_EP,2030.01.28,0,33
+NER-Manipur-Run-of-River_EP,2030.01.28,0,13
+NER-Manipur-RoR-with Pondage_EP,2030.01.28,0,36
+NER-Manipur-Storage_EP,2030.01.28,0,33
+NER-Meghalaya-Run-of-River_EP,2030.01.28,0,13
+NER-Meghalaya-RoR-with Pondage_EP,2030.01.28,0,36
+NER-Meghalaya-Storage_EP,2030.01.28,0,33
+NER-Mizoram-Run-of-River_EP,2030.01.28,0,13
+NER-Mizoram-RoR-with Pondage_EP,2030.01.28,0,36
+NER-Mizoram-Storage_EP,2030.01.28,0,33
+NER-Nagaland-Run-of-River_EP,2030.01.28,0,13
+NER-Nagaland-RoR-with Pondage_EP,2030.01.28,0,36
+NER-Nagaland-Storage_EP,2030.01.28,0,33
+NER-Tripura-Run-of-River_EP,2030.01.28,0,13
+NER-Tripura-RoR-with Pondage_EP,2030.01.28,0,36
+NER-Tripura-Storage_EP,2030.01.28,0,33
+NR-Chandigarh-Run-of-River_EP,2030.04.15,0,651
+NR-Chandigarh-RoR-with Pondage_EP,2030.04.15,0,651
+NR-Chandigarh-Storage_EP,2030.04.15,0,746
+NR-Delhi-Run-of-River_EP,2030.04.15,0,651
+NR-Delhi-RoR-with Pondage_EP,2030.04.15,0,651
+NR-Delhi-Storage_EP,2030.04.15,0,746
+NR-Haryana-Run-of-River_EP,2030.04.15,0,651
+NR-Haryana-RoR-with Pondage_EP,2030.04.15,0,651
+NR-Haryana-Storage_EP,2030.04.15,0,746
+NR-HimachalPradesh-Run-of-River_EP,2030.04.15,0,651
+NR-HimachalPradesh-RoR-with Pondage_EP,2030.04.15,0,651
+NR-HimachalPradesh-Storage_EP,2030.04.15,0,746
+NR-JammuandKashmir-Run-of-River_EP,2030.04.15,0,651
+NR-JammuandKashmir-RoR-with Pondage_EP,2030.04.15,0,651
+NR-JammuandKashmir-Storage_EP,2030.04.15,0,746
+NR-Punjab-Run-of-River_EP,2030.04.15,0,651
+NR-Punjab-RoR-with Pondage_EP,2030.04.15,0,651
+NR-Punjab-Storage_EP,2030.04.15,0,746
+NR-Rajasthan-Run-of-River_EP,2030.04.15,0,651
+NR-Rajasthan-RoR-with Pondage_EP,2030.04.15,0,651
+NR-Rajasthan-Storage_EP,2030.04.15,0,746
+NR-Uttarakhand-Run-of-River_EP,2030.04.15,0,651
+NR-Uttarakhand-RoR-with Pondage_EP,2030.04.15,0,651
+NR-Uttarakhand-Storage_EP,2030.04.15,0,746
+NR-UttarPradesh-Run-of-River_EP,2030.04.15,0,651
+NR-UttarPradesh-RoR-with Pondage_EP,2030.04.15,0,651
+NR-UttarPradesh-Storage_EP,2030.04.15,0,746
+WR-Chhatisgarh-Run-of-River_EP,2030.04.15,0,56
+WR-Chhatisgarh-RoR-with Pondage_EP,2030.04.15,0,169
+WR-Chhatisgarh-Storage_EP,2030.04.15,0,1095
+WR-Goa-Run-of-River_EP,2030.04.15,0,56
+WR-Goa-RoR-with Pondage_EP,2030.04.15,0,169
+WR-Goa-Storage_EP,2030.04.15,0,1095
+WR-Gujarat-Run-of-River_EP,2030.04.15,0,56
+WR-Gujarat-RoR-with Pondage_EP,2030.04.15,0,169
+WR-Gujarat-Storage_EP,2030.04.15,0,1095
+WR-MadhyaPradesh-Run-of-River_EP,2030.04.15,0,56
+WR-MadhyaPradesh-RoR-with Pondage_EP,2030.04.15,0,169
+WR-MadhyaPradesh-Storage_EP,2030.04.15,0,1095
+WR-Maharashtra-Run-of-River_EP,2030.04.15,0,56
+WR-Maharashtra-RoR-with Pondage_EP,2030.04.15,0,169
+WR-Maharashtra-Storage_EP,2030.04.15,0,1095
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2030.04.15,0,183
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2030.04.15,0,108
+SR-AndhraPradeshandTelangana-Storage_EP,2030.04.15,0,1441
+SR-Karnataka-Run-of-River_EP,2030.04.15,0,183
+SR-Karnataka-RoR-with Pondage_EP,2030.04.15,0,108
+SR-Karnataka-Storage_EP,2030.04.15,0,1441
+SR-Kerala-Run-of-River_EP,2030.04.15,0,183
+SR-Kerala-RoR-with Pondage_EP,2030.04.15,0,108
+SR-Kerala-Storage_EP,2030.04.15,0,1441
+SR-Puducherry-Run-of-River_EP,2030.04.15,0,183
+SR-Puducherry-RoR-with Pondage_EP,2030.04.15,0,108
+SR-Puducherry-Storage_EP,2030.04.15,0,1441
+SR-Tamilnadu-Run-of-River_EP,2030.04.15,0,183
+SR-Tamilnadu-RoR-with Pondage_EP,2030.04.15,0,108
+SR-Tamilnadu-Storage_EP,2030.04.15,0,1441
+ER-Bihar-Run-of-River_EP,2030.04.15,0,11
+ER-Bihar-RoR-with Pondage_EP,2030.04.15,0,372
+ER-Bihar-Storage_EP,2030.04.15,0,227
+ER-Jharkhand-Run-of-River_EP,2030.04.15,0,13
+ER-Jharkhand-RoR-with Pondage_EP,2030.04.15,0,11
+ER-Jharkhand-Storage_EP,2030.04.15,0,372
+ER-Odisha-Run-of-River_EP,2030.04.15,0,143
+ER-Odisha-RoR-with Pondage_EP,2030.04.15,0,13
+ER-Odisha-Storage_EP,2030.04.15,0,11
+ER-Sikkim-Run-of-River_EP,2030.04.15,0,227
+ER-Sikkim-RoR-with Pondage_EP,2030.04.15,0,143
+ER-Sikkim-Storage_EP,2030.04.15,0,13
+ER-WestBengal-Run-of-River_EP,2030.04.15,0,372
+ER-WestBengal-RoR-with Pondage_EP,2030.04.15,0,227
+ER-WestBengal-Storage_EP,2030.04.15,0,143
+NER-ArunachalPradesh-Run-of-River_EP,2030.04.15,0,10
+NER-ArunachalPradesh-RoR-with Pondage_EP,2030.04.15,0,27
+NER-ArunachalPradesh-Storage_EP,2030.04.15,0,24
+NER-Assam-Run-of-River_EP,2030.04.15,0,10
+NER-Assam-RoR-with Pondage_EP,2030.04.15,0,27
+NER-Assam-Storage_EP,2030.04.15,0,24
+NER-Manipur-Run-of-River_EP,2030.04.15,0,10
+NER-Manipur-RoR-with Pondage_EP,2030.04.15,0,27
+NER-Manipur-Storage_EP,2030.04.15,0,24
+NER-Meghalaya-Run-of-River_EP,2030.04.15,0,10
+NER-Meghalaya-RoR-with Pondage_EP,2030.04.15,0,27
+NER-Meghalaya-Storage_EP,2030.04.15,0,24
+NER-Mizoram-Run-of-River_EP,2030.04.15,0,10
+NER-Mizoram-RoR-with Pondage_EP,2030.04.15,0,27
+NER-Mizoram-Storage_EP,2030.04.15,0,24
+NER-Nagaland-Run-of-River_EP,2030.04.15,0,10
+NER-Nagaland-RoR-with Pondage_EP,2030.04.15,0,27
+NER-Nagaland-Storage_EP,2030.04.15,0,24
+NER-Tripura-Run-of-River_EP,2030.04.15,0,10
+NER-Tripura-RoR-with Pondage_EP,2030.04.15,0,27
+NER-Tripura-Storage_EP,2030.04.15,0,24
+NR-Chandigarh-Run-of-River_EP,2030.07.01,0,1291
+NR-Chandigarh-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-Chandigarh-Storage_EP,2030.07.01,0,1478
+NR-Delhi-Run-of-River_EP,2030.07.01,0,1291
+NR-Delhi-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-Delhi-Storage_EP,2030.07.01,0,1478
+NR-Haryana-Run-of-River_EP,2030.07.01,0,1291
+NR-Haryana-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-Haryana-Storage_EP,2030.07.01,0,1478
+NR-HimachalPradesh-Run-of-River_EP,2030.07.01,0,1291
+NR-HimachalPradesh-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-HimachalPradesh-Storage_EP,2030.07.01,0,1478
+NR-JammuandKashmir-Run-of-River_EP,2030.07.01,0,1291
+NR-JammuandKashmir-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-JammuandKashmir-Storage_EP,2030.07.01,0,1478
+NR-Punjab-Run-of-River_EP,2030.07.01,0,1291
+NR-Punjab-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-Punjab-Storage_EP,2030.07.01,0,1478
+NR-Rajasthan-Run-of-River_EP,2030.07.01,0,1291
+NR-Rajasthan-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-Rajasthan-Storage_EP,2030.07.01,0,1478
+NR-Uttarakhand-Run-of-River_EP,2030.07.01,0,1291
+NR-Uttarakhand-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-Uttarakhand-Storage_EP,2030.07.01,0,1478
+NR-UttarPradesh-Run-of-River_EP,2030.07.01,0,1291
+NR-UttarPradesh-RoR-with Pondage_EP,2030.07.01,0,1291
+NR-UttarPradesh-Storage_EP,2030.07.01,0,1478
+WR-Chhatisgarh-Run-of-River_EP,2030.07.01,0,13
+WR-Chhatisgarh-RoR-with Pondage_EP,2030.07.01,0,39
+WR-Chhatisgarh-Storage_EP,2030.07.01,0,254
+WR-Goa-Run-of-River_EP,2030.07.01,0,13
+WR-Goa-RoR-with Pondage_EP,2030.07.01,0,39
+WR-Goa-Storage_EP,2030.07.01,0,254
+WR-Gujarat-Run-of-River_EP,2030.07.01,0,13
+WR-Gujarat-RoR-with Pondage_EP,2030.07.01,0,39
+WR-Gujarat-Storage_EP,2030.07.01,0,254
+WR-MadhyaPradesh-Run-of-River_EP,2030.07.01,0,13
+WR-MadhyaPradesh-RoR-with Pondage_EP,2030.07.01,0,39
+WR-MadhyaPradesh-Storage_EP,2030.07.01,0,254
+WR-Maharashtra-Run-of-River_EP,2030.07.01,0,13
+WR-Maharashtra-RoR-with Pondage_EP,2030.07.01,0,39
+WR-Maharashtra-Storage_EP,2030.07.01,0,254
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2030.07.01,0,146
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2030.07.01,0,86
+SR-AndhraPradeshandTelangana-Storage_EP,2030.07.01,0,1152
+SR-Karnataka-Run-of-River_EP,2030.07.01,0,146
+SR-Karnataka-RoR-with Pondage_EP,2030.07.01,0,86
+SR-Karnataka-Storage_EP,2030.07.01,0,1152
+SR-Kerala-Run-of-River_EP,2030.07.01,0,146
+SR-Kerala-RoR-with Pondage_EP,2030.07.01,0,86
+SR-Kerala-Storage_EP,2030.07.01,0,1152
+SR-Puducherry-Run-of-River_EP,2030.07.01,0,146
+SR-Puducherry-RoR-with Pondage_EP,2030.07.01,0,86
+SR-Puducherry-Storage_EP,2030.07.01,0,1152
+SR-Tamilnadu-Run-of-River_EP,2030.07.01,0,146
+SR-Tamilnadu-RoR-with Pondage_EP,2030.07.01,0,86
+SR-Tamilnadu-Storage_EP,2030.07.01,0,1152
+ER-Bihar-Run-of-River_EP,2030.07.01,0,23
+ER-Bihar-RoR-with Pondage_EP,2030.07.01,0,739
+ER-Bihar-Storage_EP,2030.07.01,0,451
+ER-Jharkhand-Run-of-River_EP,2030.07.01,0,57
+ER-Jharkhand-RoR-with Pondage_EP,2030.07.01,0,23
+ER-Jharkhand-Storage_EP,2030.07.01,0,739
+ER-Odisha-Run-of-River_EP,2030.07.01,0,284
+ER-Odisha-RoR-with Pondage_EP,2030.07.01,0,57
+ER-Odisha-Storage_EP,2030.07.01,0,23
+ER-Sikkim-Run-of-River_EP,2030.07.01,0,451
+ER-Sikkim-RoR-with Pondage_EP,2030.07.01,0,284
+ER-Sikkim-Storage_EP,2030.07.01,0,57
+ER-WestBengal-Run-of-River_EP,2030.07.01,0,739
+ER-WestBengal-RoR-with Pondage_EP,2030.07.01,0,451
+ER-WestBengal-Storage_EP,2030.07.01,0,284
+NER-ArunachalPradesh-Run-of-River_EP,2030.07.01,0,41
+NER-ArunachalPradesh-RoR-with Pondage_EP,2030.07.01,0,116
+NER-ArunachalPradesh-Storage_EP,2030.07.01,0,104
+NER-Assam-Run-of-River_EP,2030.07.01,0,41
+NER-Assam-RoR-with Pondage_EP,2030.07.01,0,116
+NER-Assam-Storage_EP,2030.07.01,0,104
+NER-Manipur-Run-of-River_EP,2030.07.01,0,41
+NER-Manipur-RoR-with Pondage_EP,2030.07.01,0,116
+NER-Manipur-Storage_EP,2030.07.01,0,104
+NER-Meghalaya-Run-of-River_EP,2030.07.01,0,41
+NER-Meghalaya-RoR-with Pondage_EP,2030.07.01,0,116
+NER-Meghalaya-Storage_EP,2030.07.01,0,104
+NER-Mizoram-Run-of-River_EP,2030.07.01,0,41
+NER-Mizoram-RoR-with Pondage_EP,2030.07.01,0,116
+NER-Mizoram-Storage_EP,2030.07.01,0,104
+NER-Nagaland-Run-of-River_EP,2030.07.01,0,41
+NER-Nagaland-RoR-with Pondage_EP,2030.07.01,0,116
+NER-Nagaland-Storage_EP,2030.07.01,0,104
+NER-Tripura-Run-of-River_EP,2030.07.01,0,41
+NER-Tripura-RoR-with Pondage_EP,2030.07.01,0,116
+NER-Tripura-Storage_EP,2030.07.01,0,104
+NR-Chandigarh-Run-of-River_EP,2030.10.31,0,623
+NR-Chandigarh-RoR-with Pondage_EP,2030.10.31,0,623
+NR-Chandigarh-Storage_EP,2030.10.31,0,713
+NR-Delhi-Run-of-River_EP,2030.10.31,0,623
+NR-Delhi-RoR-with Pondage_EP,2030.10.31,0,623
+NR-Delhi-Storage_EP,2030.10.31,0,713
+NR-Haryana-Run-of-River_EP,2030.10.31,0,623
+NR-Haryana-RoR-with Pondage_EP,2030.10.31,0,623
+NR-Haryana-Storage_EP,2030.10.31,0,713
+NR-HimachalPradesh-Run-of-River_EP,2030.10.31,0,623
+NR-HimachalPradesh-RoR-with Pondage_EP,2030.10.31,0,623
+NR-HimachalPradesh-Storage_EP,2030.10.31,0,713
+NR-JammuandKashmir-Run-of-River_EP,2030.10.31,0,623
+NR-JammuandKashmir-RoR-with Pondage_EP,2030.10.31,0,623
+NR-JammuandKashmir-Storage_EP,2030.10.31,0,713
+NR-Punjab-Run-of-River_EP,2030.10.31,0,623
+NR-Punjab-RoR-with Pondage_EP,2030.10.31,0,623
+NR-Punjab-Storage_EP,2030.10.31,0,713
+NR-Rajasthan-Run-of-River_EP,2030.10.31,0,623
+NR-Rajasthan-RoR-with Pondage_EP,2030.10.31,0,623
+NR-Rajasthan-Storage_EP,2030.10.31,0,713
+NR-Uttarakhand-Run-of-River_EP,2030.10.31,0,623
+NR-Uttarakhand-RoR-with Pondage_EP,2030.10.31,0,623
+NR-Uttarakhand-Storage_EP,2030.10.31,0,713
+NR-UttarPradesh-Run-of-River_EP,2030.10.31,0,623
+NR-UttarPradesh-RoR-with Pondage_EP,2030.10.31,0,623
+NR-UttarPradesh-Storage_EP,2030.10.31,0,713
+WR-Chhatisgarh-Run-of-River_EP,2030.10.31,0,43
+WR-Chhatisgarh-RoR-with Pondage_EP,2030.10.31,0,130
+WR-Chhatisgarh-Storage_EP,2030.10.31,0,841
+WR-Goa-Run-of-River_EP,2030.10.31,0,43
+WR-Goa-RoR-with Pondage_EP,2030.10.31,0,130
+WR-Goa-Storage_EP,2030.10.31,0,841
+WR-Gujarat-Run-of-River_EP,2030.10.31,0,43
+WR-Gujarat-RoR-with Pondage_EP,2030.10.31,0,130
+WR-Gujarat-Storage_EP,2030.10.31,0,841
+WR-MadhyaPradesh-Run-of-River_EP,2030.10.31,0,43
+WR-MadhyaPradesh-RoR-with Pondage_EP,2030.10.31,0,130
+WR-MadhyaPradesh-Storage_EP,2030.10.31,0,841
+WR-Maharashtra-Run-of-River_EP,2030.10.31,0,43
+WR-Maharashtra-RoR-with Pondage_EP,2030.10.31,0,130
+WR-Maharashtra-Storage_EP,2030.10.31,0,841
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2030.10.31,0,229
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2030.10.31,0,135
+SR-AndhraPradeshandTelangana-Storage_EP,2030.10.31,0,1802
+SR-Karnataka-Run-of-River_EP,2030.10.31,0,229
+SR-Karnataka-RoR-with Pondage_EP,2030.10.31,0,135
+SR-Karnataka-Storage_EP,2030.10.31,0,1802
+SR-Kerala-Run-of-River_EP,2030.10.31,0,229
+SR-Kerala-RoR-with Pondage_EP,2030.10.31,0,135
+SR-Kerala-Storage_EP,2030.10.31,0,1802
+SR-Puducherry-Run-of-River_EP,2030.10.31,0,229
+SR-Puducherry-RoR-with Pondage_EP,2030.10.31,0,135
+SR-Puducherry-Storage_EP,2030.10.31,0,1802
+SR-Tamilnadu-Run-of-River_EP,2030.10.31,0,229
+SR-Tamilnadu-RoR-with Pondage_EP,2030.10.31,0,135
+SR-Tamilnadu-Storage_EP,2030.10.31,0,1802
+ER-Bihar-Run-of-River_EP,2030.10.31,0,20
+ER-Bihar-RoR-with Pondage_EP,2030.10.31,0,649
+ER-Bihar-Storage_EP,2030.10.31,0,396
+ER-Jharkhand-Run-of-River_EP,2030.10.31,0,48
+ER-Jharkhand-RoR-with Pondage_EP,2030.10.31,0,20
+ER-Jharkhand-Storage_EP,2030.10.31,0,649
+ER-Odisha-Run-of-River_EP,2030.10.31,0,249
+ER-Odisha-RoR-with Pondage_EP,2030.10.31,0,48
+ER-Odisha-Storage_EP,2030.10.31,0,20
+ER-Sikkim-Run-of-River_EP,2030.10.31,0,396
+ER-Sikkim-RoR-with Pondage_EP,2030.10.31,0,249
+ER-Sikkim-Storage_EP,2030.10.31,0,48
+ER-WestBengal-Run-of-River_EP,2030.10.31,0,649
+ER-WestBengal-RoR-with Pondage_EP,2030.10.31,0,396
+ER-WestBengal-Storage_EP,2030.10.31,0,249
+NER-ArunachalPradesh-Run-of-River_EP,2030.10.31,0,34
+NER-ArunachalPradesh-RoR-with Pondage_EP,2030.10.31,0,97
+NER-ArunachalPradesh-Storage_EP,2030.10.31,0,87
+NER-Assam-Run-of-River_EP,2030.10.31,0,34
+NER-Assam-RoR-with Pondage_EP,2030.10.31,0,97
+NER-Assam-Storage_EP,2030.10.31,0,87
+NER-Manipur-Run-of-River_EP,2030.10.31,0,34
+NER-Manipur-RoR-with Pondage_EP,2030.10.31,0,97
+NER-Manipur-Storage_EP,2030.10.31,0,87
+NER-Meghalaya-Run-of-River_EP,2030.10.31,0,34
+NER-Meghalaya-RoR-with Pondage_EP,2030.10.31,0,97
+NER-Meghalaya-Storage_EP,2030.10.31,0,87
+NER-Mizoram-Run-of-River_EP,2030.10.31,0,34
+NER-Mizoram-RoR-with Pondage_EP,2030.10.31,0,97
+NER-Mizoram-Storage_EP,2030.10.31,0,87
+NER-Nagaland-Run-of-River_EP,2030.10.31,0,34
+NER-Nagaland-RoR-with Pondage_EP,2030.10.31,0,97
+NER-Nagaland-Storage_EP,2030.10.31,0,87
+NER-Tripura-Run-of-River_EP,2030.10.31,0,34
+NER-Tripura-RoR-with Pondage_EP,2030.10.31,0,97
+NER-Tripura-Storage_EP,2030.10.31,0,87
+NR-Chandigarh-Run-of-River_EP,2040.01.02,0,717
+NR-Chandigarh-RoR-with Pondage_EP,2040.01.02,0,717
+NR-Chandigarh-Storage_EP,2040.01.02,0,821
+NR-Delhi-Run-of-River_EP,2040.01.02,0,717
+NR-Delhi-RoR-with Pondage_EP,2040.01.02,0,717
+NR-Delhi-Storage_EP,2040.01.02,0,821
+NR-Haryana-Run-of-River_EP,2040.01.02,0,717
+NR-Haryana-RoR-with Pondage_EP,2040.01.02,0,717
+NR-Haryana-Storage_EP,2040.01.02,0,821
+NR-HimachalPradesh-Run-of-River_EP,2040.01.02,0,717
+NR-HimachalPradesh-RoR-with Pondage_EP,2040.01.02,0,717
+NR-HimachalPradesh-Storage_EP,2040.01.02,0,821
+NR-JammuandKashmir-Run-of-River_EP,2040.01.02,0,717
+NR-JammuandKashmir-RoR-with Pondage_EP,2040.01.02,0,717
+NR-JammuandKashmir-Storage_EP,2040.01.02,0,821
+NR-Punjab-Run-of-River_EP,2040.01.02,0,717
+NR-Punjab-RoR-with Pondage_EP,2040.01.02,0,717
+NR-Punjab-Storage_EP,2040.01.02,0,821
+NR-Rajasthan-Run-of-River_EP,2040.01.02,0,717
+NR-Rajasthan-RoR-with Pondage_EP,2040.01.02,0,717
+NR-Rajasthan-Storage_EP,2040.01.02,0,821
+NR-Uttarakhand-Run-of-River_EP,2040.01.02,0,717
+NR-Uttarakhand-RoR-with Pondage_EP,2040.01.02,0,717
+NR-Uttarakhand-Storage_EP,2040.01.02,0,821
+NR-UttarPradesh-Run-of-River_EP,2040.01.02,0,717
+NR-UttarPradesh-RoR-with Pondage_EP,2040.01.02,0,717
+NR-UttarPradesh-Storage_EP,2040.01.02,0,821
+WR-Chhatisgarh-Run-of-River_EP,2040.01.02,0,87
+WR-Chhatisgarh-RoR-with Pondage_EP,2040.01.02,0,262
+WR-Chhatisgarh-Storage_EP,2040.01.02,0,1694
+WR-Goa-Run-of-River_EP,2040.01.02,0,87
+WR-Goa-RoR-with Pondage_EP,2040.01.02,0,262
+WR-Goa-Storage_EP,2040.01.02,0,1694
+WR-Gujarat-Run-of-River_EP,2040.01.02,0,87
+WR-Gujarat-RoR-with Pondage_EP,2040.01.02,0,262
+WR-Gujarat-Storage_EP,2040.01.02,0,1694
+WR-MadhyaPradesh-Run-of-River_EP,2040.01.02,0,87
+WR-MadhyaPradesh-RoR-with Pondage_EP,2040.01.02,0,262
+WR-MadhyaPradesh-Storage_EP,2040.01.02,0,1694
+WR-Maharashtra-Run-of-River_EP,2040.01.02,0,87
+WR-Maharashtra-RoR-with Pondage_EP,2040.01.02,0,262
+WR-Maharashtra-Storage_EP,2040.01.02,0,1694
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2040.01.02,0,316
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2040.01.02,0,186
+SR-AndhraPradeshandTelangana-Storage_EP,2040.01.02,0,2483
+SR-Karnataka-Run-of-River_EP,2040.01.02,0,316
+SR-Karnataka-RoR-with Pondage_EP,2040.01.02,0,186
+SR-Karnataka-Storage_EP,2040.01.02,0,2483
+SR-Kerala-Run-of-River_EP,2040.01.02,0,316
+SR-Kerala-RoR-with Pondage_EP,2040.01.02,0,186
+SR-Kerala-Storage_EP,2040.01.02,0,2483
+SR-Puducherry-Run-of-River_EP,2040.01.02,0,316
+SR-Puducherry-RoR-with Pondage_EP,2040.01.02,0,186
+SR-Puducherry-Storage_EP,2040.01.02,0,2483
+SR-Tamilnadu-Run-of-River_EP,2040.01.02,0,316
+SR-Tamilnadu-RoR-with Pondage_EP,2040.01.02,0,186
+SR-Tamilnadu-Storage_EP,2040.01.02,0,2483
+ER-Bihar-Run-of-River_EP,2040.01.02,0,12
+ER-Bihar-RoR-with Pondage_EP,2040.01.02,0,381
+ER-Bihar-Storage_EP,2040.01.02,0,232
+ER-Jharkhand-Run-of-River_EP,2040.01.02,0,33
+ER-Jharkhand-RoR-with Pondage_EP,2040.01.02,0,12
+ER-Jharkhand-Storage_EP,2040.01.02,0,381
+ER-Odisha-Run-of-River_EP,2040.01.02,0,146
+ER-Odisha-RoR-with Pondage_EP,2040.01.02,0,33
+ER-Odisha-Storage_EP,2040.01.02,0,12
+ER-Sikkim-Run-of-River_EP,2040.01.02,0,232
+ER-Sikkim-RoR-with Pondage_EP,2040.01.02,0,146
+ER-Sikkim-Storage_EP,2040.01.02,0,33
+ER-WestBengal-Run-of-River_EP,2040.01.02,0,381
+ER-WestBengal-RoR-with Pondage_EP,2040.01.02,0,232
+ER-WestBengal-Storage_EP,2040.01.02,0,146
+NER-ArunachalPradesh-Run-of-River_EP,2040.01.02,0,24
+NER-ArunachalPradesh-RoR-with Pondage_EP,2040.01.02,0,68
+NER-ArunachalPradesh-Storage_EP,2040.01.02,0,61
+NER-Assam-Run-of-River_EP,2040.01.02,0,24
+NER-Assam-RoR-with Pondage_EP,2040.01.02,0,68
+NER-Assam-Storage_EP,2040.01.02,0,61
+NER-Manipur-Run-of-River_EP,2040.01.02,0,24
+NER-Manipur-RoR-with Pondage_EP,2040.01.02,0,68
+NER-Manipur-Storage_EP,2040.01.02,0,61
+NER-Meghalaya-Run-of-River_EP,2040.01.02,0,24
+NER-Meghalaya-RoR-with Pondage_EP,2040.01.02,0,68
+NER-Meghalaya-Storage_EP,2040.01.02,0,61
+NER-Mizoram-Run-of-River_EP,2040.01.02,0,24
+NER-Mizoram-RoR-with Pondage_EP,2040.01.02,0,68
+NER-Mizoram-Storage_EP,2040.01.02,0,61
+NER-Nagaland-Run-of-River_EP,2040.01.02,0,24
+NER-Nagaland-RoR-with Pondage_EP,2040.01.02,0,68
+NER-Nagaland-Storage_EP,2040.01.02,0,61
+NER-Tripura-Run-of-River_EP,2040.01.02,0,24
+NER-Tripura-RoR-with Pondage_EP,2040.01.02,0,68
+NER-Tripura-Storage_EP,2040.01.02,0,61
+NR-Chandigarh-Run-of-River_EP,2040.04.19,0,1218
+NR-Chandigarh-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-Chandigarh-Storage_EP,2040.04.19,0,1394
+NR-Delhi-Run-of-River_EP,2040.04.19,0,1218
+NR-Delhi-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-Delhi-Storage_EP,2040.04.19,0,1394
+NR-Haryana-Run-of-River_EP,2040.04.19,0,1218
+NR-Haryana-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-Haryana-Storage_EP,2040.04.19,0,1394
+NR-HimachalPradesh-Run-of-River_EP,2040.04.19,0,1218
+NR-HimachalPradesh-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-HimachalPradesh-Storage_EP,2040.04.19,0,1394
+NR-JammuandKashmir-Run-of-River_EP,2040.04.19,0,1218
+NR-JammuandKashmir-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-JammuandKashmir-Storage_EP,2040.04.19,0,1394
+NR-Punjab-Run-of-River_EP,2040.04.19,0,1218
+NR-Punjab-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-Punjab-Storage_EP,2040.04.19,0,1394
+NR-Rajasthan-Run-of-River_EP,2040.04.19,0,1218
+NR-Rajasthan-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-Rajasthan-Storage_EP,2040.04.19,0,1394
+NR-Uttarakhand-Run-of-River_EP,2040.04.19,0,1218
+NR-Uttarakhand-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-Uttarakhand-Storage_EP,2040.04.19,0,1394
+NR-UttarPradesh-Run-of-River_EP,2040.04.19,0,1218
+NR-UttarPradesh-RoR-with Pondage_EP,2040.04.19,0,1218
+NR-UttarPradesh-Storage_EP,2040.04.19,0,1394
+WR-Chhatisgarh-Run-of-River_EP,2040.04.19,0,105
+WR-Chhatisgarh-RoR-with Pondage_EP,2040.04.19,0,316
+WR-Chhatisgarh-Storage_EP,2040.04.19,0,2048
+WR-Goa-Run-of-River_EP,2040.04.19,0,105
+WR-Goa-RoR-with Pondage_EP,2040.04.19,0,316
+WR-Goa-Storage_EP,2040.04.19,0,2048
+WR-Gujarat-Run-of-River_EP,2040.04.19,0,105
+WR-Gujarat-RoR-with Pondage_EP,2040.04.19,0,316
+WR-Gujarat-Storage_EP,2040.04.19,0,2048
+WR-MadhyaPradesh-Run-of-River_EP,2040.04.19,0,105
+WR-MadhyaPradesh-RoR-with Pondage_EP,2040.04.19,0,316
+WR-MadhyaPradesh-Storage_EP,2040.04.19,0,2048
+WR-Maharashtra-Run-of-River_EP,2040.04.19,0,105
+WR-Maharashtra-RoR-with Pondage_EP,2040.04.19,0,316
+WR-Maharashtra-Storage_EP,2040.04.19,0,2048
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2040.04.19,0,343
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2040.04.19,0,202
+SR-AndhraPradeshandTelangana-Storage_EP,2040.04.19,0,2695
+SR-Karnataka-Run-of-River_EP,2040.04.19,0,343
+SR-Karnataka-RoR-with Pondage_EP,2040.04.19,0,202
+SR-Karnataka-Storage_EP,2040.04.19,0,2695
+SR-Kerala-Run-of-River_EP,2040.04.19,0,343
+SR-Kerala-RoR-with Pondage_EP,2040.04.19,0,202
+SR-Kerala-Storage_EP,2040.04.19,0,2695
+SR-Puducherry-Run-of-River_EP,2040.04.19,0,343
+SR-Puducherry-RoR-with Pondage_EP,2040.04.19,0,202
+SR-Puducherry-Storage_EP,2040.04.19,0,2695
+SR-Tamilnadu-Run-of-River_EP,2040.04.19,0,343
+SR-Tamilnadu-RoR-with Pondage_EP,2040.04.19,0,202
+SR-Tamilnadu-Storage_EP,2040.04.19,0,2695
+ER-Bihar-Run-of-River_EP,2040.04.19,0,21
+ER-Bihar-RoR-with Pondage_EP,2040.04.19,0,696
+ER-Bihar-Storage_EP,2040.04.19,0,425
+ER-Jharkhand-Run-of-River_EP,2040.04.19,0,25
+ER-Jharkhand-RoR-with Pondage_EP,2040.04.19,0,21
+ER-Jharkhand-Storage_EP,2040.04.19,0,696
+ER-Odisha-Run-of-River_EP,2040.04.19,0,267
+ER-Odisha-RoR-with Pondage_EP,2040.04.19,0,25
+ER-Odisha-Storage_EP,2040.04.19,0,21
+ER-Sikkim-Run-of-River_EP,2040.04.19,0,425
+ER-Sikkim-RoR-with Pondage_EP,2040.04.19,0,267
+ER-Sikkim-Storage_EP,2040.04.19,0,25
+ER-WestBengal-Run-of-River_EP,2040.04.19,0,696
+ER-WestBengal-RoR-with Pondage_EP,2040.04.19,0,425
+ER-WestBengal-Storage_EP,2040.04.19,0,267
+NER-ArunachalPradesh-Run-of-River_EP,2040.04.19,0,18
+NER-ArunachalPradesh-RoR-with Pondage_EP,2040.04.19,0,51
+NER-ArunachalPradesh-Storage_EP,2040.04.19,0,46
+NER-Assam-Run-of-River_EP,2040.04.19,0,18
+NER-Assam-RoR-with Pondage_EP,2040.04.19,0,51
+NER-Assam-Storage_EP,2040.04.19,0,46
+NER-Manipur-Run-of-River_EP,2040.04.19,0,18
+NER-Manipur-RoR-with Pondage_EP,2040.04.19,0,51
+NER-Manipur-Storage_EP,2040.04.19,0,46
+NER-Meghalaya-Run-of-River_EP,2040.04.19,0,18
+NER-Meghalaya-RoR-with Pondage_EP,2040.04.19,0,51
+NER-Meghalaya-Storage_EP,2040.04.19,0,46
+NER-Mizoram-Run-of-River_EP,2040.04.19,0,18
+NER-Mizoram-RoR-with Pondage_EP,2040.04.19,0,51
+NER-Mizoram-Storage_EP,2040.04.19,0,46
+NER-Nagaland-Run-of-River_EP,2040.04.19,0,18
+NER-Nagaland-RoR-with Pondage_EP,2040.04.19,0,51
+NER-Nagaland-Storage_EP,2040.04.19,0,46
+NER-Tripura-Run-of-River_EP,2040.04.19,0,18
+NER-Tripura-RoR-with Pondage_EP,2040.04.19,0,51
+NER-Tripura-Storage_EP,2040.04.19,0,46
+NR-Chandigarh-Run-of-River_EP,2040.07.24,0,2414
+NR-Chandigarh-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-Chandigarh-Storage_EP,2040.07.24,0,2764
+NR-Delhi-Run-of-River_EP,2040.07.24,0,2414
+NR-Delhi-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-Delhi-Storage_EP,2040.07.24,0,2764
+NR-Haryana-Run-of-River_EP,2040.07.24,0,2414
+NR-Haryana-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-Haryana-Storage_EP,2040.07.24,0,2764
+NR-HimachalPradesh-Run-of-River_EP,2040.07.24,0,2414
+NR-HimachalPradesh-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-HimachalPradesh-Storage_EP,2040.07.24,0,2764
+NR-JammuandKashmir-Run-of-River_EP,2040.07.24,0,2414
+NR-JammuandKashmir-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-JammuandKashmir-Storage_EP,2040.07.24,0,2764
+NR-Punjab-Run-of-River_EP,2040.07.24,0,2414
+NR-Punjab-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-Punjab-Storage_EP,2040.07.24,0,2764
+NR-Rajasthan-Run-of-River_EP,2040.07.24,0,2414
+NR-Rajasthan-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-Rajasthan-Storage_EP,2040.07.24,0,2764
+NR-Uttarakhand-Run-of-River_EP,2040.07.24,0,2414
+NR-Uttarakhand-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-Uttarakhand-Storage_EP,2040.07.24,0,2764
+NR-UttarPradesh-Run-of-River_EP,2040.07.24,0,2414
+NR-UttarPradesh-RoR-with Pondage_EP,2040.07.24,0,2414
+NR-UttarPradesh-Storage_EP,2040.07.24,0,2764
+WR-Chhatisgarh-Run-of-River_EP,2040.07.24,0,24
+WR-Chhatisgarh-RoR-with Pondage_EP,2040.07.24,0,73
+WR-Chhatisgarh-Storage_EP,2040.07.24,0,475
+WR-Goa-Run-of-River_EP,2040.07.24,0,24
+WR-Goa-RoR-with Pondage_EP,2040.07.24,0,73
+WR-Goa-Storage_EP,2040.07.24,0,475
+WR-Gujarat-Run-of-River_EP,2040.07.24,0,24
+WR-Gujarat-RoR-with Pondage_EP,2040.07.24,0,73
+WR-Gujarat-Storage_EP,2040.07.24,0,475
+WR-MadhyaPradesh-Run-of-River_EP,2040.07.24,0,24
+WR-MadhyaPradesh-RoR-with Pondage_EP,2040.07.24,0,73
+WR-MadhyaPradesh-Storage_EP,2040.07.24,0,475
+WR-Maharashtra-Run-of-River_EP,2040.07.24,0,24
+WR-Maharashtra-RoR-with Pondage_EP,2040.07.24,0,73
+WR-Maharashtra-Storage_EP,2040.07.24,0,475
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2040.07.24,0,274
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2040.07.24,0,161
+SR-AndhraPradeshandTelangana-Storage_EP,2040.07.24,0,2154
+SR-Karnataka-Run-of-River_EP,2040.07.24,0,274
+SR-Karnataka-RoR-with Pondage_EP,2040.07.24,0,161
+SR-Karnataka-Storage_EP,2040.07.24,0,2154
+SR-Kerala-Run-of-River_EP,2040.07.24,0,274
+SR-Kerala-RoR-with Pondage_EP,2040.07.24,0,161
+SR-Kerala-Storage_EP,2040.07.24,0,2154
+SR-Puducherry-Run-of-River_EP,2040.07.24,0,274
+SR-Puducherry-RoR-with Pondage_EP,2040.07.24,0,161
+SR-Puducherry-Storage_EP,2040.07.24,0,2154
+SR-Tamilnadu-Run-of-River_EP,2040.07.24,0,274
+SR-Tamilnadu-RoR-with Pondage_EP,2040.07.24,0,161
+SR-Tamilnadu-Storage_EP,2040.07.24,0,2154
+ER-Bihar-Run-of-River_EP,2040.07.24,0,42
+ER-Bihar-RoR-with Pondage_EP,2040.07.24,0,1382
+ER-Bihar-Storage_EP,2040.07.24,0,843
+ER-Jharkhand-Run-of-River_EP,2040.07.24,0,107
+ER-Jharkhand-RoR-with Pondage_EP,2040.07.24,0,42
+ER-Jharkhand-Storage_EP,2040.07.24,0,1382
+ER-Odisha-Run-of-River_EP,2040.07.24,0,530
+ER-Odisha-RoR-with Pondage_EP,2040.07.24,0,107
+ER-Odisha-Storage_EP,2040.07.24,0,42
+ER-Sikkim-Run-of-River_EP,2040.07.24,0,843
+ER-Sikkim-RoR-with Pondage_EP,2040.07.24,0,530
+ER-Sikkim-Storage_EP,2040.07.24,0,107
+ER-WestBengal-Run-of-River_EP,2040.07.24,0,1382
+ER-WestBengal-RoR-with Pondage_EP,2040.07.24,0,843
+ER-WestBengal-Storage_EP,2040.07.24,0,530
+NER-ArunachalPradesh-Run-of-River_EP,2040.07.24,0,77
+NER-ArunachalPradesh-RoR-with Pondage_EP,2040.07.24,0,217
+NER-ArunachalPradesh-Storage_EP,2040.07.24,0,195
+NER-Assam-Run-of-River_EP,2040.07.24,0,77
+NER-Assam-RoR-with Pondage_EP,2040.07.24,0,217
+NER-Assam-Storage_EP,2040.07.24,0,195
+NER-Manipur-Run-of-River_EP,2040.07.24,0,77
+NER-Manipur-RoR-with Pondage_EP,2040.07.24,0,217
+NER-Manipur-Storage_EP,2040.07.24,0,195
+NER-Meghalaya-Run-of-River_EP,2040.07.24,0,77
+NER-Meghalaya-RoR-with Pondage_EP,2040.07.24,0,217
+NER-Meghalaya-Storage_EP,2040.07.24,0,195
+NER-Mizoram-Run-of-River_EP,2040.07.24,0,77
+NER-Mizoram-RoR-with Pondage_EP,2040.07.24,0,217
+NER-Mizoram-Storage_EP,2040.07.24,0,195
+NER-Nagaland-Run-of-River_EP,2040.07.24,0,77
+NER-Nagaland-RoR-with Pondage_EP,2040.07.24,0,217
+NER-Nagaland-Storage_EP,2040.07.24,0,195
+NER-Tripura-Run-of-River_EP,2040.07.24,0,77
+NER-Tripura-RoR-with Pondage_EP,2040.07.24,0,217
+NER-Tripura-Storage_EP,2040.07.24,0,195
+NR-Chandigarh-Run-of-River_EP,2040.10.13,0,1165
+NR-Chandigarh-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-Chandigarh-Storage_EP,2040.10.13,0,1334
+NR-Delhi-Run-of-River_EP,2040.10.13,0,1165
+NR-Delhi-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-Delhi-Storage_EP,2040.10.13,0,1334
+NR-Haryana-Run-of-River_EP,2040.10.13,0,1165
+NR-Haryana-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-Haryana-Storage_EP,2040.10.13,0,1334
+NR-HimachalPradesh-Run-of-River_EP,2040.10.13,0,1165
+NR-HimachalPradesh-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-HimachalPradesh-Storage_EP,2040.10.13,0,1334
+NR-JammuandKashmir-Run-of-River_EP,2040.10.13,0,1165
+NR-JammuandKashmir-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-JammuandKashmir-Storage_EP,2040.10.13,0,1334
+NR-Punjab-Run-of-River_EP,2040.10.13,0,1165
+NR-Punjab-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-Punjab-Storage_EP,2040.10.13,0,1334
+NR-Rajasthan-Run-of-River_EP,2040.10.13,0,1165
+NR-Rajasthan-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-Rajasthan-Storage_EP,2040.10.13,0,1334
+NR-Uttarakhand-Run-of-River_EP,2040.10.13,0,1165
+NR-Uttarakhand-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-Uttarakhand-Storage_EP,2040.10.13,0,1334
+NR-UttarPradesh-Run-of-River_EP,2040.10.13,0,1165
+NR-UttarPradesh-RoR-with Pondage_EP,2040.10.13,0,1165
+NR-UttarPradesh-Storage_EP,2040.10.13,0,1334
+WR-Chhatisgarh-Run-of-River_EP,2040.10.13,0,81
+WR-Chhatisgarh-RoR-with Pondage_EP,2040.10.13,0,243
+WR-Chhatisgarh-Storage_EP,2040.10.13,0,1572
+WR-Goa-Run-of-River_EP,2040.10.13,0,81
+WR-Goa-RoR-with Pondage_EP,2040.10.13,0,243
+WR-Goa-Storage_EP,2040.10.13,0,1572
+WR-Gujarat-Run-of-River_EP,2040.10.13,0,81
+WR-Gujarat-RoR-with Pondage_EP,2040.10.13,0,243
+WR-Gujarat-Storage_EP,2040.10.13,0,1572
+WR-MadhyaPradesh-Run-of-River_EP,2040.10.13,0,81
+WR-MadhyaPradesh-RoR-with Pondage_EP,2040.10.13,0,243
+WR-MadhyaPradesh-Storage_EP,2040.10.13,0,1572
+WR-Maharashtra-Run-of-River_EP,2040.10.13,0,81
+WR-Maharashtra-RoR-with Pondage_EP,2040.10.13,0,243
+WR-Maharashtra-Storage_EP,2040.10.13,0,1572
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2040.10.13,0,428
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2040.10.13,0,252
+SR-AndhraPradeshandTelangana-Storage_EP,2040.10.13,0,3370
+SR-Karnataka-Run-of-River_EP,2040.10.13,0,428
+SR-Karnataka-RoR-with Pondage_EP,2040.10.13,0,252
+SR-Karnataka-Storage_EP,2040.10.13,0,3370
+SR-Kerala-Run-of-River_EP,2040.10.13,0,428
+SR-Kerala-RoR-with Pondage_EP,2040.10.13,0,252
+SR-Kerala-Storage_EP,2040.10.13,0,3370
+SR-Puducherry-Run-of-River_EP,2040.10.13,0,428
+SR-Puducherry-RoR-with Pondage_EP,2040.10.13,0,252
+SR-Puducherry-Storage_EP,2040.10.13,0,3370
+SR-Tamilnadu-Run-of-River_EP,2040.10.13,0,428
+SR-Tamilnadu-RoR-with Pondage_EP,2040.10.13,0,252
+SR-Tamilnadu-Storage_EP,2040.10.13,0,3370
+ER-Bihar-Run-of-River_EP,2040.10.13,0,37
+ER-Bihar-RoR-with Pondage_EP,2040.10.13,0,1213
+ER-Bihar-Storage_EP,2040.10.13,0,740
+ER-Jharkhand-Run-of-River_EP,2040.10.13,0,90
+ER-Jharkhand-RoR-with Pondage_EP,2040.10.13,0,37
+ER-Jharkhand-Storage_EP,2040.10.13,0,1213
+ER-Odisha-Run-of-River_EP,2040.10.13,0,466
+ER-Odisha-RoR-with Pondage_EP,2040.10.13,0,90
+ER-Odisha-Storage_EP,2040.10.13,0,37
+ER-Sikkim-Run-of-River_EP,2040.10.13,0,740
+ER-Sikkim-RoR-with Pondage_EP,2040.10.13,0,466
+ER-Sikkim-Storage_EP,2040.10.13,0,90
+ER-WestBengal-Run-of-River_EP,2040.10.13,0,1213
+ER-WestBengal-RoR-with Pondage_EP,2040.10.13,0,740
+ER-WestBengal-Storage_EP,2040.10.13,0,466
+NER-ArunachalPradesh-Run-of-River_EP,2040.10.13,0,64
+NER-ArunachalPradesh-RoR-with Pondage_EP,2040.10.13,0,181
+NER-ArunachalPradesh-Storage_EP,2040.10.13,0,163
+NER-Assam-Run-of-River_EP,2040.10.13,0,64
+NER-Assam-RoR-with Pondage_EP,2040.10.13,0,181
+NER-Assam-Storage_EP,2040.10.13,0,163
+NER-Manipur-Run-of-River_EP,2040.10.13,0,64
+NER-Manipur-RoR-with Pondage_EP,2040.10.13,0,181
+NER-Manipur-Storage_EP,2040.10.13,0,163
+NER-Meghalaya-Run-of-River_EP,2040.10.13,0,64
+NER-Meghalaya-RoR-with Pondage_EP,2040.10.13,0,181
+NER-Meghalaya-Storage_EP,2040.10.13,0,163
+NER-Mizoram-Run-of-River_EP,2040.10.13,0,64
+NER-Mizoram-RoR-with Pondage_EP,2040.10.13,0,181
+NER-Mizoram-Storage_EP,2040.10.13,0,163
+NER-Nagaland-Run-of-River_EP,2040.10.13,0,64
+NER-Nagaland-RoR-with Pondage_EP,2040.10.13,0,181
+NER-Nagaland-Storage_EP,2040.10.13,0,163
+NER-Tripura-Run-of-River_EP,2040.10.13,0,64
+NER-Tripura-RoR-with Pondage_EP,2040.10.13,0,181
+NER-Tripura-Storage_EP,2040.10.13,0,163
+NR-Chandigarh-Run-of-River_EP,2050.01.04,0,1143
+NR-Chandigarh-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-Chandigarh-Storage_EP,2050.01.04,0,1308
+NR-Delhi-Run-of-River_EP,2050.01.04,0,1143
+NR-Delhi-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-Delhi-Storage_EP,2050.01.04,0,1308
+NR-Haryana-Run-of-River_EP,2050.01.04,0,1143
+NR-Haryana-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-Haryana-Storage_EP,2050.01.04,0,1308
+NR-HimachalPradesh-Run-of-River_EP,2050.01.04,0,1143
+NR-HimachalPradesh-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-HimachalPradesh-Storage_EP,2050.01.04,0,1308
+NR-JammuandKashmir-Run-of-River_EP,2050.01.04,0,1143
+NR-JammuandKashmir-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-JammuandKashmir-Storage_EP,2050.01.04,0,1308
+NR-Punjab-Run-of-River_EP,2050.01.04,0,1143
+NR-Punjab-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-Punjab-Storage_EP,2050.01.04,0,1308
+NR-Rajasthan-Run-of-River_EP,2050.01.04,0,1143
+NR-Rajasthan-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-Rajasthan-Storage_EP,2050.01.04,0,1308
+NR-Uttarakhand-Run-of-River_EP,2050.01.04,0,1143
+NR-Uttarakhand-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-Uttarakhand-Storage_EP,2050.01.04,0,1308
+NR-UttarPradesh-Run-of-River_EP,2050.01.04,0,1143
+NR-UttarPradesh-RoR-with Pondage_EP,2050.01.04,0,1143
+NR-UttarPradesh-Storage_EP,2050.01.04,0,1308
+WR-Chhatisgarh-Run-of-River_EP,2050.01.04,0,139
+WR-Chhatisgarh-RoR-with Pondage_EP,2050.01.04,0,417
+WR-Chhatisgarh-Storage_EP,2050.01.04,0,2699
+WR-Goa-Run-of-River_EP,2050.01.04,0,139
+WR-Goa-RoR-with Pondage_EP,2050.01.04,0,417
+WR-Goa-Storage_EP,2050.01.04,0,2699
+WR-Gujarat-Run-of-River_EP,2050.01.04,0,139
+WR-Gujarat-RoR-with Pondage_EP,2050.01.04,0,417
+WR-Gujarat-Storage_EP,2050.01.04,0,2699
+WR-MadhyaPradesh-Run-of-River_EP,2050.01.04,0,139
+WR-MadhyaPradesh-RoR-with Pondage_EP,2050.01.04,0,417
+WR-MadhyaPradesh-Storage_EP,2050.01.04,0,2699
+WR-Maharashtra-Run-of-River_EP,2050.01.04,0,139
+WR-Maharashtra-RoR-with Pondage_EP,2050.01.04,0,417
+WR-Maharashtra-Storage_EP,2050.01.04,0,2699
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2050.01.04,0,503
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2050.01.04,0,296
+SR-AndhraPradeshandTelangana-Storage_EP,2050.01.04,0,3956
+SR-Karnataka-Run-of-River_EP,2050.01.04,0,503
+SR-Karnataka-RoR-with Pondage_EP,2050.01.04,0,296
+SR-Karnataka-Storage_EP,2050.01.04,0,3956
+SR-Kerala-Run-of-River_EP,2050.01.04,0,503
+SR-Kerala-RoR-with Pondage_EP,2050.01.04,0,296
+SR-Kerala-Storage_EP,2050.01.04,0,3956
+SR-Puducherry-Run-of-River_EP,2050.01.04,0,503
+SR-Puducherry-RoR-with Pondage_EP,2050.01.04,0,296
+SR-Puducherry-Storage_EP,2050.01.04,0,3956
+SR-Tamilnadu-Run-of-River_EP,2050.01.04,0,503
+SR-Tamilnadu-RoR-with Pondage_EP,2050.01.04,0,296
+SR-Tamilnadu-Storage_EP,2050.01.04,0,3956
+ER-Bihar-Run-of-River_EP,2050.01.04,0,19
+ER-Bihar-RoR-with Pondage_EP,2050.01.04,0,607
+ER-Bihar-Storage_EP,2050.01.04,0,370
+ER-Jharkhand-Run-of-River_EP,2050.01.04,0,53
+ER-Jharkhand-RoR-with Pondage_EP,2050.01.04,0,19
+ER-Jharkhand-Storage_EP,2050.01.04,0,607
+ER-Odisha-Run-of-River_EP,2050.01.04,0,233
+ER-Odisha-RoR-with Pondage_EP,2050.01.04,0,53
+ER-Odisha-Storage_EP,2050.01.04,0,19
+ER-Sikkim-Run-of-River_EP,2050.01.04,0,370
+ER-Sikkim-RoR-with Pondage_EP,2050.01.04,0,233
+ER-Sikkim-Storage_EP,2050.01.04,0,53
+ER-WestBengal-Run-of-River_EP,2050.01.04,0,607
+ER-WestBengal-RoR-with Pondage_EP,2050.01.04,0,370
+ER-WestBengal-Storage_EP,2050.01.04,0,233
+NER-ArunachalPradesh-Run-of-River_EP,2050.01.04,0,38
+NER-ArunachalPradesh-RoR-with Pondage_EP,2050.01.04,0,108
+NER-ArunachalPradesh-Storage_EP,2050.01.04,0,97
+NER-Assam-Run-of-River_EP,2050.01.04,0,38
+NER-Assam-RoR-with Pondage_EP,2050.01.04,0,108
+NER-Assam-Storage_EP,2050.01.04,0,97
+NER-Manipur-Run-of-River_EP,2050.01.04,0,38
+NER-Manipur-RoR-with Pondage_EP,2050.01.04,0,108
+NER-Manipur-Storage_EP,2050.01.04,0,97
+NER-Meghalaya-Run-of-River_EP,2050.01.04,0,38
+NER-Meghalaya-RoR-with Pondage_EP,2050.01.04,0,108
+NER-Meghalaya-Storage_EP,2050.01.04,0,97
+NER-Mizoram-Run-of-River_EP,2050.01.04,0,38
+NER-Mizoram-RoR-with Pondage_EP,2050.01.04,0,108
+NER-Mizoram-Storage_EP,2050.01.04,0,97
+NER-Nagaland-Run-of-River_EP,2050.01.04,0,38
+NER-Nagaland-RoR-with Pondage_EP,2050.01.04,0,108
+NER-Nagaland-Storage_EP,2050.01.04,0,97
+NER-Tripura-Run-of-River_EP,2050.01.04,0,38
+NER-Tripura-RoR-with Pondage_EP,2050.01.04,0,108
+NER-Tripura-Storage_EP,2050.01.04,0,97
+NR-Chandigarh-Run-of-River_EP,2050.04.29,0,1941
+NR-Chandigarh-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-Chandigarh-Storage_EP,2050.04.29,0,2221
+NR-Delhi-Run-of-River_EP,2050.04.29,0,1941
+NR-Delhi-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-Delhi-Storage_EP,2050.04.29,0,2221
+NR-Haryana-Run-of-River_EP,2050.04.29,0,1941
+NR-Haryana-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-Haryana-Storage_EP,2050.04.29,0,2221
+NR-HimachalPradesh-Run-of-River_EP,2050.04.29,0,1941
+NR-HimachalPradesh-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-HimachalPradesh-Storage_EP,2050.04.29,0,2221
+NR-JammuandKashmir-Run-of-River_EP,2050.04.29,0,1941
+NR-JammuandKashmir-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-JammuandKashmir-Storage_EP,2050.04.29,0,2221
+NR-Punjab-Run-of-River_EP,2050.04.29,0,1941
+NR-Punjab-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-Punjab-Storage_EP,2050.04.29,0,2221
+NR-Rajasthan-Run-of-River_EP,2050.04.29,0,1941
+NR-Rajasthan-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-Rajasthan-Storage_EP,2050.04.29,0,2221
+NR-Uttarakhand-Run-of-River_EP,2050.04.29,0,1941
+NR-Uttarakhand-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-Uttarakhand-Storage_EP,2050.04.29,0,2221
+NR-UttarPradesh-Run-of-River_EP,2050.04.29,0,1941
+NR-UttarPradesh-RoR-with Pondage_EP,2050.04.29,0,1941
+NR-UttarPradesh-Storage_EP,2050.04.29,0,2221
+WR-Chhatisgarh-Run-of-River_EP,2050.04.29,0,168
+WR-Chhatisgarh-RoR-with Pondage_EP,2050.04.29,0,504
+WR-Chhatisgarh-Storage_EP,2050.04.29,0,3262
+WR-Goa-Run-of-River_EP,2050.04.29,0,168
+WR-Goa-RoR-with Pondage_EP,2050.04.29,0,504
+WR-Goa-Storage_EP,2050.04.29,0,3262
+WR-Gujarat-Run-of-River_EP,2050.04.29,0,168
+WR-Gujarat-RoR-with Pondage_EP,2050.04.29,0,504
+WR-Gujarat-Storage_EP,2050.04.29,0,3262
+WR-MadhyaPradesh-Run-of-River_EP,2050.04.29,0,168
+WR-MadhyaPradesh-RoR-with Pondage_EP,2050.04.29,0,504
+WR-MadhyaPradesh-Storage_EP,2050.04.29,0,3262
+WR-Maharashtra-Run-of-River_EP,2050.04.29,0,168
+WR-Maharashtra-RoR-with Pondage_EP,2050.04.29,0,504
+WR-Maharashtra-Storage_EP,2050.04.29,0,3262
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2050.04.29,0,546
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2050.04.29,0,322
+SR-AndhraPradeshandTelangana-Storage_EP,2050.04.29,0,4294
+SR-Karnataka-Run-of-River_EP,2050.04.29,0,546
+SR-Karnataka-RoR-with Pondage_EP,2050.04.29,0,322
+SR-Karnataka-Storage_EP,2050.04.29,0,4294
+SR-Kerala-Run-of-River_EP,2050.04.29,0,546
+SR-Kerala-RoR-with Pondage_EP,2050.04.29,0,322
+SR-Kerala-Storage_EP,2050.04.29,0,4294
+SR-Puducherry-Run-of-River_EP,2050.04.29,0,546
+SR-Puducherry-RoR-with Pondage_EP,2050.04.29,0,322
+SR-Puducherry-Storage_EP,2050.04.29,0,4294
+SR-Tamilnadu-Run-of-River_EP,2050.04.29,0,546
+SR-Tamilnadu-RoR-with Pondage_EP,2050.04.29,0,322
+SR-Tamilnadu-Storage_EP,2050.04.29,0,4294
+ER-Bihar-Run-of-River_EP,2050.04.29,0,34
+ER-Bihar-RoR-with Pondage_EP,2050.04.29,0,1109
+ER-Bihar-Storage_EP,2050.04.29,0,676
+ER-Jharkhand-Run-of-River_EP,2050.04.29,0,40
+ER-Jharkhand-RoR-with Pondage_EP,2050.04.29,0,34
+ER-Jharkhand-Storage_EP,2050.04.29,0,1109
+ER-Odisha-Run-of-River_EP,2050.04.29,0,426
+ER-Odisha-RoR-with Pondage_EP,2050.04.29,0,40
+ER-Odisha-Storage_EP,2050.04.29,0,34
+ER-Sikkim-Run-of-River_EP,2050.04.29,0,676
+ER-Sikkim-RoR-with Pondage_EP,2050.04.29,0,426
+ER-Sikkim-Storage_EP,2050.04.29,0,40
+ER-WestBengal-Run-of-River_EP,2050.04.29,0,1109
+ER-WestBengal-RoR-with Pondage_EP,2050.04.29,0,676
+ER-WestBengal-Storage_EP,2050.04.29,0,426
+NER-ArunachalPradesh-Run-of-River_EP,2050.04.29,0,29
+NER-ArunachalPradesh-RoR-with Pondage_EP,2050.04.29,0,81
+NER-ArunachalPradesh-Storage_EP,2050.04.29,0,73
+NER-Assam-Run-of-River_EP,2050.04.29,0,29
+NER-Assam-RoR-with Pondage_EP,2050.04.29,0,81
+NER-Assam-Storage_EP,2050.04.29,0,73
+NER-Manipur-Run-of-River_EP,2050.04.29,0,29
+NER-Manipur-RoR-with Pondage_EP,2050.04.29,0,81
+NER-Manipur-Storage_EP,2050.04.29,0,73
+NER-Meghalaya-Run-of-River_EP,2050.04.29,0,29
+NER-Meghalaya-RoR-with Pondage_EP,2050.04.29,0,81
+NER-Meghalaya-Storage_EP,2050.04.29,0,73
+NER-Mizoram-Run-of-River_EP,2050.04.29,0,29
+NER-Mizoram-RoR-with Pondage_EP,2050.04.29,0,81
+NER-Mizoram-Storage_EP,2050.04.29,0,73
+NER-Nagaland-Run-of-River_EP,2050.04.29,0,29
+NER-Nagaland-RoR-with Pondage_EP,2050.04.29,0,81
+NER-Nagaland-Storage_EP,2050.04.29,0,73
+NER-Tripura-Run-of-River_EP,2050.04.29,0,29
+NER-Tripura-RoR-with Pondage_EP,2050.04.29,0,81
+NER-Tripura-Storage_EP,2050.04.29,0,73
+NR-Chandigarh-Run-of-River_EP,2050.07.23,0,3846
+NR-Chandigarh-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-Chandigarh-Storage_EP,2050.07.23,0,4403
+NR-Delhi-Run-of-River_EP,2050.07.23,0,3846
+NR-Delhi-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-Delhi-Storage_EP,2050.07.23,0,4403
+NR-Haryana-Run-of-River_EP,2050.07.23,0,3846
+NR-Haryana-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-Haryana-Storage_EP,2050.07.23,0,4403
+NR-HimachalPradesh-Run-of-River_EP,2050.07.23,0,3846
+NR-HimachalPradesh-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-HimachalPradesh-Storage_EP,2050.07.23,0,4403
+NR-JammuandKashmir-Run-of-River_EP,2050.07.23,0,3846
+NR-JammuandKashmir-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-JammuandKashmir-Storage_EP,2050.07.23,0,4403
+NR-Punjab-Run-of-River_EP,2050.07.23,0,3846
+NR-Punjab-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-Punjab-Storage_EP,2050.07.23,0,4403
+NR-Rajasthan-Run-of-River_EP,2050.07.23,0,3846
+NR-Rajasthan-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-Rajasthan-Storage_EP,2050.07.23,0,4403
+NR-Uttarakhand-Run-of-River_EP,2050.07.23,0,3846
+NR-Uttarakhand-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-Uttarakhand-Storage_EP,2050.07.23,0,4403
+NR-UttarPradesh-Run-of-River_EP,2050.07.23,0,3846
+NR-UttarPradesh-RoR-with Pondage_EP,2050.07.23,0,3846
+NR-UttarPradesh-Storage_EP,2050.07.23,0,4403
+WR-Chhatisgarh-Run-of-River_EP,2050.07.23,0,39
+WR-Chhatisgarh-RoR-with Pondage_EP,2050.07.23,0,117
+WR-Chhatisgarh-Storage_EP,2050.07.23,0,756
+WR-Goa-Run-of-River_EP,2050.07.23,0,39
+WR-Goa-RoR-with Pondage_EP,2050.07.23,0,117
+WR-Goa-Storage_EP,2050.07.23,0,756
+WR-Gujarat-Run-of-River_EP,2050.07.23,0,39
+WR-Gujarat-RoR-with Pondage_EP,2050.07.23,0,117
+WR-Gujarat-Storage_EP,2050.07.23,0,756
+WR-MadhyaPradesh-Run-of-River_EP,2050.07.23,0,39
+WR-MadhyaPradesh-RoR-with Pondage_EP,2050.07.23,0,117
+WR-MadhyaPradesh-Storage_EP,2050.07.23,0,756
+WR-Maharashtra-Run-of-River_EP,2050.07.23,0,39
+WR-Maharashtra-RoR-with Pondage_EP,2050.07.23,0,117
+WR-Maharashtra-Storage_EP,2050.07.23,0,756
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2050.07.23,0,436
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2050.07.23,0,257
+SR-AndhraPradeshandTelangana-Storage_EP,2050.07.23,0,3432
+SR-Karnataka-Run-of-River_EP,2050.07.23,0,436
+SR-Karnataka-RoR-with Pondage_EP,2050.07.23,0,257
+SR-Karnataka-Storage_EP,2050.07.23,0,3432
+SR-Kerala-Run-of-River_EP,2050.07.23,0,436
+SR-Kerala-RoR-with Pondage_EP,2050.07.23,0,257
+SR-Kerala-Storage_EP,2050.07.23,0,3432
+SR-Puducherry-Run-of-River_EP,2050.07.23,0,436
+SR-Puducherry-RoR-with Pondage_EP,2050.07.23,0,257
+SR-Puducherry-Storage_EP,2050.07.23,0,3432
+SR-Tamilnadu-Run-of-River_EP,2050.07.23,0,436
+SR-Tamilnadu-RoR-with Pondage_EP,2050.07.23,0,257
+SR-Tamilnadu-Storage_EP,2050.07.23,0,3432
+ER-Bihar-Run-of-River_EP,2050.07.23,0,68
+ER-Bihar-RoR-with Pondage_EP,2050.07.23,0,2202
+ER-Bihar-Storage_EP,2050.07.23,0,1343
+ER-Jharkhand-Run-of-River_EP,2050.07.23,0,171
+ER-Jharkhand-RoR-with Pondage_EP,2050.07.23,0,68
+ER-Jharkhand-Storage_EP,2050.07.23,0,2202
+ER-Odisha-Run-of-River_EP,2050.07.23,0,845
+ER-Odisha-RoR-with Pondage_EP,2050.07.23,0,171
+ER-Odisha-Storage_EP,2050.07.23,0,68
+ER-Sikkim-Run-of-River_EP,2050.07.23,0,1343
+ER-Sikkim-RoR-with Pondage_EP,2050.07.23,0,845
+ER-Sikkim-Storage_EP,2050.07.23,0,171
+ER-WestBengal-Run-of-River_EP,2050.07.23,0,2202
+ER-WestBengal-RoR-with Pondage_EP,2050.07.23,0,1343
+ER-WestBengal-Storage_EP,2050.07.23,0,845
+NER-ArunachalPradesh-Run-of-River_EP,2050.07.23,0,122
+NER-ArunachalPradesh-RoR-with Pondage_EP,2050.07.23,0,345
+NER-ArunachalPradesh-Storage_EP,2050.07.23,0,311
+NER-Assam-Run-of-River_EP,2050.07.23,0,122
+NER-Assam-RoR-with Pondage_EP,2050.07.23,0,345
+NER-Assam-Storage_EP,2050.07.23,0,311
+NER-Manipur-Run-of-River_EP,2050.07.23,0,122
+NER-Manipur-RoR-with Pondage_EP,2050.07.23,0,345
+NER-Manipur-Storage_EP,2050.07.23,0,311
+NER-Meghalaya-Run-of-River_EP,2050.07.23,0,122
+NER-Meghalaya-RoR-with Pondage_EP,2050.07.23,0,345
+NER-Meghalaya-Storage_EP,2050.07.23,0,311
+NER-Mizoram-Run-of-River_EP,2050.07.23,0,122
+NER-Mizoram-RoR-with Pondage_EP,2050.07.23,0,345
+NER-Mizoram-Storage_EP,2050.07.23,0,311
+NER-Nagaland-Run-of-River_EP,2050.07.23,0,122
+NER-Nagaland-RoR-with Pondage_EP,2050.07.23,0,345
+NER-Nagaland-Storage_EP,2050.07.23,0,311
+NER-Tripura-Run-of-River_EP,2050.07.23,0,122
+NER-Tripura-RoR-with Pondage_EP,2050.07.23,0,345
+NER-Tripura-Storage_EP,2050.07.23,0,311
+NR-Chandigarh-Run-of-River_EP,2050.10.22,0,1856
+NR-Chandigarh-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-Chandigarh-Storage_EP,2050.10.22,0,2125
+NR-Delhi-Run-of-River_EP,2050.10.22,0,1856
+NR-Delhi-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-Delhi-Storage_EP,2050.10.22,0,2125
+NR-Haryana-Run-of-River_EP,2050.10.22,0,1856
+NR-Haryana-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-Haryana-Storage_EP,2050.10.22,0,2125
+NR-HimachalPradesh-Run-of-River_EP,2050.10.22,0,1856
+NR-HimachalPradesh-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-HimachalPradesh-Storage_EP,2050.10.22,0,2125
+NR-JammuandKashmir-Run-of-River_EP,2050.10.22,0,1856
+NR-JammuandKashmir-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-JammuandKashmir-Storage_EP,2050.10.22,0,2125
+NR-Punjab-Run-of-River_EP,2050.10.22,0,1856
+NR-Punjab-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-Punjab-Storage_EP,2050.10.22,0,2125
+NR-Rajasthan-Run-of-River_EP,2050.10.22,0,1856
+NR-Rajasthan-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-Rajasthan-Storage_EP,2050.10.22,0,2125
+NR-Uttarakhand-Run-of-River_EP,2050.10.22,0,1856
+NR-Uttarakhand-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-Uttarakhand-Storage_EP,2050.10.22,0,2125
+NR-UttarPradesh-Run-of-River_EP,2050.10.22,0,1856
+NR-UttarPradesh-RoR-with Pondage_EP,2050.10.22,0,1856
+NR-UttarPradesh-Storage_EP,2050.10.22,0,2125
+WR-Chhatisgarh-Run-of-River_EP,2050.10.22,0,129
+WR-Chhatisgarh-RoR-with Pondage_EP,2050.10.22,0,387
+WR-Chhatisgarh-Storage_EP,2050.10.22,0,2505
+WR-Goa-Run-of-River_EP,2050.10.22,0,129
+WR-Goa-RoR-with Pondage_EP,2050.10.22,0,387
+WR-Goa-Storage_EP,2050.10.22,0,2505
+WR-Gujarat-Run-of-River_EP,2050.10.22,0,129
+WR-Gujarat-RoR-with Pondage_EP,2050.10.22,0,387
+WR-Gujarat-Storage_EP,2050.10.22,0,2505
+WR-MadhyaPradesh-Run-of-River_EP,2050.10.22,0,129
+WR-MadhyaPradesh-RoR-with Pondage_EP,2050.10.22,0,387
+WR-MadhyaPradesh-Storage_EP,2050.10.22,0,2505
+WR-Maharashtra-Run-of-River_EP,2050.10.22,0,129
+WR-Maharashtra-RoR-with Pondage_EP,2050.10.22,0,387
+WR-Maharashtra-Storage_EP,2050.10.22,0,2505
+SR-AndhraPradeshandTelangana-Run-of-River_EP,2050.10.22,0,682
+SR-AndhraPradeshandTelangana-RoR-with Pondage_EP,2050.10.22,0,402
+SR-AndhraPradeshandTelangana-Storage_EP,2050.10.22,0,5370
+SR-Karnataka-Run-of-River_EP,2050.10.22,0,682
+SR-Karnataka-RoR-with Pondage_EP,2050.10.22,0,402
+SR-Karnataka-Storage_EP,2050.10.22,0,5370
+SR-Kerala-Run-of-River_EP,2050.10.22,0,682
+SR-Kerala-RoR-with Pondage_EP,2050.10.22,0,402
+SR-Kerala-Storage_EP,2050.10.22,0,5370
+SR-Puducherry-Run-of-River_EP,2050.10.22,0,682
+SR-Puducherry-RoR-with Pondage_EP,2050.10.22,0,402
+SR-Puducherry-Storage_EP,2050.10.22,0,5370
+SR-Tamilnadu-Run-of-River_EP,2050.10.22,0,682
+SR-Tamilnadu-RoR-with Pondage_EP,2050.10.22,0,402
+SR-Tamilnadu-Storage_EP,2050.10.22,0,5370
+ER-Bihar-Run-of-River_EP,2050.10.22,0,59
+ER-Bihar-RoR-with Pondage_EP,2050.10.22,0,1933
+ER-Bihar-Storage_EP,2050.10.22,0,1179
+ER-Jharkhand-Run-of-River_EP,2050.10.22,0,143
+ER-Jharkhand-RoR-with Pondage_EP,2050.10.22,0,59
+ER-Jharkhand-Storage_EP,2050.10.22,0,1933
+ER-Odisha-Run-of-River_EP,2050.10.22,0,742
+ER-Odisha-RoR-with Pondage_EP,2050.10.22,0,143
+ER-Odisha-Storage_EP,2050.10.22,0,59
+ER-Sikkim-Run-of-River_EP,2050.10.22,0,1179
+ER-Sikkim-RoR-with Pondage_EP,2050.10.22,0,742
+ER-Sikkim-Storage_EP,2050.10.22,0,143
+ER-WestBengal-Run-of-River_EP,2050.10.22,0,1933
+ER-WestBengal-RoR-with Pondage_EP,2050.10.22,0,1179
+ER-WestBengal-Storage_EP,2050.10.22,0,742
+NER-ArunachalPradesh-Run-of-River_EP,2050.10.22,0,102
+NER-ArunachalPradesh-RoR-with Pondage_EP,2050.10.22,0,289
+NER-ArunachalPradesh-Storage_EP,2050.10.22,0,260
+NER-Assam-Run-of-River_EP,2050.10.22,0,102
+NER-Assam-RoR-with Pondage_EP,2050.10.22,0,289
+NER-Assam-Storage_EP,2050.10.22,0,260
+NER-Manipur-Run-of-River_EP,2050.10.22,0,102
+NER-Manipur-RoR-with Pondage_EP,2050.10.22,0,289
+NER-Manipur-Storage_EP,2050.10.22,0,260
+NER-Meghalaya-Run-of-River_EP,2050.10.22,0,102
+NER-Meghalaya-RoR-with Pondage_EP,2050.10.22,0,289
+NER-Meghalaya-Storage_EP,2050.10.22,0,260
+NER-Mizoram-Run-of-River_EP,2050.10.22,0,102
+NER-Mizoram-RoR-with Pondage_EP,2050.10.22,0,289
+NER-Mizoram-Storage_EP,2050.10.22,0,260
+NER-Nagaland-Run-of-River_EP,2050.10.22,0,102
+NER-Nagaland-RoR-with Pondage_EP,2050.10.22,0,289
+NER-Nagaland-Storage_EP,2050.10.22,0,260
+NER-Tripura-Run-of-River_EP,2050.10.22,0,102
+NER-Tripura-RoR-with Pondage_EP,2050.10.22,0,289
+NER-Tripura-Storage_EP,2050.10.22,0,260
