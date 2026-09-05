@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Electrified rail-based energy storage code"
+type: software
+authors:
+  - family-names: "Mu"
+    given-names: "Xitong"
+    orcid: "https://orcid.org/0009-0006-6402-6703"
+version: "1.0.0"
+date-released: "2026-09-05"
+repository-code: "https://github.com/MBTMAX/Electrified-Rail-based-Energy-Storage"
